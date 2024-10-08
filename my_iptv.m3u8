@@ -3,11 +3,20 @@
 #EXTINF:-1,ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1,TELERADYO 
-https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-
 #EXTINF:-1,TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+
+#EXTINF:-1,TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1,DZRH News TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+
+#EXTINF:-1,One News
+https://bit.ly/3V39Bce
+
+#EXTINF:-1,Super Radyo DZBB
+https://tinyurl.com/RadyoDZBB
 
 #EXTINF:-1,CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
@@ -17,6 +26,9 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1,MYX Philippines (720p)
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1,Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -33,5 +45,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1,Cartoon Network Southeast Asia (1080p)
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1,NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+
