@@ -324,11 +324,17 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/golfchannel.png", Golf Channel Server 2 
 http://streamsy.online:2999/live/juanv/04bodwaga0/138.m3u8
 
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/masn.png", MASN 
+http://streamsy.online:2999/live/juanv/04bodwaga0/1615.m3u8
+
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mlbnetwork.png", MLB Network Server 1 
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mlbnetwork.png", MLB Network Server 2 
 http://streamsy.online:2999/live/juanv/04bodwaga0/145.m3u8
+
+#EXTINF:-1 tvg-id="MSG.us" tvg-name="MSG" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/msg.png", MSG 
+http://streamsy.online:2999/live/juanv/04bodwaga0/287.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nbatv.png", NBA TV Server 1 
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
