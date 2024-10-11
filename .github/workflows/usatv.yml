@@ -1,8 +1,8 @@
-name: Fetch USATV M3U8
+name: Fetch USATV Channels M3U8
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 16 * * *'  # This runs at 12:00 AM PHT (UTC+8)
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
 
       - name: Download USATV M3U8 file
         run: |
-          curl -fSL "https://my-iptv.pigzilla-012.workers.dev/" -o usatv.m3u8
+          curl -fSL "https://usatv.steinxborg.workers.dev/" -o usatv.m3u8
 
       - name: Log the downloaded file details
         run: |
