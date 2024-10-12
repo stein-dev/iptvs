@@ -2,7 +2,7 @@ name: Fetch DaddyLive Schedule Channels M3U8
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'  # Runs at 12:00 AM and 12:00 PM UTC
+    - cron: '0 16,22,4,10 * * *'  # Runs at 12 AM, 6 AM, 12 PM, and 6 PM PHT (UTC+8)
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 jobs:
