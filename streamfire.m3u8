@@ -1,605 +1,806 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="2039" tvg-name="A&E" tvg-logo="https://stfire.app/images/channel_imgs/211223103829ae.png",A&E
-http://stream.streamfire.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozMiBBTSZoYXNoX3ZhbHVlPWFtWFAwcDZ1Y0Y3WmdhdENvd0UvNFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1MjkxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ae.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToxNyBBTSZoYXNoX3ZhbHVlPTZ4TlN1US9sQTZ4bnJMdnV1Y2VhYnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI3Nzg5Mg==
 
 #EXTINF:-1 tvg-id="1476" tvg-name="ABC" tvg-logo="https://stfire.app/images/channel_imgs/280123080342abc.png",ABC
-http://stream.streamfire.live:8081/live/us-abc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozMyBBTSZoYXNoX3ZhbHVlPUlITkE1VmdrZGxnYkFzR2pKSVdrZWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1MzI3OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-abc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToxOCBBTSZoYXNoX3ZhbHVlPVVuZnk1QlFyRjhDN01rYXhpeXJuaHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI3ODI1Mg==
 
 #EXTINF:-1 tvg-id="2100" tvg-name="ABC News" tvg-logo="https://stfire.app/images/channel_imgs/211223120750ABC_News2021.png",ABC News
-http://stream.streamfire.live:8081/live/us-abc-news.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozMyBBTSZoYXNoX3ZhbHVlPWVrUjdvY1lYck5sOUExb2wzQjdnWFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1MzU3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-abc-news.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToxOCBBTSZoYXNoX3ZhbHVlPU1penVPMzBHWmZ2d0V3Q2ZmRGh6ZGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI3ODY3Nw==
 
 #EXTINF:-1 tvg-id="874" tvg-name="Acc Network" tvg-logo="https://stfire.app/images/channel_imgs/051022080846ACC_ESPN.png",Acc Network
-http://stream.streamfire.live:8081/live/us-accnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozMyBBTSZoYXNoX3ZhbHVlPWcrdjZ1T21NN0EwZ1dlc0YwcHJmYlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1Mzg5MQ==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-accnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToxOSBBTSZoYXNoX3ZhbHVlPTFMRkhHQit0Ymw4Ky9TTG1FV0pIQ0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI3OTA2Nw==
 
 #EXTINF:-1 tvg-id="2072" tvg-name="AMC" tvg-logo="https://stfire.app/images/channel_imgs/211223112021amc.png",AMC
-http://stream.streamfire.live:8081/live/us-amc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNCBBTSZoYXNoX3ZhbHVlPWNJYlEwekdkanVTbGRObk8ydXRuZ2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NDE4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-amc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToxOSBBTSZoYXNoX3ZhbHVlPUsxRndlcDlrM0JCb21UYWNScXI2VWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI3OTQ4Ng==
 
 #EXTINF:-1 tvg-id="2093" tvg-name="Animal Planet" tvg-logo="https://stfire.app/images/channel_imgs/211223114717Animal_Planet_2018.png",Animal Planet
-http://stream.streamfire.live:8081/live/us-animalplanet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNCBBTSZoYXNoX3ZhbHVlPUlCNUo2UnZuV29PdkZRWUJIanB0MlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NDUxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-animalplanet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToxOSBBTSZoYXNoX3ZhbHVlPWZnN3BoYmNtaUZwTndrTEswSUV3eGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI3OTc3Mg==
 
 #EXTINF:-1 tvg-id="2040" tvg-name="AXS TV" tvg-logo="https://stfire.app/images/channel_imgs/211223104950AXS_TV.png",AXS TV
-http://stream.streamfire.live:8081/live/us-axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNCBBTSZoYXNoX3ZhbHVlPXpwVGtDc1RoOGhUQ2I3Y0dwM3E2WlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NDkwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-axs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMCBBTSZoYXNoX3ZhbHVlPXdFTy9LOGdBZURYYlI1S1ZCYkFxRFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MDA4Nw==
 
 #EXTINF:-1 tvg-id="1402" tvg-name="Bally Sports Detroit" tvg-logo="https://stfire.app/images/channel_imgs/130123061857Bally_Sports_Detroit_logo.svg.png",Bally Sports Detroit
-http://stream.streamfire.live:8081/live/us-ballysports-detroit.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNSBBTSZoYXNoX3ZhbHVlPTl1NjR1QXlZaXpRMEI3NElPNEtjWlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NTE5Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-detroit.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMCBBTSZoYXNoX3ZhbHVlPVdDYTZsY2kzQ2N4ejU1TGZXYmQ2Z0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MDQ0MQ==
 
 #EXTINF:-1 tvg-id="1403" tvg-name="Bally Sports Florida" tvg-logo="https://stfire.app/images/channel_imgs/130123061943download.png",Bally Sports Florida
-http://stream.streamfire.live:8081/live/us-ballysports-florida.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNSBBTSZoYXNoX3ZhbHVlPVhOaDlZcXphRktlZEV5M0VnUDhQSmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NTUxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-florida.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMCBBTSZoYXNoX3ZhbHVlPVViZ0lVaGk3Rnc5Z1Rka1VTMldxbHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MDczMg==
 
 #EXTINF:-1 tvg-id="1935" tvg-name="Bally Sports Great Lakes" tvg-logo="https://stfire.app/images/channel_imgs/060923021125Bally_Sports_Great_Lakes_2021.png",Bally Sports Great Lakes
-http://stream.streamfire.live:8081/live/us-ballysports-greatlakes.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNSBBTSZoYXNoX3ZhbHVlPTFzNkNVZGxLaXlEZ3NjMzBJWDF4ZHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NTkyMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-greatlakes.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMSBBTSZoYXNoX3ZhbHVlPWFCblA2QzJOMWZvUVNkSXJ4Nk5BWVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MTAzMg==
 
 #EXTINF:-1 tvg-id="1411" tvg-name="Bally Sports Indiana" tvg-logo="https://stfire.app/images/channel_imgs/130123062227indy.png",Bally Sports Indiana
-http://stream.streamfire.live:8081/live/us-ballysports-indiana.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNiBBTSZoYXNoX3ZhbHVlPWEzZmJhbThUbWEvRlE0N003Z3NlRGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NjIwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-indiana.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMSBBTSZoYXNoX3ZhbHVlPUhiajJSWEVyRXpPd29xRG96ZjloSFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MTQyMg==
 
 #EXTINF:-1 tvg-id="1934" tvg-name="Bally Sports Kansas City" tvg-logo="https://stfire.app/images/channel_imgs/300323085439kansas.png",Bally Sports Kansas City
-http://stream.streamfire.live:8081/live/us-ballysports-kansascity.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNiBBTSZoYXNoX3ZhbHVlPVhNK0tkSUwvS3czNFZSR3haNDI1WHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NjU1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-kansascity.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMSBBTSZoYXNoX3ZhbHVlPVgxdzFQQkhzQ0VWWUx3RmNqNmRnblE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MTcxNw==
 
 #EXTINF:-1 tvg-id="2125" tvg-name="Bally Sports Midwest" tvg-logo="https://stfire.app/images/channel_imgs/120724013915mid.png",Bally Sports Midwest
-http://stream.streamfire.live:8081/live/us-ballysports-midwest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNiBBTSZoYXNoX3ZhbHVlPTZtclIvcTVUMkJvQnlkMWY0RUhkMnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1Njg0Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-midwest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMiBBTSZoYXNoX3ZhbHVlPTZxcXRKMUE2azc0bTN4UFRvZHFTRmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MjA1MQ==
 
 #EXTINF:-1 tvg-id="1413" tvg-name="Bally Sports Neworleans" tvg-logo="https://stfire.app/images/channel_imgs/130123063219tiko.png",Bally Sports Neworleans
-http://stream.streamfire.live:8081/live/us-ballysports-neworleans.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNyBBTSZoYXNoX3ZhbHVlPW5tQzdSWGIrMVhTOHp0dE9SZ0UyNHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NzE1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-neworleans.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMiBBTSZoYXNoX3ZhbHVlPXkwd1owMTdPSFVyR1NvQnBBUllMM2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MjQ0Ng==
 
 #EXTINF:-1 tvg-id="1404" tvg-name="Bally Sports North" tvg-logo="https://stfire.app/images/channel_imgs/060923020601Bally_Sports_North_2021.png",Bally Sports North
-http://stream.streamfire.live:8081/live/us-ballysports-north.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNyBBTSZoYXNoX3ZhbHVlPWlISTErd0MybjNwcFlNM2pjcmZDckE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1NzQ3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-north.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMiBBTSZoYXNoX3ZhbHVlPTVSNExoL0ZNWE5JbUlwOWZvVVZWbEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4Mjc1Nw==
 
 #EXTINF:-1 tvg-id="1405" tvg-name="Bally Sports Ohio" tvg-logo="https://stfire.app/images/channel_imgs/130123063337Bally_Sports_Ohio_logo.svg.png",Bally Sports Ohio
-http://stream.streamfire.live:8081/live/us-ballysports-ohio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozNyBBTSZoYXNoX3ZhbHVlPXI5YkR3U1BpVUU0YXErV3JtMTVUaEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1Nzc4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-ohio.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMyBBTSZoYXNoX3ZhbHVlPVVjcTlqQk14VVlkWW8wNjQ1ZDJRY0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MzA1Ng==
 
 #EXTINF:-1 tvg-id="1414" tvg-name="Bally Sports Oklahoma" tvg-logo="https://stfire.app/images/channel_imgs/060923020807Bally_Sports_Oklahoma_2021.png",Bally Sports Oklahoma
-http://stream.streamfire.live:8081/live/us-ballysports-oklahoma.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozOCBBTSZoYXNoX3ZhbHVlPWx2aVdKdWI4a09uT3dxMjJnOTlBUkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1ODA2Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-oklahoma.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMyBBTSZoYXNoX3ZhbHVlPWhUaEpBaUw0WlRBVGxsbGJldGNQOGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MzM5Mg==
 
 #EXTINF:-1 tvg-id="1480" tvg-name="Bally Sports Socal" tvg-logo="https://stfire.app/images/channel_imgs/310123125508socall.png",Bally Sports Socal
-http://stream.streamfire.live:8081/live/us-ballysports-socal.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozOCBBTSZoYXNoX3ZhbHVlPWpKcnJKdWcrMUc2UE5xT1RTcUF5c0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1ODM4Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-socal.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyMyBBTSZoYXNoX3ZhbHVlPXgxYi83aFBNY0hML1VuR1FLbm16Snc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4MzcwNg==
 
 #EXTINF:-1 tvg-id="1941" tvg-name="Bally Sports South" tvg-logo="https://stfire.app/images/channel_imgs/070523113426Bally_Sports_South_2021.png",Bally Sports South
-http://stream.streamfire.live:8081/live/us-ballysports-south.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozOCBBTSZoYXNoX3ZhbHVlPUlodmtGTEhFdFdsTWE4dUtlS2pTSnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1ODY5Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-south.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNCBBTSZoYXNoX3ZhbHVlPXZaVUJkTjVPUUIwalU1bDRHdlhDRkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NDAxMg==
 
 #EXTINF:-1 tvg-id="1415" tvg-name="Bally Sports SouthEast" tvg-logo="https://stfire.app/images/channel_imgs/060923020841Bally_Sports_Southeast_2021.png",Bally Sports SouthEast
-http://stream.streamfire.live:8081/live/us-ballysports-southeast.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozOSBBTSZoYXNoX3ZhbHVlPUhiY0VMS3hkeWtvTWxTVEFaWTdYL2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1OTAwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-southeast.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNCBBTSZoYXNoX3ZhbHVlPWVPM0RkU2dLcWxybjJiZDBuVnRBa2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NDM5Nw==
 
 #EXTINF:-1 tvg-id="1420" tvg-name="Bally Sports SouthWest" tvg-logo="https://stfire.app/images/channel_imgs/060923020909Bally_Sports_Southwest_2021.png",Bally Sports SouthWest
-http://stream.streamfire.live:8081/live/us-ballysports-southwest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozOSBBTSZoYXNoX3ZhbHVlPWNtbEVLNVN4cGRZaDRxOXNOOGNHUnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1OTMxOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-southwest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNCBBTSZoYXNoX3ZhbHVlPVJEVmFZU3dHVGhQMjNTclpzemVBeUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NDgwMQ==
 
 #EXTINF:-1 tvg-id="1408" tvg-name="Bally Sports Sun" tvg-logo="https://stfire.app/images/channel_imgs/130123063604Bally_Sports_Sun.svg.png",Bally Sports Sun
-http://stream.streamfire.live:8081/live/us-ballysports-sun.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0NzozOSBBTSZoYXNoX3ZhbHVlPVlTOWJ6cXgwb2J0TlJvWFFlSnpKZXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA1OTcxOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-sun.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNSBBTSZoYXNoX3ZhbHVlPWFaRHJZb3lhUXhYMURIZzF6ME8ySUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NTEwMg==
 
 #EXTINF:-1 tvg-id="1410" tvg-name="Bally Sports West" tvg-logo="https://stfire.app/images/channel_imgs/130123063628Bally_sports_west_logo.svg.png",Bally Sports West
-http://stream.streamfire.live:8081/live/us-ballysports-west.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MCBBTSZoYXNoX3ZhbHVlPWI0WVZnV0VselA0M2hKcmVEdjVpYWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MDAwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-west.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNSBBTSZoYXNoX3ZhbHVlPXhFQnByWFdLZjQwZ2p1dThrMm5UdEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NTQwNw==
 
 #EXTINF:-1 tvg-id="1409" tvg-name="Bally Sports Wisconsin" tvg-logo="https://stfire.app/images/channel_imgs/130123063713wis.png",Bally Sports Wisconsin
-http://stream.streamfire.live:8081/live/us-ballysports-wisconsin.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MCBBTSZoYXNoX3ZhbHVlPS95czdtdzhwRnFmT0ZRSlI5ZmJIeHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MDMzMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ballysports-wisconsin.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNSBBTSZoYXNoX3ZhbHVlPXpGRWNpUnN4aVpJajRWam5aMHVJRFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NTcxNw==
 
 #EXTINF:-1 tvg-id="2138" tvg-name="BBC America" tvg-logo="https://stfire.app/images/channel_imgs/120724022617bbca.png",BBC America
-http://stream.streamfire.live:8081/live/us-bbcamerica.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MCBBTSZoYXNoX3ZhbHVlPURBMlVvQjhuT3Y1QnVWOTMvS0xKNUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MDYzOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bbcamerica.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNiBBTSZoYXNoX3ZhbHVlPVhIRVdGVmNEWjVSc0NSdG1vblZmSmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NjAyMg==
 
 #EXTINF:-1 tvg-id="1396" tvg-name="BBC ONE" tvg-logo="https://stfire.app/images/channel_imgs/191122010747bbcone.jpeg",BBC ONE
-http://stream.streamfire.live:8081/live/uk-bbc1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MSBBTSZoYXNoX3ZhbHVlPVF1L1h2QnRRQ2VCTW9MK0JVcllMa2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MTA0Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-bbc1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNiBBTSZoYXNoX3ZhbHVlPW1nN2hVYlM2WkR5UFl2NUtrSGd2VEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NjQ0Mg==
 
 #EXTINF:-1 tvg-id="2075" tvg-name="BBC Two" tvg-logo="https://stfire.app/images/channel_imgs/080424105720bbc2.png",BBC Two
-http://stream.streamfire.live:8081/live/uk-bbc2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MSBBTSZoYXNoX3ZhbHVlPUtteWFLWGV4WW5KekwzRGQzUFFuaUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MTM2Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-bbc2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNiBBTSZoYXNoX3ZhbHVlPU1pWXhPTktDZFBhM1ZYN1JzQllRK1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4Njg0Mg==
 
 #EXTINF:-1 tvg-id="2101" tvg-name="BBC World News" tvg-logo="https://stfire.app/images/channel_imgs/211223120832BBC_World_News_America_2022.png",BBC World News
-http://stream.streamfire.live:8081/live/us-bbc-world-news.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MSBBTSZoYXNoX3ZhbHVlPUZTc1NKcWo4OUg2SG1RTzVkSTVTUkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MTY2Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bbc-world-news.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNyBBTSZoYXNoX3ZhbHVlPVVvQThIVDNJZGlpVHVMRmMvdC82SXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NzE1MQ==
 
 #EXTINF:-1 tvg-id="415" tvg-name="Bein Sports" tvg-logo="https://stfire.app/images/channel_imgs/280922012825Bein_Sports.png",Bein Sports
-http://stream.streamfire.live:8081/live/us-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MSBBTSZoYXNoX3ZhbHVlPUNZNUZ6V0l0TDEzYk1vdUhCRjFDUVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MTk4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bein.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNyBBTSZoYXNoX3ZhbHVlPSt4Qzl2b002dnBkVFJIQ1BaL1RQQ1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4NzQ1Nw==
 
 #EXTINF:-1 tvg-id="2041" tvg-name="BET" tvg-logo="https://stfire.app/images/channel_imgs/211223105208BET_2021.png",BET
-http://stream.streamfire.live:8081/live/us-bet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MiBBTSZoYXNoX3ZhbHVlPTRZZmFUb0I0S2IyanRUTktrUEhDQ2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MjMxMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyNyBBTSZoYXNoX3ZhbHVlPVFrYzlqeEs4NEE1Y3RqeHRJallKNVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4Nzc2MQ==
 
 #EXTINF:-1 tvg-id="2137" tvg-name="Bet Her" tvg-logo="https://stfire.app/images/channel_imgs/120724022516bether.png",Bet Her
-http://stream.streamfire.live:8081/live/us-bether.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MiBBTSZoYXNoX3ZhbHVlPXJOenRlQTVVbHhsd2dOQ0lvb0ZiTUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MjkwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bether.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyOCBBTSZoYXNoX3ZhbHVlPVBHZlhteDV5Z3RUaGJ1T2hYTGFwdXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4ODA3Mg==
 
 #EXTINF:-1 tvg-id="876" tvg-name="Big Ten Network" tvg-logo="https://stfire.app/images/channel_imgs/221022033823bigten.png",Big Ten Network
-http://stream.streamfire.live:8081/live/us-bigten.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MyBBTSZoYXNoX3ZhbHVlPUlxMEhtODNzUEg4ZXBjUVlMUGhlS2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2MzMwMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bigten.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyOCBBTSZoYXNoX3ZhbHVlPTA5b1RvZ2orVkRHRGZmWjhIZXR3WXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4ODM3Nw==
 
 #EXTINF:-1 tvg-id="2102" tvg-name="Bloomberg" tvg-logo="https://stfire.app/images/channel_imgs/211223120901Bloomberg_2015.png",Bloomberg
-http://stream.streamfire.live:8081/live/us-bloomberg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0MyBBTSZoYXNoX3ZhbHVlPUJJUlFSWlkzNDRKYkx0MHp5RUtjK3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2Mzc1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bloomberg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyOCBBTSZoYXNoX3ZhbHVlPWJRWHcyZnpFM0w2WHhIZkdlM3QrRXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4ODY4Ng==
 
 #EXTINF:-1 tvg-id="2111" tvg-name="Boomerang" tvg-logo="https://stfire.app/images/channel_imgs/211223121439Boomerang_2015.png",Boomerang
-http://stream.streamfire.live:8081/live/us-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NCBBTSZoYXNoX3ZhbHVlPUVSMmllaFJOU0NMNUxtQzZJcWF1TkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NDEyNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-boomerang.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyOCBBTSZoYXNoX3ZhbHVlPWpsa25kQllpOFl1SzJSU1BxQis1L0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4ODk5Nw==
 
 #EXTINF:-1 tvg-id="2042" tvg-name="Bravo" tvg-logo="https://stfire.app/images/channel_imgs/211223105259Bravo_2017.png",Bravo
-http://stream.streamfire.live:8081/live/us-bravo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NCBBTSZoYXNoX3ZhbHVlPUovdkNBV25kQXVYSVBtUGhXZlMzVGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NDcyMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-bravo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyOSBBTSZoYXNoX3ZhbHVlPVlGQThZc09VcEhqU2R5REtPcnRjSVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4OTMwMg==
 
 #EXTINF:-1 tvg-id="2112" tvg-name="Cartoon Network" tvg-logo="https://stfire.app/images/channel_imgs/211223121511Cartoon_Network_2010.png",Cartoon Network
-http://stream.streamfire.live:8081/live/us-cartoonnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NSBBTSZoYXNoX3ZhbHVlPUd2RTEvM2NXZy9rNnZXTTlVc05kTkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NTA4Ng==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cartoonnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyOSBBTSZoYXNoX3ZhbHVlPUVPbGlLenZqWS94MzZzNkd0QXllMkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4OTYxMQ==
 
 #EXTINF:-1 tvg-id="2043" tvg-name="CBS" tvg-logo="https://stfire.app/images/channel_imgs/211223105358CBS.png",CBS
-http://stream.streamfire.live:8081/live/us-cbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NSBBTSZoYXNoX3ZhbHVlPTFlWHJLZ29BYldoNjl3aXI5Rno5NVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NTU3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MToyOSBBTSZoYXNoX3ZhbHVlPUtrekFmQmtEKys4UWJVOWFFZXFsOVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI4OTg5Nw==
 
 #EXTINF:-1 tvg-id="2103" tvg-name="CBS News" tvg-logo="https://stfire.app/images/channel_imgs/211223120949CBS_News_2020.png",CBS News
-http://stream.streamfire.live:8081/live/us-cbsnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NSBBTSZoYXNoX3ZhbHVlPS85Skhhdy9sRmdQY216TlFuUkN0aUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NTk3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cbsnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMCBBTSZoYXNoX3ZhbHVlPUJwaFNDOXRpWXNMNlpnby9WclZjY0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MDIzNg==
 
 #EXTINF:-1 tvg-id="416" tvg-name="CBS Sports" tvg-logo="https://stfire.app/images/channel_imgs/060923021415cbssports.png",CBS Sports
-http://stream.streamfire.live:8081/live/us-cbssportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NiBBTSZoYXNoX3ZhbHVlPXBtdTMvdFFqa0VyN3lqTGhvQmU4NXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NjI3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cbssportshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMCBBTSZoYXNoX3ZhbHVlPXZsZ1Y5K29EWFFuT1NJdWsyWmNNZFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MDY1Ng==
 
 #EXTINF:-1 tvg-id="1483" tvg-name="Celtic F.C" tvg-logo="https://stfire.app/images/channel_imgs/040223025641celtic.png",Celtic F.C
-http://stream.streamfire.live:8081/live/uk-celtic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NiBBTSZoYXNoX3ZhbHVlPTNlUDNYOFNjaWRzMDM0VTlUeENFekE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NjU4Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-celtic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMSBBTSZoYXNoX3ZhbHVlPTZTTVlROVZHUHdYUGZUWit6c3BqdWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MTA1Mg==
 
 #EXTINF:-1 tvg-id="78" tvg-name="Channel 4" tvg-logo="https://stfire.app/images/channel_imgs/080424110007channel4.jpeg",Channel 4
-http://stream.streamfire.live:8081/live/uk-channel4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NiBBTSZoYXNoX3ZhbHVlPUFGQWMrRGtBN0F4RFBRYjZkeENCR1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2Njk5Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-channel4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMSBBTSZoYXNoX3ZhbHVlPTFQS29GdFYvYW1lUW1ON0JTYzREeVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MTM2Nw==
 
 #EXTINF:-1 tvg-id="779" tvg-name="Channel 5" tvg-logo="https://stfire.app/images/channel_imgs/080424110041channel5.jpeg",Channel 5
-http://stream.streamfire.live:8081/live/uk-channel5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NyBBTSZoYXNoX3ZhbHVlPTdoQUZPY3J0dGxiYmRPcUJsdlJVbUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NzMwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-channel5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMSBBTSZoYXNoX3ZhbHVlPTVtUVdjVy9vcHE2Q0dtS09ZLzhOUlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MTc4Mg==
 
 #EXTINF:-1 tvg-id="2073" tvg-name="Cinemax" tvg-logo="https://stfire.app/images/channel_imgs/211223112101Cinemax_2016.png",Cinemax
-http://stream.streamfire.live:8081/live/us-cinemax.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0NyBBTSZoYXNoX3ZhbHVlPUI0eWVod1hJdm11UlovOFhSSmZXanc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2NzcxMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cinemax.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMiBBTSZoYXNoX3ZhbHVlPTdXc2g3K0RLV0VMb0RPQ1lsTVN5SUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MjE3Nw==
 
 #EXTINF:-1 tvg-id="2104" tvg-name="CNBC" tvg-logo="https://stfire.app/images/channel_imgs/211223121016CNBC_2023.png",CNBC
-http://stream.streamfire.live:8081/live/us-cnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0OCBBTSZoYXNoX3ZhbHVlPVNZY1NzSmRzK205U2NxWjU5ZmJWRWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2ODAxMQ==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMiBBTSZoYXNoX3ZhbHVlPW9xZ3pwYzN2NEUwSi85OTM1UEk5OGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MjQ3Mg==
 
 #EXTINF:-1 tvg-id="2105" tvg-name="CNN" tvg-logo="https://stfire.app/images/channel_imgs/211223121046cnn.png",CNN
-http://stream.streamfire.live:8081/live/us-cnn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0OCBBTSZoYXNoX3ZhbHVlPUNFN3piVCt4QndJOG4zTE9sanI1SVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2ODMzMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cnn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMiBBTSZoYXNoX3ZhbHVlPWh3QjVPSDdmN3lVUGx0NGhBVEFOOHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5Mjc4Mg==
 
 #EXTINF:-1 tvg-id="2044" tvg-name="Comedy Central" tvg-logo="https://stfire.app/images/channel_imgs/211223105440Comedy_Central_2018.png",Comedy Central
-http://stream.streamfire.live:8081/live/us-comedy-central.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0OCBBTSZoYXNoX3ZhbHVlPWg4dEh2L3E1R29qeVhrS0JaelMyTkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2ODczNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-comedy-central.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMyBBTSZoYXNoX3ZhbHVlPXJIeWVkWExta2p5ZThUNjFHZzgwbnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MzA5MQ==
 
 #EXTINF:-1 tvg-id="2045" tvg-name="Crime Investigation" tvg-logo="https://stfire.app/images/channel_imgs/211223105606crime.png",Crime Investigation
-http://stream.streamfire.live:8081/live/us-crime-investigation.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0OSBBTSZoYXNoX3ZhbHVlPWYwdFVhSUxuWDMrT1JhekhYM0kwRUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2OTE0Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-crime-investigation.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMyBBTSZoYXNoX3ZhbHVlPTBJYzRJM2t5T201VjZPdFM5YkFQcnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MzM5Nw==
 
 #EXTINF:-1 tvg-id="1942" tvg-name="Dazn 1" tvg-logo="https://stfire.app/images/channel_imgs/030623035505dazn1.png",Dazn 1
-http://stream.streamfire.live:8081/live/uk-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0OSBBTSZoYXNoX3ZhbHVlPWhtWXNmUk12a0RwM05ZRG5YSjR0Ymc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2OTQ0Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-dazn1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozMyBBTSZoYXNoX3ZhbHVlPS95YjNnd1VFSGE2ak1uOXU1Q3J5NXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5MzcwMg==
 
 #EXTINF:-1 tvg-id="2047" tvg-name="Destination America" tvg-logo="https://stfire.app/images/channel_imgs/211223110019desti.png",Destination America
-http://stream.streamfire.live:8081/live/us-destination-america.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo0OSBBTSZoYXNoX3ZhbHVlPUJyanIrM3JFU2tMQkRwb3FJUVhJZWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA2OTc1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-destination-america.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNCBBTSZoYXNoX3ZhbHVlPTIrR3dPdHBRbS9yZVE2TFBzVDIzdHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NDAzMg==
 
 #EXTINF:-1 tvg-id="2094" tvg-name="Discovery" tvg-logo="https://stfire.app/images/channel_imgs/211223114752Discovery_Channel_2019.png",Discovery
-http://stream.streamfire.live:8081/live/us-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MCBBTSZoYXNoX3ZhbHVlPVRybXdwdmZFUUo1ZVFlRk4ybEM4Unc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MDA3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNCBBTSZoYXNoX3ZhbHVlPUZCbHJwZ3dWblo1NWVGQ2o4cXBaNlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NDQzMw==
 
 #EXTINF:-1 tvg-id="878" tvg-name="Discovery" tvg-logo="https://stfire.app/images/channel_imgs/080424110527diss.png",Discovery
-http://stream.streamfire.live:8081/live/uk-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MCBBTSZoYXNoX3ZhbHVlPXZ3UVIyaGdZUk9SV3JycHNPKy9nSlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MDM2Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNCBBTSZoYXNoX3ZhbHVlPTgxZVFEVnQxNmdwSDRnUTB4bjVuSVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NDcyNg==
 
 #EXTINF:-1 tvg-id="2113" tvg-name="Disney Channel" tvg-logo="https://stfire.app/images/channel_imgs/211223121546Disney_channel_2019.png",Disney Channel
-http://stream.streamfire.live:8081/live/us-disney.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MCBBTSZoYXNoX3ZhbHVlPTJ6alNzWkEwVHdFeXhoSXY2VTRWVGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MDY3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-disney.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNSBBTSZoYXNoX3ZhbHVlPUJaeTdBM3JPYmpndlBPZFI5ZldUdlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NTAzMg==
 
 #EXTINF:-1 tvg-id="2114" tvg-name="Disney XD" tvg-logo="https://stfire.app/images/channel_imgs/211223121615Logo_disney_xd.png",Disney XD
-http://stream.streamfire.live:8081/live/us-disneyxd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MCBBTSZoYXNoX3ZhbHVlPTcxaEZuRWUvUTYxeWdqaW53THdLWnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MDk4MQ==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-disneyxd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNSBBTSZoYXNoX3ZhbHVlPTIxbUVqUWIvU0JTTFVISUF2QkVmOWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NTM1Nw==
 
 #EXTINF:-1 tvg-id="2135" tvg-name="E! Entertainment" tvg-logo="https://stfire.app/images/channel_imgs/120724022202eent.png",E! Entertainment
-http://stream.streamfire.live:8081/live/us-eentertainment.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MSBBTSZoYXNoX3ZhbHVlPWEyVm45SVhNQktFUDBUZ2VxRGcxaWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MTI3Ng==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-eentertainment.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNSBBTSZoYXNoX3ZhbHVlPWdaMzNZaDh0NXhFRVgyTSs2V3VHdWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NTY1Mg==
 
 #EXTINF:-1 tvg-id="101" tvg-name="ESPN" tvg-logo="https://stfire.app/images/channel_imgs/060923021511ESPN.png",ESPN
-http://stream.streamfire.live:8081/live/us-espn-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MSBBTSZoYXNoX3ZhbHVlPS9HQkIvZUZ5NkN4eW9TWkNlL0NWbEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MTYwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-espn-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNiBBTSZoYXNoX3ZhbHVlPUlQVFRWaUdSdTJQYVF1WVZ0cE5nQVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NjA2Ng==
 
 #EXTINF:-1 tvg-id="104" tvg-name="ESPN 2" tvg-logo="https://stfire.app/images/channel_imgs/060923021520ESPN2.png",ESPN 2
-http://stream.streamfire.live:8081/live/us-espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MSBBTSZoYXNoX3ZhbHVlPUdSTGdzU3pxOVlhOERCSXF4TXM0SFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MTkwMQ==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNiBBTSZoYXNoX3ZhbHVlPTdrUGtnUWt1T09aYlFiNHJrbFlKOFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NjM2Ng==
 
 #EXTINF:-1 tvg-id="2106" tvg-name="ESPN News" tvg-logo="https://stfire.app/images/channel_imgs/211223121205ESPNEWS_logo.png",ESPN News
-http://stream.streamfire.live:8081/live/us-espnnewshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MiBBTSZoYXNoX3ZhbHVlPUQ0czdXZnMwVGlvMVYxQVhNL1BYUWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MjIwMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-espnnewshd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNiBBTSZoYXNoX3ZhbHVlPXdhNENKVWpTaXJwYTRkaXN3Q1ZHOVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NjY3Mg==
 
 #EXTINF:-1 tvg-id="414" tvg-name="ESPN U" tvg-logo="https://stfire.app/images/channel_imgs/041017012253espnu.png",ESPN U
-http://stream.streamfire.live:8081/live/us-espnuhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MiBBTSZoYXNoX3ZhbHVlPUtUMXpTRHZFMkNKU2dTWGUxK05RY0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MjUxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-espnuhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNiBBTSZoYXNoX3ZhbHVlPUdRNm9ybzFKWGE0cWlsZWNleUhudUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5Njk5Mg==
 
 #EXTINF:-1 tvg-id="108" tvg-name="Euro Sport 1" tvg-logo="https://stfire.app/images/channel_imgs/181022103344Eurosport_1_2022.png",Euro Sport 1
-http://stream.streamfire.live:8081/live/uk-eurosport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MiBBTSZoYXNoX3ZhbHVlPTh5Z1ptZzd3RXp2eENTWlVRN2c3L0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MjgyNg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-eurosport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNyBBTSZoYXNoX3ZhbHVlPTJNT0gzblhHU3ZUR0E1L25jVVFJYUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NzI4Nw==
 
 #EXTINF:-1 tvg-id="109" tvg-name="Euro Sport 2" tvg-logo="https://stfire.app/images/channel_imgs/181022103152Eurosport_2_2022.png",Euro Sport 2
-http://stream.streamfire.live:8081/live/uk-eurosport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MyBBTSZoYXNoX3ZhbHVlPWxUS3dmZDJjUDkvMWdySldaWElxTFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MzIzNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-eurosport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNyBBTSZoYXNoX3ZhbHVlPXVteUVvQjZqcHVvZGI5bVc4ZEw2ZXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NzYwMg==
 
 #EXTINF:-1 tvg-id="2136" tvg-name="Fishing Network" tvg-logo="https://stfire.app/images/channel_imgs/120724022330fish.png",Fishing Network
-http://stream.streamfire.live:8081/live/us-fishingnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1MyBBTSZoYXNoX3ZhbHVlPXViUzVOakg2aXp1b1N4TlJCaFRwT3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3MzY2Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-fishingnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozNyBBTSZoYXNoX3ZhbHVlPVFmcjh4dDRBUzZCMldSYlJ6T2FrY2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5NzkwMg==
 
 #EXTINF:-1 tvg-id="2092" tvg-name="Food Network" tvg-logo="https://stfire.app/images/channel_imgs/211223114541FoodNetLogo.png",Food Network
-http://stream.streamfire.live:8081/live/us-foodnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NCBBTSZoYXNoX3ZhbHVlPUt4WExsNlhWdHJrbDBhL2s4V3BXdHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NDA1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-foodnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOCBBTSZoYXNoX3ZhbHVlPTN3OC9XeDNOUlR2ZDNlUGczTzMzL3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5ODIwNg==
 
 #EXTINF:-1 tvg-id="2048" tvg-name="FOX" tvg-logo="https://stfire.app/images/channel_imgs/211223110106Fox_2019.png",FOX
-http://stream.streamfire.live:8081/live/us-fox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NCBBTSZoYXNoX3ZhbHVlPUR2LytCN0JWMEZnYXlmTDFLTm96d3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NDM2Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-fox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOCBBTSZoYXNoX3ZhbHVlPUpPb1pYREt5aEdIUCs1cWxKR3pmRXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5ODUxNw==
 
 #EXTINF:-1 tvg-id="2107" tvg-name="Fox Business" tvg-logo="https://stfire.app/images/channel_imgs/211223121233FOXBusiness_2019.png",Fox Business
-http://stream.streamfire.live:8081/live/us-foxbusiness.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NCBBTSZoYXNoX3ZhbHVlPXdDYlFrenQ3QTZCUjk2UEZTbDZTZHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NDY2Ng==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-foxbusiness.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOCBBTSZoYXNoX3ZhbHVlPVJVbkxQYkJubUJkOHhmOGFYN0RWSFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5ODgyMg==
 
 #EXTINF:-1 tvg-id="2108" tvg-name="Fox News" tvg-logo="https://stfire.app/images/channel_imgs/211223121302foxnews.png",Fox News
-http://stream.streamfire.live:8081/live/us-foxnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NCBBTSZoYXNoX3ZhbHVlPU9kelljUXE3YzFoOGpUL1dZRWpIaXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NDk3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-foxnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOSBBTSZoYXNoX3ZhbHVlPTB2YVJzbDh5S0wvS0Y2Y2dpeDJDNnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5OTE0Mg==
 
 #EXTINF:-1 tvg-id="120" tvg-name="Fox Sports 1" tvg-logo="https://stfire.app/images/channel_imgs/060923021714FS1_2016.png",Fox Sports 1
-http://stream.streamfire.live:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NSBBTSZoYXNoX3ZhbHVlPWZKb01LVTM4RUN0eStTeWxsRzc0bXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NTI5Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-foxsports1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOSBBTSZoYXNoX3ZhbHVlPUhvMTNPWjllMUJjRjFKOWJkNUpCM1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5OTQ1Mg==
 
 #EXTINF:-1 tvg-id="121" tvg-name="Fox Sports 2" tvg-logo="https://stfire.app/images/channel_imgs/060923021819fs2.png",Fox Sports 2
-http://stream1.streamfire.live:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NSBBTSZoYXNoX3ZhbHVlPXVJMkN4Z2ZzWUdlVmUrSDh2QWNiVXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NTU5Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream1.streamfire.live:8081/live/us-foxsports2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTozOSBBTSZoYXNoX3ZhbHVlPUtGNzlzT1ppRmZNL1VRbW15ejVTOFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDI5OTg0Nw==
 
 #EXTINF:-1 tvg-id="2049" tvg-name="Freeform" tvg-logo="https://stfire.app/images/channel_imgs/211223110153Freeform_2022.png",Freeform
-http://stream.streamfire.live:8081/live/us-freeform.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NSBBTSZoYXNoX3ZhbHVlPWg2YkZMTDU4UTluNUs0djBUWXMrWHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NTk5Ng==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-freeform.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MCBBTSZoYXNoX3ZhbHVlPSsxOGlVZGkyeFhEeXJBVkJQSnV3THc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMDE3Mg==
 
 #EXTINF:-1 tvg-id="2050" tvg-name="FX" tvg-logo="https://stfire.app/images/channel_imgs/211223110221FX2022.png",FX
-http://stream.streamfire.live:8081/live/us-fx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NiBBTSZoYXNoX3ZhbHVlPStTc216WUZKMVpzR1RUS0h4UXRtVHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NjI4Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-fx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MCBBTSZoYXNoX3ZhbHVlPURTVUdNelJ1Rmc1aWhPSks3Y2Mzemc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMDU2Nw==
 
 #EXTINF:-1 tvg-id="2133" tvg-name="FXM" tvg-logo="https://stfire.app/images/channel_imgs/120724021842FX_Movie_Channel.png",FXM
-http://stream.streamfire.live:8081/live/us-fxm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NiBBTSZoYXNoX3ZhbHVlPWozbkJhbXFBeUNJZE1Gb3gwQnhUU1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NjYxMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-fxm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MCBBTSZoYXNoX3ZhbHVlPUs3a1hmSDQzdDFkSkgyWUM5dFZiQkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMDk4Mg==
 
 #EXTINF:-1 tvg-id="2051" tvg-name="FXX" tvg-logo="https://stfire.app/images/channel_imgs/211223110251FXX.png",FXX
-http://stream.streamfire.live:8081/live/us-fxx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NiBBTSZoYXNoX3ZhbHVlPUw0WGRKVy8zVjFaKzZpbldkSG1jS3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NjkyMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-fxx.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MSBBTSZoYXNoX3ZhbHVlPVp6cnpOYkdGVm9XcExDQnU3ZUlNREE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMTI2Nw==
 
 #EXTINF:-1 tvg-id="872" tvg-name="Game Show Network" tvg-logo="https://stfire.app/images/channel_imgs/080424110204game.png",Game Show Network
-http://stream.streamfire.live:8081/live/us-gameshownetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NyBBTSZoYXNoX3ZhbHVlPUpHa3oxTFBCNEFwQ05uWlpzK3A0SFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NzIxNg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-gameshownetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MSBBTSZoYXNoX3ZhbHVlPXF0bVZ5dlhiVzlDdE45QnM3bVowd3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMTU1Mg==
 
 #EXTINF:-1 tvg-id="1790" tvg-name="Gold" tvg-logo="https://stfire.app/images/channel_imgs/080424110251gold.jpeg",Gold
-http://stream.streamfire.live:8081/live/uk-gold.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NyBBTSZoYXNoX3ZhbHVlPXA2K25oa2RFQm9oQnRDVVNvRTZqM3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3NzUzNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-gold.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MSBBTSZoYXNoX3ZhbHVlPXR4MWRjUjRyQ0RoTGs0K0dBKy9yMEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMTkwMg==
 
 #EXTINF:-1 tvg-id="125" tvg-name="Golf Channel" tvg-logo="https://stfire.app/images/channel_imgs/181022103541Golf_Channel_2014.png",Golf Channel
-http://stream.streamfire.live:8081/live/us-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1NyBBTSZoYXNoX3ZhbHVlPXNlZFloVzNZd1FYZmd5aFEzZGNPdUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3Nzk1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-golf.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MiBBTSZoYXNoX3ZhbHVlPUJ2eS9GVVd3eXpQQ2plbmJ6K01IWHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMjIwMg==
 
 #EXTINF:-1 tvg-id="2076" tvg-name="Hallmark" tvg-logo="https://stfire.app/images/channel_imgs/211223113658Hallmark_Channel_2022.png",Hallmark
-http://stream.streamfire.live:8081/live/us-hallmark.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1OCBBTSZoYXNoX3ZhbHVlPWtyOWh6SHFxTXRPZE9wR1FMb1hRd3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3ODM2Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-hallmark.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MiBBTSZoYXNoX3ZhbHVlPVRwZ2NDU1NoMnRtcFhuN0N6WjVnQnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMjYxNw==
 
 #EXTINF:-1 tvg-id="2077" tvg-name="HBO" tvg-logo="https://stfire.app/images/channel_imgs/211223113723HBO.png",HBO
-http://stream.streamfire.live:8081/live/us-hbo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1OCBBTSZoYXNoX3ZhbHVlPStaQUtBa0diTWNVQU1ncjR4VDQxZUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3ODY4Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-hbo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MiBBTSZoYXNoX3ZhbHVlPTBSR1J1MzdmQnd0NWVhdHhpeFBIa0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMjkwMg==
 
 #EXTINF:-1 tvg-id="2131" tvg-name="HBO 2" tvg-logo="https://stfire.app/images/channel_imgs/120724021349HBO_2_2014.png",HBO 2
-http://stream.streamfire.live:8081/live/us-hbo2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1OSBBTSZoYXNoX3ZhbHVlPTBVcDVydTQzOHZwcDloWkU1NGdaWGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3OTA3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-hbo2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MyBBTSZoYXNoX3ZhbHVlPVl0VHg2a05qU2RRY1FvNnl1MHRWTEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMzE4Ng==
 
 #EXTINF:-1 tvg-id="2078" tvg-name="HBO Family" tvg-logo="https://stfire.app/images/channel_imgs/211223113749hbof.png",HBO Family
-http://stream.streamfire.live:8081/live/us-hbo-family.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1OSBBTSZoYXNoX3ZhbHVlPXNvcGpSbEFXQVJyV2w0VGJhRWRWWGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3OTM3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-hbo-family.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MyBBTSZoYXNoX3ZhbHVlPUdWY1NKNjJDQWc2dTdRclBlaS9uVWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMzU0MQ==
 
 #EXTINF:-1 tvg-id="2132" tvg-name="HBO Signature" tvg-logo="https://stfire.app/images/channel_imgs/120724021549HBO_Signature_2000.png",HBO Signature
-http://stream.streamfire.live:8081/live/us-hbosignature.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0Nzo1OSBBTSZoYXNoX3ZhbHVlPXRCK244TjVBUXRCcmtINUIyVzFOYkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA3OTc5Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-hbosignature.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0MyBBTSZoYXNoX3ZhbHVlPUg2bHhSZjk5S3owVGt2VGdnamUxYkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwMzg0MQ==
 
 #EXTINF:-1 tvg-id="2079" tvg-name="HBO Zone" tvg-logo="https://stfire.app/images/channel_imgs/211223113812hboz.png",HBO Zone
-http://stream.streamfire.live:8081/live/us-hbo-zone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMCBBTSZoYXNoX3ZhbHVlPUt1cmZqVWU1eUs5dy83eE1iNXA4T2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MDA5Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-hbo-zone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NCBBTSZoYXNoX3ZhbHVlPXc4ZjhhU3prQm9YOTVBY0ZMSnAvcUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNDE0Mg==
 
 #EXTINF:-1 tvg-id="2052" tvg-name="HGTV" tvg-logo="https://stfire.app/images/channel_imgs/211223110335HGTV_2010.png",HGTV
-http://stream.streamfire.live:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMCBBTSZoYXNoX3ZhbHVlPXVHQ2JwdHlUWTdQMDc2UEtRU0tGN2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MDQwMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-hgtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NCBBTSZoYXNoX3ZhbHVlPUNaYUpjUWtONUZpTlBtYUMxaEdWNWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNDQ1Ng==
 
 #EXTINF:-1 tvg-id="2097" tvg-name="History" tvg-logo="https://stfire.app/images/channel_imgs/211223115343hist.png",History
-http://stream.streamfire.live:8081/live/us-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMCBBTSZoYXNoX3ZhbHVlPXh0Z0o4bU9sSHFPOTNVempGaitOZXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MDcxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-history.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NCBBTSZoYXNoX3ZhbHVlPVJocXpZTVFnYVRpUFBJcWRadlBQTWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNDc3Mg==
 
 #EXTINF:-1 tvg-id="2117" tvg-name="Investigation Discovery" tvg-logo="https://stfire.app/images/channel_imgs/211223124606ID-2020.png",Investigation Discovery
-http://stream.streamfire.live:8081/live/us-investigation-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMSBBTSZoYXNoX3ZhbHVlPTJsNHgvdkJRcEJSZUc4eWgvdThBNHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MTAyMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-investigation-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NSBBTSZoYXNoX3ZhbHVlPU5UUENsczFVanhwV282ZnRRTDh2dGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNTA5MQ==
 
 #EXTINF:-1 tvg-id="2124" tvg-name="ION" tvg-logo="https://stfire.app/images/channel_imgs/250524083604ion.png",ION
-http://stream.streamfire.live:8081/live/us-ion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMSBBTSZoYXNoX3ZhbHVlPU9kVHJzclpLOW9iV3lMSDB0UERrdmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MTM0Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-ion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NSBBTSZoYXNoX3ZhbHVlPVovR0UyZldjTEZ5ejE0eEYxdDB0U0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNTQ5MQ==
 
 #EXTINF:-1 tvg-id="1397" tvg-name="ITV 1" tvg-logo="https://stfire.app/images/channel_imgs/191122012121itv.png",ITV 1
-http://stream.streamfire.live:8081/live/uk-itv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMSBBTSZoYXNoX3ZhbHVlPU45dDBMRnJGY2RMU1hUcWVqQ1I2Smc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MTcyNg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-itv1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NSBBTSZoYXNoX3ZhbHVlPU5nWXU5V1JGenpLbWQ2bkdPb3p6OGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNTc5Ng==
 
 #EXTINF:-1 tvg-id="382" tvg-name="ITV 2" tvg-logo="https://stfire.app/images/channel_imgs/080424115744itv2.jpeg",ITV 2
-http://stream.streamfire.live:8081/live/uk-itv2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMiBBTSZoYXNoX3ZhbHVlPUV1Vmo3dkxQUmJtSGh5UFZzYllUWHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MjA1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-itv2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NiBBTSZoYXNoX3ZhbHVlPVhLK09sVEtvdVRza3hpamRhbmtjNmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNjExNw==
 
 #EXTINF:-1 tvg-id="873" tvg-name="ITV 3" tvg-logo="https://stfire.app/images/channel_imgs/080424115829itv3.jpeg",ITV 3
-http://stream.streamfire.live:8081/live/uk-itv3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMiBBTSZoYXNoX3ZhbHVlPTNldnB0cFhtUmEvRDU5ajQ5YTAxbWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MjM1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-itv3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NiBBTSZoYXNoX3ZhbHVlPU5naGdZeWhNY0J4ZmJWcWlsbWowV0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNjUxNg==
 
 #EXTINF:-1 tvg-id="1900" tvg-name="ITV 4" tvg-logo="https://stfire.app/images/channel_imgs/080424115912itv4.jpeg",ITV 4
-http://stream.streamfire.live:8081/live/uk-itv4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMiBBTSZoYXNoX3ZhbHVlPUFyMENsV2hsOU9hMCtzSXl3WHZZVHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4Mjc1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-itv4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NiBBTSZoYXNoX3ZhbHVlPUhmWWdicjlSc3NlMi8rTDh6amgzYmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNjgyNw==
 
 #EXTINF:-1 tvg-id="145" tvg-name="LFC TV" tvg-logo="https://stfire.app/images/channel_imgs/280922012228LFC_TV.png",LFC TV
-http://stream.streamfire.live:8081/live/uk-lfctv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMyBBTSZoYXNoX3ZhbHVlPTdDWE4wWVUvNGJjSlhadlF3RXRZY3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MzA3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-lfctv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NyBBTSZoYXNoX3ZhbHVlPUQvUG9nbC9oalpPZFNUdlRGRlQ2REE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNzIyMg==
 
 #EXTINF:-1 tvg-id="2053" tvg-name="Lifetime" tvg-logo="https://stfire.app/images/channel_imgs/211223110405Lifetime_2020.png",Lifetime
-http://stream.streamfire.live:8081/live/us-lifetime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMyBBTSZoYXNoX3ZhbHVlPTduZERuWjVDMzdWb1ozZUVySU5jN2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4MzQ4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-lifetime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NyBBTSZoYXNoX3ZhbHVlPU90Mzd1Y2xMWWE4dzNLNnFtVjJ3MXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNzUzMw==
 
 #EXTINF:-1 tvg-id="2080" tvg-name="LMN" tvg-logo="https://stfire.app/images/channel_imgs/211223113846lmn.png",LMN
-http://stream.streamfire.live:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowMyBBTSZoYXNoX3ZhbHVlPTA4bWN5N2ZBNU8yTG1qTkhwSmw1QWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4Mzc4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-lmn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0NyBBTSZoYXNoX3ZhbHVlPVc4a1puM2NxSjhpWVd2NFc5WHJXWGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwNzgzNw==
 
 #EXTINF:-1 tvg-id="2054" tvg-name="Magnolia Network" tvg-logo="https://stfire.app/images/channel_imgs/211223110522Magnolia_Network.png",Magnolia Network
-http://stream.streamfire.live:8081/live/us-magnolia-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNCBBTSZoYXNoX3ZhbHVlPVQ0VitqK3R1VnRQbkl6eWxERTJrUGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NDA4Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-magnolia-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0OCBBTSZoYXNoX3ZhbHVlPThaWGkvTGpBUDZaU0NXbFBDdnB0NWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwODE0MQ==
 
 #EXTINF:-1 tvg-id="1895" tvg-name="Marquee Sports Network" tvg-logo="https://stfire.app/images/channel_imgs/210223023809Marquee_Sports_Network.png",Marquee Sports Network
-http://stream.streamfire.live:8081/live/us-marqueesportsnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNCBBTSZoYXNoX3ZhbHVlPUp3NGFNN0tnMUo5UTEyQ3JFbUhvUVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NDQwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-marqueesportsnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0OCBBTSZoYXNoX3ZhbHVlPXFFUnY0NXRDQkNkZ2UrUVFNZzVkdEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwODQ2Mg==
 
 #EXTINF:-1 tvg-id="1896" tvg-name="MASN" tvg-logo="https://stfire.app/images/channel_imgs/210223024047masn.png",MASN
-http://stream.streamfire.live:8081/live/us-masn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNCBBTSZoYXNoX3ZhbHVlPWZiZktJSTZZZEswa0MyamJZMlM0M2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NDcwNA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-masn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0OCBBTSZoYXNoX3ZhbHVlPWM1TEVjeC94cEpRUTlpNFFyVkJYYmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwODg2Ng==
 
 #EXTINF:-1 tvg-id="1897" tvg-name="MASN 2" tvg-logo="https://stfire.app/images/channel_imgs/210223024300masn-2-vector-logo.png",MASN 2
-http://stream.streamfire.live:8081/live/us-masn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNSBBTSZoYXNoX3ZhbHVlPWsxemR2eFlGZ0wrODY0RE15a2ZCdUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NTEyMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-masn2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0OSBBTSZoYXNoX3ZhbHVlPTdLMEx2TFhsOHdLeEd0TUxqcS9HaFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwOTE2Nw==
 
 #EXTINF:-1 tvg-id="1898" tvg-name="MAV TV" tvg-logo="https://stfire.app/images/channel_imgs/210223024750MavTV.png",MAV TV
-http://stream.streamfire.live:8081/live/us-mavtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNSBBTSZoYXNoX3ZhbHVlPVVHZWVESXo5VWlHUGRvYzU5ZG5aNGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NTQyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-mavtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0OSBBTSZoYXNoX3ZhbHVlPW91WmNUdG1LNHVYeTQvVnZGOFFoWVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwOTQ3MQ==
 
 #EXTINF:-1 tvg-id="2055" tvg-name="Metv" tvg-logo="https://stfire.app/images/channel_imgs/211223110552MeTV_logo_2014.png",Metv
-http://stream.streamfire.live:8081/live/us-metv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNSBBTSZoYXNoX3ZhbHVlPVJ2Wk5JcEp3U01IV1JTSGZscDBsZEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NTczNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-metv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo0OSBBTSZoYXNoX3ZhbHVlPURlcWhRK1JaTUdRUEVtNEFVdkw1cFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMwOTc5Mg==
 
 #EXTINF:-1 tvg-id="148" tvg-name="MLB Network" tvg-logo="https://stfire.app/images/channel_imgs/280922013154MLB_Network.png",MLB Network
-http://stream.streamfire.live:8081/live/us-mlbnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNiBBTSZoYXNoX3ZhbHVlPU5jN29nNHp3RllTR2R5NmY3MmdUSXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NjAyNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-mlbnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MCBBTSZoYXNoX3ZhbHVlPXZURUl2N08vbEorN1FOV3U5QnZjRFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMDA4Nw==
 
 #EXTINF:-1 tvg-id="2127" tvg-name="Monumental Sports Network" tvg-logo="https://stfire.app/images/channel_imgs/120724014340031023025910monu.png",Monumental Sports Network
-http://stream.streamfire.live:8081/live/us-monumental-sports-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNiBBTSZoYXNoX3ZhbHVlPUJUWlZ6VGEwVTRnREFlR3lyeHV5L0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NjM0MQ==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-monumental-sports-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MCBBTSZoYXNoX3ZhbHVlPTdqQWpXMzJOVTJ5VGYwVncvcVkvK0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMDQwNw==
 
 #EXTINF:-1 tvg-id="2096" tvg-name="Motor Trend" tvg-logo="https://stfire.app/images/channel_imgs/100424102143Motor_Trend.png",Motor Trend
-http://stream.streamfire.live:8081/live/us-motor-trend.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNyBBTSZoYXNoX3ZhbHVlPVZJVDAxNzNCR1hlUjVsZHU4M1BTaEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NzEyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-motor-trend.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MSBBTSZoYXNoX3ZhbHVlPUh6UnBLWTc1cFhJNi9WSGljdEJiREE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMTIyNg==
 
 #EXTINF:-1 tvg-id="1417" tvg-name="MSG" tvg-logo="https://stfire.app/images/channel_imgs/160123040200ezgif.com-gif-maker.png",MSG
-http://stream.streamfire.live:8081/live/us-msg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNyBBTSZoYXNoX3ZhbHVlPThNYXliK1ZYSkZHeWtUYVQ5RitDWHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NzQyOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-msg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MSBBTSZoYXNoX3ZhbHVlPVZKZmZiQWw4ZERpNEFmNzZmZ3FnOWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMTUyNw==
 
 #EXTINF:-1 tvg-id="1418" tvg-name="MSGSN" tvg-logo="https://stfire.app/images/channel_imgs/160123040740Msg-sportsnet.png",MSGSN
-http://stream.streamfire.live:8081/live/us-msgsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowNyBBTSZoYXNoX3ZhbHVlPU8wSlMwR3d2N0ZVbzJpQmQrZ2tFMXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4NzgzNA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-msgsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MSBBTSZoYXNoX3ZhbHVlPWowRTZKb2dOa3p4VGRaYmc0WjIyM1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMTkzMQ==
 
 #EXTINF:-1 tvg-id="2109" tvg-name="MSNBC" tvg-logo="https://stfire.app/images/channel_imgs/211223121332MSNBC_2023.png",MSNBC
-http://stream.streamfire.live:8081/live/us-msnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowOCBBTSZoYXNoX3ZhbHVlPWRZRzUvM2pRNVlzb0xNaXg1UUtRUXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4ODA2Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-msnbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MiBBTSZoYXNoX3ZhbHVlPVE5MUVSNHd6WEpnZkQ3STFwY0FVZ2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMjI0Ng==
 
 #EXTINF:-1 tvg-id="2090" tvg-name="MTV" tvg-logo="https://stfire.app/images/channel_imgs/211223114443MTV-2021.png",MTV
-http://stream.streamfire.live:8081/live/us-mtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowOCBBTSZoYXNoX3ZhbHVlPUpUWFYvMSt1cmFoNFpMNXNEZ2h3aXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4ODM1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-mtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MiBBTSZoYXNoX3ZhbHVlPUlTV3V4TEhlczFhRUpsRzU3KzJ5ZlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMjU1MQ==
 
 #EXTINF:-1 tvg-id="154" tvg-name="MU TV" tvg-logo="https://stfire.app/images/channel_imgs/181022110224man.png",MU TV
-http://stream.streamfire.live:8081/live/uk-mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowOCBBTSZoYXNoX3ZhbHVlPUZSUzhOSE5nY1plcWV6dEoxUFVob1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4ODY0OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MiBBTSZoYXNoX3ZhbHVlPWpRK2hQM3lZUDlSMTVkejh5VEUrYVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMjg2MQ==
 
 #EXTINF:-1 tvg-id="780" tvg-name="Nat Geo Wild" tvg-logo="https://stfire.app/images/channel_imgs/080424110127nat.jpeg",Nat Geo Wild
-http://stream.streamfire.live:8081/live/uk-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowOCBBTSZoYXNoX3ZhbHVlPUFkWmVVU0FaTllTM0xHZjRuclJJTWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4ODk2OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MyBBTSZoYXNoX3ZhbHVlPVJ0U0JOS2ZVZzhIaVNSc205TXh5ZUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMzE2Ng==
 
 #EXTINF:-1 tvg-id="2098" tvg-name="National Geographic" tvg-logo="https://stfire.app/images/channel_imgs/211223120540National_Geographic_2008.png",National Geographic
-http://stream.streamfire.live:8081/live/us-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowOSBBTSZoYXNoX3ZhbHVlPTVGVEhSZXBCSWRuaGEwZFJHNVdBeFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4OTM2Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MyBBTSZoYXNoX3ZhbHVlPTVPQ1Z6bUxieTdCVi94azRPcE9XeWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMzQ3Ng==
 
 #EXTINF:-1 tvg-id="2099" tvg-name="National Geographic Wild" tvg-logo="https://stfire.app/images/channel_imgs/211223120657National_Geographic_Wild_2018.png",National Geographic Wild
-http://stream.streamfire.live:8081/live/us-natgeo-wild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODowOSBBTSZoYXNoX3ZhbHVlPWsrNVNCN2crTnlUdWZta3dLM3A1OUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA4OTY4Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-natgeo-wild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1MyBBTSZoYXNoX3ZhbHVlPVh1SEVxdXBENDJPUnNmTHh1MkhHV2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxMzc4MQ==
 
 #EXTINF:-1 tvg-id="2126" tvg-name="NBA TV" tvg-logo="https://stfire.app/images/channel_imgs/120724014106nba.png",NBA TV
-http://stream1.flowfire.live:8081/live/ca-nbatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMCBBTSZoYXNoX3ZhbHVlPW9iVjR6UFhCRFpMYjJrNGV4cTEyT2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MDAwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream1.flowfire.live:8081/live/ca-nbatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NCBBTSZoYXNoX3ZhbHVlPUtUNVlHdExicXQrMzNFTG8reUdiZlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNDA4Ng==
 
 #EXTINF:-1 tvg-id="159" tvg-name="NBA TV" tvg-logo="https://stfire.app/images/channel_imgs/190123025003nba-tvv.png",NBA TV
-http://stream.streamfire.live:8081/live/us-nbanetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMCBBTSZoYXNoX3ZhbHVlPWoyNXJ1NlBDZWVnclZnSU9Ya0lQWnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MDI5Ng==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nbanetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NCBBTSZoYXNoX3ZhbHVlPUxKK3BjNXk2ZE4wUUZsbHQxSGRLV2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNDM4Ng==
 
 #EXTINF:-1 tvg-id="2056" tvg-name="NBC" tvg-logo="https://stfire.app/images/channel_imgs/211223110637NBC_2023.png",NBC
-http://stream.streamfire.live:8081/live/us-nbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMCBBTSZoYXNoX3ZhbHVlPWUvMTNxVFBob3NaT2MwS25KbEo0aVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MDYwMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nbc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NCBBTSZoYXNoX3ZhbHVlPXBzZk0waEU5elBQV2JPSlJrWHZFdnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNDcwMg==
 
 #EXTINF:-1 tvg-id="2129" tvg-name="NBC Sports Bay Area" tvg-logo="https://stfire.app/images/channel_imgs/120724014550170123094920NBC_Sports_Bay_Area.png",NBC Sports Bay Area
-http://stream.streamfire.live:8081/live/us-nbcsn-bayarea.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMCBBTSZoYXNoX3ZhbHVlPXJLRllaWTdKNUppblBIMjJSMWdvc3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MDkxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nbcsn-bayarea.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NSBBTSZoYXNoX3ZhbHVlPWRuSjhreDd2dmZDT0U4SC9udE5jMUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNTExMQ==
 
 #EXTINF:-1 tvg-id="1421" tvg-name="NBC Sports Boston" tvg-logo="https://stfire.app/images/channel_imgs/170123094138NBC_Sports_Boston_2017.png",NBC Sports Boston
-http://stream.streamfire.live:8081/live/us-nbcsn-boston.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMSBBTSZoYXNoX3ZhbHVlPXNWa2xOd29NV1IvNTF5QTYwVXk2dGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MTIzOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nbcsn-boston.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NSBBTSZoYXNoX3ZhbHVlPTBEUy82anY5NDRFK1hGcC9raVM0S1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNTQxMQ==
 
 #EXTINF:-1 tvg-id="2130" tvg-name="NBC Sports Chicago" tvg-logo="https://stfire.app/images/channel_imgs/120724014701chi.png",NBC Sports Chicago
-http://stream.streamfire.live:8081/live/us-nbcsn-chicago.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMSBBTSZoYXNoX3ZhbHVlPUZ0NFRSZHM4MjMzcURwaXZFRnlsNVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MTQ3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nbcsn-chicago.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NSBBTSZoYXNoX3ZhbHVlPUZ4T1J6TFZwVUVrZWtRM2pndERHa0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNTcyNg==
 
 #EXTINF:-1 tvg-id="2128" tvg-name="NBC Sports Philadelphia" tvg-logo="https://stfire.app/images/channel_imgs/120724014511phila.png",NBC Sports Philadelphia
-http://stream.streamfire.live:8081/live/us-nbcsn-philadelphia.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMSBBTSZoYXNoX3ZhbHVlPWJKMjZKZVR1aS9yWEtLdjBVdGpiVEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MTczMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nbcsn-philadelphia.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NiBBTSZoYXNoX3ZhbHVlPWxjeVFpalZFVFJXanJWY2Rqc1M2MUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNjAzNQ==
 
 #EXTINF:-1 tvg-id="862" tvg-name="NBCSN" tvg-logo="https://stfire.app/images/channel_imgs/021122113316NBCSN.png",NBCSN
-http://stream.streamfire.live:8081/live/us-nbcsnhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMiBBTSZoYXNoX3ZhbHVlPVc0QnNEaUxqRU9FbnpGcThMNEowaEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MjA0Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nbcsnhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NiBBTSZoYXNoX3ZhbHVlPU1Tb09rZmo4RThZOXQ5bzdqSDc0SUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNjMzNg==
 
 #EXTINF:-1 tvg-id="1477" tvg-name="NESN" tvg-logo="https://stfire.app/images/channel_imgs/310123124336nesn.png",NESN
-http://stream.streamfire.live:8081/live/us-nesn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMiBBTSZoYXNoX3ZhbHVlPUFmM2VtYTFFNU1VUXVoL3ZPMFVBcnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MjM0Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nesn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NiBBTSZoYXNoX3ZhbHVlPTJ1Rnk4dFY0ZUFDa01pdUNPZ3RIRXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNjY0MQ==
 
 #EXTINF:-1 tvg-id="164" tvg-name="NFL Network" tvg-logo="https://stfire.app/images/channel_imgs/060923023238NFL_Network_New.png",NFL Network
-http://stream.streamfire.live:8081/live/us-nflnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMiBBTSZoYXNoX3ZhbHVlPU5TbURERGM0TjVrSHYxWkZrOWFRbFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MjY0OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nflnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NiBBTSZoYXNoX3ZhbHVlPXN0by9iWGFiZjQwWUhHSFVTQnZJWXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNjkzMQ==
 
 #EXTINF:-1 tvg-id="880" tvg-name="NFL Redzone" tvg-logo="https://stfire.app/images/channel_imgs/060923022217nflred.png",NFL Redzone
-http://stream.streamfire.live:8081/live/us-nflredzone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMiBBTSZoYXNoX3ZhbHVlPURRem1zY2RtT2p3TWdJU2ZjcTRJWVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5Mjk1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nflredzone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NyBBTSZoYXNoX3ZhbHVlPW5MWDVtZDNWeW1IMjB2TGRnTlE3Zmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNzI3Nw==
 
 #EXTINF:-1 tvg-id="2139" tvg-name="NHL Network" tvg-logo="https://stfire.app/images/channel_imgs/180724011815280922013237NHL_Network.png",NHL Network
-http://stream.streamfire.live:8081/live/us-nhlnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMyBBTSZoYXNoX3ZhbHVlPVVySWY3SjdlcC9Ub0VFK0JkQkJueXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MzI2Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nhlnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NyBBTSZoYXNoX3ZhbHVlPVYrZWM3d1pQWnlYL09ibFNJcHFOU1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNzY2Ng==
 
 #EXTINF:-1 tvg-id="2115" tvg-name="Nickelodeon" tvg-logo="https://stfire.app/images/channel_imgs/211223121643nick.png",Nickelodeon
-http://stream.streamfire.live:8081/live/us-nick.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMyBBTSZoYXNoX3ZhbHVlPXdNSzR4MXJRZnB0dGxVOUt0MDNXcnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5MzU2OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nick.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1NyBBTSZoYXNoX3ZhbHVlPXRVZnlZNzBJNjNHdTg5YmJZajZrWFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxNzk3MQ==
 
 #EXTINF:-1 tvg-id="2116" tvg-name="Nicktoons" tvg-logo="https://stfire.app/images/channel_imgs/211223121741Nicktoons_2023_Logo.png",Nicktoons
-http://stream.streamfire.live:8081/live/us-nicktoons.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxMyBBTSZoYXNoX3ZhbHVlPVUwTEY5VlhEdVRYNjFSVUxqZUxTSmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5Mzg4Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-nicktoons.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1OCBBTSZoYXNoX3ZhbHVlPVVLVFpFSkhyNGJDM1liZlgxL3JVclE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxODI4MQ==
 
 #EXTINF:-1 tvg-id="2057" tvg-name="OWN" tvg-logo="https://stfire.app/images/channel_imgs/211223110704Oprah_Winfrey_Network.png",OWN
-http://stream.streamfire.live:8081/live/us-own.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNCBBTSZoYXNoX3ZhbHVlPTJ2c3ZLS0hjZnp0bmkxbTJXckVOaWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NDE4Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-own.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1OCBBTSZoYXNoX3ZhbHVlPXcxci9hSGptdEFGajRSTkI0V3RxNEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxODU3Ng==
 
 #EXTINF:-1 tvg-id="2058" tvg-name="Oxygen" tvg-logo="https://stfire.app/images/channel_imgs/211223110732Oxygen_2017.png",Oxygen
-http://stream.streamfire.live:8081/live/us-oxygen.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNCBBTSZoYXNoX3ZhbHVlPTExOUhyQkFWVVczVUFTOGxydkJQOUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NDQ4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-oxygen.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1OCBBTSZoYXNoX3ZhbHVlPWYwSkJibXZUQzhteFZES0szNnMyZ2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxODg5MQ==
 
 #EXTINF:-1 tvg-id="2059" tvg-name="Paramount Network" tvg-logo="https://stfire.app/images/channel_imgs/211223110803Paramount_Global.png",Paramount Network
-http://stream.streamfire.live:8081/live/us-paramount-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNCBBTSZoYXNoX3ZhbHVlPTJ0OW1GbEloOXo5RmgrNW40SlQxSmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NDgxMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-paramount-network.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1OSBBTSZoYXNoX3ZhbHVlPW5JYmw1UkluVC9qMjBERktzR0ZucEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxOTIwMQ==
 
 #EXTINF:-1 tvg-id="781" tvg-name="Quest Red" tvg-logo="https://stfire.app/images/channel_imgs/080424110606que.jpeg",Quest Red
-http://stream.streamfire.live:8081/live/uk-quest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNSBBTSZoYXNoX3ZhbHVlPVJpZndJZllic3JCUzhzZFB6YjZlWHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NTExMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-quest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1OSBBTSZoYXNoX3ZhbHVlPXhwYXpJeU9NV1hvMnJxdDZ5V3lDUVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxOTUwNg==
 
 #EXTINF:-1 tvg-id="178" tvg-name="Racing UK" tvg-logo="https://stfire.app/images/channel_imgs/280922012306racing-uk.png",Racing UK
-http://stream.streamfire.live:8081/live/uk-racing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNSBBTSZoYXNoX3ZhbHVlPU5sU0IzWTgxS2premdEKzRSYVdkY1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NTQxMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-racing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MTo1OSBBTSZoYXNoX3ZhbHVlPVI5VlhDY3d4ek9QdXQvcEw5WExmeVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMxOTgyMQ==
 
 #EXTINF:-1 tvg-id="1482" tvg-name="Rangers F.C" tvg-logo="https://stfire.app/images/channel_imgs/040223025607rangers.png",Rangers F.C
-http://stream.streamfire.live:8081/live/uk-rangers.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNSBBTSZoYXNoX3ZhbHVlPUo0R1RBMUQ4bXdaQlhaUE4zelRWbFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NTcyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-rangers.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMCBBTSZoYXNoX3ZhbHVlPWZlSTdGTVRldjYwc2cxUkJIV2s2YlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMDEyMQ==
 
 #EXTINF:-1 tvg-id="1899" tvg-name="RDS" tvg-logo="https://stfire.app/images/channel_imgs/210223024952RDS_logo.svg.png",RDS
-http://stream.streamfire.live:8081/live/ca-rds.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNiBBTSZoYXNoX3ZhbHVlPSsrM0ljbEVQblB0OTZLMWQ4SWI1VGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NjAzNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/ca-rds.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMCBBTSZoYXNoX3ZhbHVlPVpwUkh1N3doMlhTcTRDR3BTdWdIZFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMDQ0Ng==
 
 #EXTINF:-1 tvg-id="2095" tvg-name="Science" tvg-logo="https://stfire.app/images/channel_imgs/211223115149Science.png",Science
-http://stream.streamfire.live:8081/live/us-science.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNiBBTSZoYXNoX3ZhbHVlPWo5d3kyWWJWRFNUb3lDb2habHIra0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NjMzNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-science.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMCBBTSZoYXNoX3ZhbHVlPVorQjRQc1V3SEk3QUxKbUljWXRKdnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMDg0MQ==
 
 #EXTINF:-1 tvg-id="875" tvg-name="Sec Network" tvg-logo="https://stfire.app/images/channel_imgs/041022025422SEC-network.png",Sec Network
-http://stream.streamfire.live:8081/live/us-secnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNiBBTSZoYXNoX3ZhbHVlPXlmc0U4THZZVU1Nc2lkcGFDRmI4NWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NjY0Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-secnetworkhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMSBBTSZoYXNoX3ZhbHVlPUxPQ3BaVUdUY0dNNVRvV1d0b3FZSnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMTE0Ng==
 
 #EXTINF:-1 tvg-id="2081" tvg-name="Showtime" tvg-logo="https://stfire.app/images/channel_imgs/211223113935Showtime_1997.png",Showtime
-http://stream.streamfire.live:8081/live/us-showtime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNiBBTSZoYXNoX3ZhbHVlPUQxaThKcHBqMGpxcElpVU1oazdwVUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5Njk0Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-showtime.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMSBBTSZoYXNoX3ZhbHVlPVJzTUZjeWhnTUdYTi9lakJJclM5RXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMTQ1Nw==
 
 #EXTINF:-1 tvg-id="2082" tvg-name="Showtime 2" tvg-logo="https://stfire.app/images/channel_imgs/211223114004show2.png",Showtime 2
-http://stream.streamfire.live:8081/live/us-showtime2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNyBBTSZoYXNoX3ZhbHVlPTB3QzRtTXp2MDRDWlJDMzB1Sys4dkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NzI1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-showtime2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMSBBTSZoYXNoX3ZhbHVlPTgvYVV2T0dkLy91WmZTUHh4RmRDZUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMTc3MQ==
 
 #EXTINF:-1 tvg-id="2083" tvg-name="Showtime Showcase" tvg-logo="https://stfire.app/images/channel_imgs/211223114043showshow.png",Showtime Showcase
-http://stream.streamfire.live:8081/live/us-showtime-showcase.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNyBBTSZoYXNoX3ZhbHVlPUwvbnhETEFKbGl4d3N2N21Pd0ZQbVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5NzU1OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-showtime-showcase.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMiBBTSZoYXNoX3ZhbHVlPWNaNkdjemhCS05uTTBUbWEwaGdCNnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMjA4MQ==
 
 #EXTINF:-1 tvg-id="881" tvg-name="Sky Sports Action" tvg-logo="https://stfire.app/images/channel_imgs/060923020318Sky_Sports_NFL.png",Sky Sports Action
-http://stream.streamfire.live:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxNyBBTSZoYXNoX3ZhbHVlPWJHbzdXSEJiMlNHQjlYdEhNZmRzVHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5Nzg3OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMiBBTSZoYXNoX3ZhbHVlPWZTVG5DU2JsM2JQL2JlYjlsUjdSbHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMjM4MA==
 
 #EXTINF:-1 tvg-id="411" tvg-name="Sky Sports Arena" tvg-logo="https://stfire.app/images/channel_imgs/041122095035Sky_Sports_Arena.png",Sky Sports Arena
-http://stream.streamfire.live:8081/live/uk-skysportsarena-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxOCBBTSZoYXNoX3ZhbHVlPUNNUjByZ2daQUJyZnJDM1RHU29YSFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5ODE3OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsarena-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMiBBTSZoYXNoX3ZhbHVlPTNxUVo2WFMwbFk1TlZhOE4yNWdkRnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMjY5MQ==
 
 #EXTINF:-1 tvg-id="205" tvg-name="Sky Sports Cricket" tvg-logo="https://stfire.app/images/channel_imgs/041122094526Sky_Sports_Cricket.png",Sky Sports Cricket
-http://stream.streamfire.live:8081/live/uk-skysportscricket-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxOCBBTSZoYXNoX3ZhbHVlPWRFU1pEZEdlU2FNNHhvdURib3dhNWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5ODUwMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportscricket-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMyBBTSZoYXNoX3ZhbHVlPXcyQkVKRXlMTDBLeFNlMDlNdVpqdFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMzAwNg==
 
 #EXTINF:-1 tvg-id="209" tvg-name="Sky Sports F1" tvg-logo="https://stfire.app/images/channel_imgs/041122094743Sky_Sports_F1.png",Sky Sports F1
-http://stream.streamfire.live:8081/live/uk-skysportsf1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxOCBBTSZoYXNoX3ZhbHVlPVo4Q29kc3ZuL010YVdxRTBtWlhXL2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5ODgwOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsf1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMyBBTSZoYXNoX3ZhbHVlPUlVZjh6dWVxdm1IRnRRWVc3OUhrTEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMzMwMQ==
 
 #EXTINF:-1 tvg-id="410" tvg-name="Sky Sports Football" tvg-logo="https://stfire.app/images/channel_imgs/041122094954Sky_Sports_Football.png",Sky Sports Football
-http://stream.streamfire.live:8081/live/uk-skysportsfootball-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxOSBBTSZoYXNoX3ZhbHVlPXZEVFVFNUJQRkZCV3Ntam5kVU4wS1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5OTEwMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsfootball-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMyBBTSZoYXNoX3ZhbHVlPVVoUlVNc0hqS0xUV0FBTTVJU05PMGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMzYwNg==
 
 #EXTINF:-1 tvg-id="207" tvg-name="Sky Sports Golf" tvg-logo="https://stfire.app/images/channel_imgs/041122093855Sky_Sports_Golf.png",Sky Sports Golf
-http://stream.streamfire.live:8081/live/uk-skysportsgolf-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxOSBBTSZoYXNoX3ZhbHVlPWVTZHNzdkxVK1VTbElFbVhQM3hrS2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5OTQxMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsgolf-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowMyBBTSZoYXNoX3ZhbHVlPXFleGtJYkgyQjJuU0dDNVFDZFlWSlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyMzkyMQ==
 
 #EXTINF:-1 tvg-id="204" tvg-name="Sky Sports Main Event" tvg-logo="https://stfire.app/images/channel_imgs/041122094612Sky_Sports_Main_Event.png",Sky Sports Main Event
-http://stream.streamfire.live:8081/live/uk-skysportsmainevent-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoxOSBBTSZoYXNoX3ZhbHVlPWRYVlArOUIzNzNHZTF0Wjh0OGtNOEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDA5OTcyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsmainevent-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNCBBTSZoYXNoX3ZhbHVlPVFDU21CZXZ1c0ZSeDkxNHo0dm53d3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNDIxNg==
 
 #EXTINF:-1 tvg-id="308" tvg-name="Sky Sports Mix" tvg-logo="https://stfire.app/images/channel_imgs/041122094233Sky_Sports_Mix.png",Sky Sports Mix
-http://stream.streamfire.live:8081/live/uk-skysportsmix-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMCBBTSZoYXNoX3ZhbHVlPXp4Um5qOHNzVnpJMUxGY3puMFdVa2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMDAyMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsmix-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNCBBTSZoYXNoX3ZhbHVlPXRWQ2p3UmtqWFVOWEFpWWZnTEg0K1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNDUzNg==
 
 #EXTINF:-1 tvg-id="210" tvg-name="Sky Sports News" tvg-logo="https://stfire.app/images/channel_imgs/041122094554Sky_Sports_News.png",Sky Sports News
-http://stream.streamfire.live:8081/live/uk-skysportsnews-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMCBBTSZoYXNoX3ZhbHVlPXNSdHZsdVd5MGxhU2Y1R2d2WXdiMVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMDMyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsnews-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNCBBTSZoYXNoX3ZhbHVlPWV2SytPR3hXUTZjeXl4a0ZnUXZNWVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNDgzMQ==
 
 #EXTINF:-1 tvg-id="206" tvg-name="Sky Sports NFL" tvg-logo="https://stfire.app/images/channel_imgs/041122094757Sky_Sports_NFL.png",Sky Sports NFL
-http://stream.streamfire.live:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMCBBTSZoYXNoX3ZhbHVlPWZPV2VLVVpwbTkxdjRPTEhWWitod2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMDU1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsnfl-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNSBBTSZoYXNoX3ZhbHVlPWVYOUlIU0VKUkJNV1FiM3JDYlM0VGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNTE0Ng==
 
 #EXTINF:-1 tvg-id="208" tvg-name="Sky Sports Premier League" tvg-logo="https://stfire.app/images/channel_imgs/041122094541Sky_Sports_Premier_League.png",Sky Sports Premier League
-http://stream.streamfire.live:8081/live/uk-skysportspremierleague-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMCBBTSZoYXNoX3ZhbHVlPXltRm9sNlpRQ0N5UkxnSVNqNXNFenc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMDgzMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportspremierleague-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNSBBTSZoYXNoX3ZhbHVlPXRXWk9pRmI5Si9kZFZCTHdWQXFRMlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNTQ1MQ==
 
 #EXTINF:-1 tvg-id="882" tvg-name="Sky Sports Racing" tvg-logo="https://stfire.app/images/channel_imgs/041122094850Sky_Sports_Racing.png",Sky Sports Racing
-http://stream.streamfire.live:8081/live/uk-skysportsracing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMSBBTSZoYXNoX3ZhbHVlPTZwWU5WTG4ra3ZHakFwcWg4eUtJQ3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMTEwMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-skysportsracing-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNSBBTSZoYXNoX3ZhbHVlPW1XTEprZ2hiRXFJVmJiTGo2M3JiRWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNTc2Ng==
 
 #EXTINF:-1 tvg-id="2061" tvg-name="Smithsonian Channel" tvg-logo="https://stfire.app/images/channel_imgs/211223110920smi.png",Smithsonian Channel
-http://stream.streamfire.live:8081/live/us-smithsonian-channel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMSBBTSZoYXNoX3ZhbHVlPXkybmFoNVV3cGNnRTR2WTFZd3pNZlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMTM0Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-smithsonian-channel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNiBBTSZoYXNoX3ZhbHVlPSsyQVlaM3dyWnpmcnlSeWRVc1RwRkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNjA3MQ==
 
 #EXTINF:-1 tvg-id="1479" tvg-name="Spectrum Sportsnet" tvg-logo="https://stfire.app/images/channel_imgs/310123125144Spectrum_Sportsnet.png",Spectrum Sportsnet
-http://stream.streamfire.live:8081/live/us-spectrum-sportsnet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMSBBTSZoYXNoX3ZhbHVlPUlaRGVTZHNYR2JmcnVRS3VjUnlRbUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMTU4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-spectrum-sportsnet.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNiBBTSZoYXNoX3ZhbHVlPUY3SEllOWpUc2U0V2V0Nk5FL1lEVmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNjM4MQ==
 
 #EXTINF:-1 tvg-id="1478" tvg-name="Spectrum Sportsnet LA" tvg-logo="https://stfire.app/images/channel_imgs/060923022519Spectrum_Sportsnet_LA.png",Spectrum Sportsnet LA
-http://stream.streamfire.live:8081/live/us-spectrum-sportsnetla.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMSBBTSZoYXNoX3ZhbHVlPU9GTHMxZEgzRFQxK0g4TmlOMlJhR3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMTg1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-spectrum-sportsnetla.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNiBBTSZoYXNoX3ZhbHVlPVVLS1FtbVZoOU9OWWk1ZmZhRlltMVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNjY4Ng==
 
 #EXTINF:-1 tvg-id="958" tvg-name="SportsNet 360" tvg-logo="https://stfire.app/images/channel_imgs/181022111434Sportsnet_360.png",SportsNet 360
-http://stream.streamfire.live:8081/live/ca-sportsnet360.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMiBBTSZoYXNoX3ZhbHVlPWpLeG5aNmVOTm9wT3VRQW1TUE9zRVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMjE3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/ca-sportsnet360.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNiBBTSZoYXNoX3ZhbHVlPWR5YjRpOEJweWdyM0FSVXNiTlVrSUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNjk4Ng==
 
 #EXTINF:-1 tvg-id="1392" tvg-name="SportsNet East" tvg-logo="https://stfire.app/images/channel_imgs/111122021043Sportsnet_East.png",SportsNet East
-http://stream.streamfire.live:8081/live/ca-sportsneteast.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMiBBTSZoYXNoX3ZhbHVlPVZNejJKL1BaM2RRbHNCQ2NwRmtDZHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMjQ4Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/ca-sportsneteast.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNyBBTSZoYXNoX3ZhbHVlPURrVmNUK2VmN3lHemtVZkhOZFRGSWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNzMwMQ==
 
 #EXTINF:-1 tvg-id="1932" tvg-name="Sportsnet NY" tvg-logo="https://stfire.app/images/channel_imgs/270323071317Sportsnet_New_York.png",Sportsnet NY
-http://stream.streamfire.live:8081/live/us-sportsnet-ny.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMiBBTSZoYXNoX3ZhbHVlPWlobFhvaVB6bVJQU2s0RU94bW9LS0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMjc4Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-sportsnet-ny.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowNyBBTSZoYXNoX3ZhbHVlPTl3cUk3RnhvcDlxVU9xSGpIRjJwN1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyNzYyMQ==
 
 #EXTINF:-1 tvg-id="417" tvg-name="SportsNet One" tvg-logo="https://stfire.app/images/channel_imgs/111122042414Sportsnet_One.png",SportsNet One
-http://stream.streamfire.live:8081/live/us-sportsnetone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMyBBTSZoYXNoX3ZhbHVlPVRyVTAyQ1F5azNPenUrVVFyZnpzdFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMzEwMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-sportsnetone.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowOCBBTSZoYXNoX3ZhbHVlPVVpVmx1MWRxRkhzcFZWd0c2Q3ExQkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyODAyNw==
 
 #EXTINF:-1 tvg-id="214" tvg-name="SportsNet Ontario" tvg-logo="https://stfire.app/images/channel_imgs/181022104212Sportsnet_Ontario.png",SportsNet Ontario
-http://stream.streamfire.live:8081/live/us-sportsnetontario.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMyBBTSZoYXNoX3ZhbHVlPXlPNFgvallRaXdPVldsbFREdXhtRVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMzQwOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-sportsnetontario.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowOCBBTSZoYXNoX3ZhbHVlPThKOXU0TlgvYVk5YXlWMzJhN0RRT1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyODQzMQ==
 
 #EXTINF:-1 tvg-id="959" tvg-name="SportsNet Pacific" tvg-logo="https://stfire.app/images/channel_imgs/021122113640Sportsnet_Pacific.png",SportsNet Pacific
-http://stream.streamfire.live:8081/live/ca-sportsnetpacific.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyMyBBTSZoYXNoX3ZhbHVlPWl4eUdPVXBXWUxVYkU2OWdJYzZJcGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwMzcwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/ca-sportsnetpacific.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowOCBBTSZoYXNoX3ZhbHVlPVdPUVBZTmVIRGJMQ25TTjJjdXJNV2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyODgzMQ==
 
 #EXTINF:-1 tvg-id="1393" tvg-name="SportsNet West" tvg-logo="https://stfire.app/images/channel_imgs/111122021238Sportsnet_West.png",SportsNet West
-http://stream.streamfire.live:8081/live/ca-sportsnetwest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNCBBTSZoYXNoX3ZhbHVlPWwxejJPT2RYZXpZNFBjQzBQRVdRM0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNDAxMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/ca-sportsnetwest.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowOSBBTSZoYXNoX3ZhbHVlPTR0cFpzZTZGcTlMYU02SEpnekprL3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyOTI0Ng==
 
 #EXTINF:-1 tvg-id="215" tvg-name="SportsNet World" tvg-logo="https://stfire.app/images/channel_imgs/181022111350Sportsnet_World.png",SportsNet World
-http://stream.streamfire.live:8081/live/us-sportsnetworld.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNCBBTSZoYXNoX3ZhbHVlPUphN1JuU2IxSE56djBucWlydVR4cVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNDMyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-sportsnetworld.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowOSBBTSZoYXNoX3ZhbHVlPVZ5UHY5ZGhuaXpLcHJTUmIwSjRYOFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyOTU1Nw==
 
 #EXTINF:-1 tvg-id="2084" tvg-name="Starz" tvg-logo="https://stfire.app/images/channel_imgs/211223114151STARZ-2022.png",Starz
-http://stream.streamfire.live:8081/live/us-starz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNCBBTSZoYXNoX3ZhbHVlPWJjclNvOVBYemtVaGg1RHZrbFp1S3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNDYzMQ==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-starz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjowOSBBTSZoYXNoX3ZhbHVlPVFQWGFoZHJwOWRMTFAwcUxHMUxkT0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMyOTg1MQ==
 
 #EXTINF:-1 tvg-id="2085" tvg-name="Starz Cinema" tvg-logo="https://stfire.app/images/channel_imgs/211223114216Starz_Cinema_2022.png",Starz Cinema
-http://stream.streamfire.live:8081/live/us-starz-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNCBBTSZoYXNoX3ZhbHVlPXdYdStNKzI3T2czZDdPQlBSZExlMWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNDkzOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-starz-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMCBBTSZoYXNoX3ZhbHVlPUZ0WlJhbWFVSFZvVWdCeHE1VEMzd0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMDE2Ng==
 
 #EXTINF:-1 tvg-id="2086" tvg-name="Starz Comedy" tvg-logo="https://stfire.app/images/channel_imgs/211223114240Starz_Comedy_2022.png",Starz Comedy
-http://stream.streamfire.live:8081/live/us-starz-comedy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNSBBTSZoYXNoX3ZhbHVlPXRZMWwwa3JVUzFtSXc1SGRaM3Q5S1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNTI0Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-starz-comedy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMCBBTSZoYXNoX3ZhbHVlPU9KZ1JQNTlISEJyS1RFekZWNS9lN0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMDQ1MQ==
 
 #EXTINF:-1 tvg-id="2087" tvg-name="Starz Edge" tvg-logo="https://stfire.app/images/channel_imgs/211223114303Starz_Edge_2022.png",Starz Edge
-http://stream.streamfire.live:8081/live/us-starz-edge.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNSBBTSZoYXNoX3ZhbHVlPW9tR2FTalBHZk9sK0FiMDNnTktrN0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNTU1Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-starz-edge.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMCBBTSZoYXNoX3ZhbHVlPUpyV29FenNaU1JaajJBRXNrNzBRSlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMDc3MQ==
 
 #EXTINF:-1 tvg-id="2088" tvg-name="Starz Encore" tvg-logo="https://stfire.app/images/channel_imgs/211223114330Starz_Encore_2022.png",Starz Encore
-http://stream.streamfire.live:8081/live/us-starz-encore.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNSBBTSZoYXNoX3ZhbHVlPWJab3FKTFZLVlRyZlhwalB2RC9haFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNTg1OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-starz-encore.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMSBBTSZoYXNoX3ZhbHVlPWFReGt1KzFWQTM5ZUNYZHdNRlR6S0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMTA5MQ==
 
 #EXTINF:-1 tvg-id="2089" tvg-name="Sundance TV" tvg-logo="https://stfire.app/images/channel_imgs/211223114408SundanceTV_2022.png",Sundance TV
-http://stream.streamfire.live:8081/live/us-sundancetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNiBBTSZoYXNoX3ZhbHVlPTF4RTNNVkdlMVAxckhhUVpuTlAvYnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNjE1Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-sundancetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMSBBTSZoYXNoX3ZhbHVlPVlvSzhIQ2M1T0RnVGM4aXQ3TDVDdFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMTQwMQ==
 
 #EXTINF:-1 tvg-id="2062" tvg-name="Syfy" tvg-logo="https://stfire.app/images/channel_imgs/211223110955syfy.png",Syfy
-http://stream.streamfire.live:8081/live/us-syfy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNiBBTSZoYXNoX3ZhbHVlPXl5UTBBRmJZNW1tQVVHQncxOGRHeXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNjQ3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-syfy.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMSBBTSZoYXNoX3ZhbHVlPVRERndjZnpkcVp6MmRhTzRQMnd1Tnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMTgwMQ==
 
 #EXTINF:-1 tvg-id="2063" tvg-name="TBS" tvg-logo="https://stfire.app/images/channel_imgs/211223111036TBS_2015.png",TBS
-http://stream.streamfire.live:8081/live/us-tbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNiBBTSZoYXNoX3ZhbHVlPTU2WFhjR1NSWVQwOEtDUWhoaXQvUmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNjc3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tbs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMiBBTSZoYXNoX3ZhbHVlPTJGTmZDQkg5akZYSHlreGVRUEcxZkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMjEwMQ==
 
 #EXTINF:-1 tvg-id="2134" tvg-name="TCM" tvg-logo="https://stfire.app/images/channel_imgs/120724022025tcm.png",TCM
-http://stream.streamfire.live:8081/live/us-tcm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNyBBTSZoYXNoX3ZhbHVlPXNmc0ZWWVR3K3lwKzBRWHk5UVdqckE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNzA4Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tcm.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMiBBTSZoYXNoX3ZhbHVlPVRTQ25iZXI5eFJDNjIxMFVDWXhKR2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMjQzMQ==
 
 #EXTINF:-1 tvg-id="306" tvg-name="Tennis" tvg-logo="https://stfire.app/images/channel_imgs/060923022915Tennis_Channel_2022_horizontal.png",Tennis
-http://stream.streamfire.live:8081/live/us-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNyBBTSZoYXNoX3ZhbHVlPXpJN3ptay9VajNQa2k3WVZxRlJ4N2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNzQwMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tennis.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMiBBTSZoYXNoX3ZhbHVlPXpjOWI4ZHA0bHNWTVpUc1dDTVFsU3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMjgyNg==
 
 #EXTINF:-1 tvg-id="2122" tvg-name="test" tvg-logo="https://stfire.app/images/channel_imgs/110424015500Screenshot_2024-03-03_at_2.08.56_PM-removebg-preview.png",test
-?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyNyBBTSZoYXNoX3ZhbHVlPWFac0Y3WVFwYjdTMXJrM2hJL2dCWHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwNzcxOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMyBBTSZoYXNoX3ZhbHVlPWl1TktDMmNwV1A1dGlRaGVwc0t4cEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMzEzNg==
 
 #EXTINF:-1 tvg-id="2046" tvg-name="The CW" tvg-logo="https://stfire.app/images/channel_imgs/120724121853The_CW.png",The CW
-http://stream.streamfire.live:8081/live/us-cw.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyOCBBTSZoYXNoX3ZhbHVlPWhTbXI1WDVNSWtpb09XMTAxWDdDalE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwODAwNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-cw.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMyBBTSZoYXNoX3ZhbHVlPWhha0RQUlhQeGdFTnBxMWhHODJIaHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMzQ0NQ==
 
 #EXTINF:-1 tvg-id="2110" tvg-name="The Weather Channel" tvg-logo="https://stfire.app/images/channel_imgs/211223121403thewea.png",The Weather Channel
-http://stream.streamfire.live:8081/live/us-the-weather.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyOCBBTSZoYXNoX3ZhbHVlPWtvODdTMWJ3TWFyQWg4WEMxUU1wR2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwODMxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-the-weather.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxMyBBTSZoYXNoX3ZhbHVlPVZ6bUlBdEgwSzJub0VWb0pDSCtUMGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzMzc0Mg==
 
 #EXTINF:-1 tvg-id="2064" tvg-name="TLC" tvg-logo="https://stfire.app/images/channel_imgs/211223111119tlc.png",TLC
-http://stream.streamfire.live:8081/live/us-tlc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyOCBBTSZoYXNoX3ZhbHVlPW1sU09WRnFmUmZzNzI2YlRxSzBZeEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwODYyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tlc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNCBBTSZoYXNoX3ZhbHVlPXVUTitWd0llRWZQWkkrQkViM2pOSmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNDE0Nw==
 
 #EXTINF:-1 tvg-id="2065" tvg-name="TNT" tvg-logo="https://stfire.app/images/channel_imgs/211223111154TNT_2016.png",TNT
-http://stream.streamfire.live:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyOCBBTSZoYXNoX3ZhbHVlPXhVeXhPYUk4dVNPek1YbTdkV0FGeWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwODkyNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tnt.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNCBBTSZoYXNoX3ZhbHVlPXMxNGIyQlgvc3JpU2lJcTcvSEJveWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNDQ2MQ==
 
 #EXTINF:-1 tvg-id="59" tvg-name="TNT Sports 1" tvg-logo="https://stfire.app/images/channel_imgs/120823035058TNTSports1_Logo_TNTBlack_RGB.png",TNT Sports 1
-http://stream.streamfire.live:8081/live/uk-btsport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyOSBBTSZoYXNoX3ZhbHVlPWJpanorY2Zkb094MVJobzJDQ2JoY1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwOTIzNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNCBBTSZoYXNoX3ZhbHVlPVJ0ekJaNThzYi8rd2J2aFBnbGpuZUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNDc3Ng==
 
 #EXTINF:-1 tvg-id="1092" tvg-name="TNT Sports 10" tvg-logo="https://stfire.app/images/channel_imgs/120823125744TNTSports10_Logo_TNTBlack_RGB.png",TNT Sports 10
-http://stream.streamfire.live:8081/live/uk-btsport10-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyOSBBTSZoYXNoX3ZhbHVlPTd2dkE0cXFQaVJtT1JxSEdnZDg5Q3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwOTU0Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport10-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNSBBTSZoYXNoX3ZhbHVlPWhsME5mWFU3YUczb1RmUVFzakFLOHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNTA3NQ==
 
 #EXTINF:-1 tvg-id="60" tvg-name="TNT Sports 2" tvg-logo="https://stfire.app/images/channel_imgs/120823125732TNTSports2_Logo_TNTBlack_RGB.png",TNT Sports 2
-http://stream.streamfire.live:8081/live/uk-btsport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODoyOSBBTSZoYXNoX3ZhbHVlPWpZbm9zWFIzNnM4THUvUGloMStnREE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDEwOTg1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNSBBTSZoYXNoX3ZhbHVlPWdZQmRXQlFtUjhuaUxNNytnQVVuU0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNTQ5Ng==
 
 #EXTINF:-1 tvg-id="298" tvg-name="TNT Sports 3" tvg-logo="https://stfire.app/images/channel_imgs/120823125725TNTSports3_Logo_TNTBlack_RGB.png",TNT Sports 3
-http://stream.streamfire.live:8081/live/uk-btsport3-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMCBBTSZoYXNoX3ZhbHVlPXQ0dng4Yy8vNjAwOWpRQUlmbThqa2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMDE2Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport3-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNSBBTSZoYXNoX3ZhbHVlPW1Ib1Z5MDM1WFNXbVh5UFMwMlNkckE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNTg5Ng==
 
 #EXTINF:-1 tvg-id="280" tvg-name="TNT Sports 4" tvg-logo="https://stfire.app/images/channel_imgs/120823125715TNTSports4_Logo_TNTBlack_RGB.png",TNT Sports 4
-http://stream.streamfire.live:8081/live/uk-btsport4-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMCBBTSZoYXNoX3ZhbHVlPVNJWVB1QTdueEd6cUlzZk0zSUZpcWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMDQ3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport4-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNiBBTSZoYXNoX3ZhbHVlPXdTNFEraGdPeG5KM3dLOFJQQjczR2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNjE5NQ==
 
 #EXTINF:-1 tvg-id="281" tvg-name="TNT Sports 5" tvg-logo="https://stfire.app/images/channel_imgs/120823125650TNTSports5_Logo_TNTBlack_RGB.png",TNT Sports 5
-http://stream.streamfire.live:8081/live/uk-btsport5-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMCBBTSZoYXNoX3ZhbHVlPTg1aHFxZXh1cmM3TEFIbmdkRlpLU0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMDgyMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport5-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNiBBTSZoYXNoX3ZhbHVlPUNGeTl6UkRUSjBJNk5NQWNYQ0I4NEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNjUwNg==
 
 #EXTINF:-1 tvg-id="282" tvg-name="TNT Sports 6" tvg-logo="https://stfire.app/images/channel_imgs/120823124928TNTSports6_Logo_TNTBlack_RGB.png",TNT Sports 6
-http://stream.streamfire.live:8081/live/uk-btsport6-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMSBBTSZoYXNoX3ZhbHVlPTBCTnBvd05oVm50Tk9hL3dGYXMrSlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMTA3Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport6-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNiBBTSZoYXNoX3ZhbHVlPXByZHZZUlZPN0dpQVhsYnVzS0c1VlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNjgxNg==
 
 #EXTINF:-1 tvg-id="283" tvg-name="TNT Sports 7" tvg-logo="https://stfire.app/images/channel_imgs/120823125633TNTSports7_Logo_TNTBlack_RGB.png",TNT Sports 7
-http://stream.streamfire.live:8081/live/uk-btsport7-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMSBBTSZoYXNoX3ZhbHVlPTdObm9SOUNXVnFhbHE5WEdLM2UxeXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMTM4Nw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport7-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNyBBTSZoYXNoX3ZhbHVlPUFEdVBSdjg1cXRrZXVlckxwcEg4YUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNzEyMQ==
 
 #EXTINF:-1 tvg-id="284" tvg-name="TNT Sports 8" tvg-logo="https://stfire.app/images/channel_imgs/120823125622TNTSports8_Logo_TNTBlack_RGB.png",TNT Sports 8
-http://stream.streamfire.live:8081/live/uk-btsport8-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMSBBTSZoYXNoX3ZhbHVlPTc4RDlVeXh0VWs5SVVQZXNDdVpDSmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMTY5Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport8-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNyBBTSZoYXNoX3ZhbHVlPXJ2bGlsdUJ0RkF0c3ZiY1lGYzcrbkE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNzQ0MQ==
 
 #EXTINF:-1 tvg-id="1091" tvg-name="TNT Sports 9" tvg-logo="https://stfire.app/images/channel_imgs/120823125607TNTSports9_Logo_TNTBlack_RGB.png",TNT Sports 9
-http://stream.streamfire.live:8081/live/uk-btsport9-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMiBBTSZoYXNoX3ZhbHVlPTVZOVRyMHZ4eVhDNE0rUDNzbmdLQ1E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMjAwMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-btsport9-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxNyBBTSZoYXNoX3ZhbHVlPSt0S1htakNJQ3dmazlDWnBodnhFbnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzNzczNg==
 
 #EXTINF:-1 tvg-id="2066" tvg-name="Travel Channel" tvg-logo="https://stfire.app/images/channel_imgs/211223111229Travel_Channel_2018.png",Travel Channel
-http://stream.streamfire.live:8081/live/us-travel-channel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMiBBTSZoYXNoX3ZhbHVlPWFOU1A4REE0SVpybmMwSDgvdzMwT3c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMjMxOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-travel-channel.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxOCBBTSZoYXNoX3ZhbHVlPVNoT0l5WFgxSmJEbnd1THBKTmZCOVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzODA0MQ==
 
 #EXTINF:-1 tvg-id="2071" tvg-name="TruTV" tvg-logo="https://stfire.app/images/channel_imgs/211223111921TruTV_2014.png",TruTV
-http://stream.streamfire.live:8081/live/us-trutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMiBBTSZoYXNoX3ZhbHVlPUU1T1FUNFpFNVRaeFFyUGpzeVdIOWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMjYxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-trutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxOCBBTSZoYXNoX3ZhbHVlPXY2SkNrVlJrV2RicjJNMUdPV0hqRVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzODM2MQ==
 
 #EXTINF:-1 tvg-id="233" tvg-name="TSN 1" tvg-logo="https://stfire.app/images/channel_imgs/181022104247TSN1_2014.png",TSN 1
-http://stream.streamfire.live:8081/live/us-tsn1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMiBBTSZoYXNoX3ZhbHVlPVZTQ1RIcksyU2hXbzVTa0xsdWRrTEE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMjkyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tsn1hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxOCBBTSZoYXNoX3ZhbHVlPVJ4M0hyRXV5eUtZb012ZEhhSEg3Q0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzODY1Ng==
 
 #EXTINF:-1 tvg-id="234" tvg-name="TSN 2" tvg-logo="https://stfire.app/images/channel_imgs/181022104314TSN2_2014.png",TSN 2
-http://stream.streamfire.live:8081/live/us-tsn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMyBBTSZoYXNoX3ZhbHVlPXBrMDdDc1hRK1BoMWk3TEJKQmZBdVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMzIzMg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tsn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxOCBBTSZoYXNoX3ZhbHVlPTRMUXhoNG12eXlYdGtIcHdERzZuNGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzODk3Ng==
 
 #EXTINF:-1 tvg-id="235" tvg-name="TSN 3" tvg-logo="https://stfire.app/images/channel_imgs/181022104342TSN3_2014.png",TSN 3
-http://stream.streamfire.live:8081/live/us-tsn3hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMyBBTSZoYXNoX3ZhbHVlPVd2L2hUSUVCYkwzNElGUmZWemFPcGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMzUzNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tsn3hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxOSBBTSZoYXNoX3ZhbHVlPVlJcHh5ckljbGV1blBtc01ObDMyNlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzOTI3MQ==
 
 #EXTINF:-1 tvg-id="412" tvg-name="TSN 4" tvg-logo="https://stfire.app/images/channel_imgs/181022104406TSN4_2014.png",TSN 4
-http://stream.streamfire.live:8081/live/us-tsn4hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozMyBBTSZoYXNoX3ZhbHVlPStHdHFnZDJkSk5EUXFZbEM4cXNQUUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExMzg0Ng==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tsn4hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxOSBBTSZoYXNoX3ZhbHVlPVRQM0o4RCtSVnp4Vk5vOHlGZWZLRVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzOTU1Ng==
 
 #EXTINF:-1 tvg-id="413" tvg-name="TSN 5" tvg-logo="https://stfire.app/images/channel_imgs/181022104431TSN5_2014.png",TSN 5
-http://stream.streamfire.live:8081/live/us-tsn5hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNCBBTSZoYXNoX3ZhbHVlPWx0ZDRxdXltMFM0aDRJMXZCeXRHQ2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNDE2Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tsn5hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoxOSBBTSZoYXNoX3ZhbHVlPTV5RXEyNkJRaldpdG8vSmw5S3hlQnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDMzOTg4Ng==
 
 #EXTINF:-1 tvg-id="2067" tvg-name="TV Land" tvg-logo="https://stfire.app/images/channel_imgs/211223111312TV_Land_2015.png",TV Land
-http://stream.streamfire.live:8081/live/us-tv-land.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNCBBTSZoYXNoX3ZhbHVlPWl6UjNVWGVzdExSdUUyNVhMNlVXOVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNDQ2OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tv-land.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMCBBTSZoYXNoX3ZhbHVlPW92ZHJJZVg5RUFqV0EvT1R3QnBYc2c9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MDE5MQ==
 
 #EXTINF:-1 tvg-id="2068" tvg-name="TV One" tvg-logo="https://stfire.app/images/channel_imgs/211223111521TV_One_logo_2016.png",TV One
-http://stream.streamfire.live:8081/live/us-tv-one.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNCBBTSZoYXNoX3ZhbHVlPUd5UkFYdytYUWZXaXhXbkhZbW5wc0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNDc3Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-tv-one.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMCBBTSZoYXNoX3ZhbHVlPTJoaWVBUEtjd2VSTXZqY0dJL1NNbVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MDUwMQ==
 
 #EXTINF:-1 tvg-id="1481" tvg-name="TVA Sports" tvg-logo="https://stfire.app/images/channel_imgs/310123010126TVA_Sports_N.png",TVA Sports
-http://stream.streamfire.live:8081/live/ca-tvasports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNSBBTSZoYXNoX3ZhbHVlPUIxaUJKR2ZIaW9qVU4yV2dPNUg3amc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNTEwOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/ca-tvasports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMCBBTSZoYXNoX3ZhbHVlPWdFckZIcFgxMkJIQXcxWFlkOEVwdXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MDgwNg==
 
 #EXTINF:-1 tvg-id="1797" tvg-name="UFC Fight Pass" tvg-logo="https://stfire.app/images/channel_imgs/150223031940ezgif.com-webp-to-png.png",UFC Fight Pass
-http://stream.streamfire.live:8081/live/uk-ufcfightpass.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNSBBTSZoYXNoX3ZhbHVlPWRQVDVzeXFEVHBTNUh6aGFQemhROVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNTQ5Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-ufcfightpass.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMSBBTSZoYXNoX3ZhbHVlPTIwVVVRNE5WejBiYlhmUzJqSmtONWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MTEyMA==
 
 #EXTINF:-1 tvg-id="2069" tvg-name="USA Network" tvg-logo="https://stfire.app/images/channel_imgs/211223111602USA_Network_2005.png",USA Network
-http://stream.streamfire.live:8081/live/us-usanetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNSBBTSZoYXNoX3ZhbHVlPUdVbE54RXpsWE5NRW9FdUJXSmhabUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNTgwOA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-usanetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMSBBTSZoYXNoX3ZhbHVlPVlzMFNBN3ZxSFliekZ4TFp0b0dJalE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MTQyMQ==
 
 #EXTINF:-1 tvg-id="2091" tvg-name="VH1" tvg-logo="https://stfire.app/images/channel_imgs/211223114511vh1.png",VH1
-http://stream.streamfire.live:8081/live/us-vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNiBBTSZoYXNoX3ZhbHVlPTBrRHRkM1ZuZ0xGNnQxcmEzY2JidFE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNjEwMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-vh1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMSBBTSZoYXNoX3ZhbHVlPVZSVFB2a3NFbWd6UnAycnJZY09tVWc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MTcyNg==
 
 #EXTINF:-1 tvg-id="170" tvg-name="Viaplay Sports 1" tvg-logo="https://stfire.app/images/channel_imgs/041122091916Viaplay_Sports_1.png",Viaplay Sports 1
-http://stream.streamfire.live:8081/live/uk-viaplaysports1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNiBBTSZoYXNoX3ZhbHVlPWVZQ3oxd2t3R1BnSEI1L0psaW0wNHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNjM5OA==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-viaplaysports1-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMiBBTSZoYXNoX3ZhbHVlPW9rejV0d3Z6Qmo3ajl3M0VxKzMxREE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MjA0Ng==
 
 #EXTINF:-1 tvg-id="782" tvg-name="Viaplay Sports 2" tvg-logo="https://stfire.app/images/channel_imgs/041122091817Viaplay_Sports_2.png",Viaplay Sports 2
-http://stream.streamfire.live:8081/live/uk-viaplaysports2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNiBBTSZoYXNoX3ZhbHVlPTdaa21QeU9KMy9qd2ZEZ2F0MzMrb0E9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNjcyMw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/uk-viaplaysports2-hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMiBBTSZoYXNoX3ZhbHVlPWw4bmU4YnpDQW9VdmVQS2JLZjRRTnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MjM1MQ==
 
 #EXTINF:-1 tvg-id="2070" tvg-name="Vice TV" tvg-logo="https://stfire.app/images/channel_imgs/211223111817Vice_TV.png",Vice TV
-http://stream.streamfire.live:8081/live/us-vicetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNyBBTSZoYXNoX3ZhbHVlPW9MUG9jYnduanVmaTQyaC9RUSsrMnc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNzAxNw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-vicetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMiBBTSZoYXNoX3ZhbHVlPXN1N0tEaEdyQUpOZ1J3QW5JSTFJSmc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MjY1MQ==
 
 #EXTINF:-1 tvg-id="312" tvg-name="Willow Cricket" tvg-logo="https://stfire.app/images/channel_imgs/041022031434WilllowCricket.png",Willow Cricket
-http://stream.streamfire.live:8081/live/us-willowcricket.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozNyBBTSZoYXNoX3ZhbHVlPTdvaWkwSjAxTGxJT2FYbVR3dytXenc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExNzM1Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-willowcricket.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMiBBTSZoYXNoX3ZhbHVlPTFtNXZiS0JUMWlvejRqcmNDZDIrUUE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0Mjk2Ng==
 
 #EXTINF:-1 tvg-id="861" tvg-name="WWE" tvg-logo="https://stfire.app/images/channel_imgs/181022104514WWE.png",WWE
-http://stream.streamfire.live:8081/live/us-wwehd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozOCBBTSZoYXNoX3ZhbHVlPWYvaG40bDd0UFA4eGI0TVRXMUpscVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExODE1Mg==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-wwehd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyMyBBTSZoYXNoX3ZhbHVlPUgvemN6RDhGRjBSV1lXSkFOWjVUUlE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0MzkxNg==
 
 #EXTINF:-1 tvg-id="1416" tvg-name="Yes Network" tvg-logo="https://stfire.app/images/channel_imgs/140123040517YES_Network_logo.png",Yes Network
-http://stream.streamfire.live:8081/live/us-yesnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo0ODozOCBBTSZoYXNoX3ZhbHVlPTlLSVp1K3ZMcFBhdW9KZjR4Q015SXc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDExODQ1Mw==
+#EXTVLCOPT:http-user-agent=mediaPlayerhttp/1.1.0 (Linux;Android 11) ExoPlayerLib/2.10.0
+http://stream.streamfire.live:8081/live/us-yesnetwork.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCAxMDo1MjoyNCBBTSZoYXNoX3ZhbHVlPWY1VUd6cWZ3TktWUG1Wa2gyVGZFaHc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9MTcyODczMDM0NDIwMQ==
 
