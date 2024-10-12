@@ -2,7 +2,7 @@ name: Fetch Streamed.su Events M3U8
 
 on:
   schedule:
-    - cron: '0 16,22,4,10 * * *'  # Runs every 6 hours at 12:00 AM, 6:00 AM, 12:00 PM, and 6:00 PM PHT
+    - cron: '0 * * * *'  # This runs at the start of every hour
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 jobs:
