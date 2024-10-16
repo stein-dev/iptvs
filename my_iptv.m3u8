@@ -30,8 +30,20 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="Myx" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/myx.png" ,MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cartoon-network.png" ,Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cartoon-network.png" ,Cartoon Network SEA
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cartoonnetwork.png", Cartoon Network USA
+http://streamsy.online:2999/live/juanv/04bodwaga0/199.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nickelodeon.png", Nickelodeon 
+http://streamsy.online:2999/live/juanv/04bodwaga0/327.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbo.png", HBO USA
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://bigembed.hlsjs.ru/lb/ustvhbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cnn.png" ,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
