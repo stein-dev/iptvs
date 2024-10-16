@@ -9,49 +9,49 @@ https://xyzdddd.mizhls.ru/lb/premium785/index.m3u8
 #EXTINF:-1 tvg-id="ANC" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/anc-logo.png",ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="Tv5.ph" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/tv5-logo.png" ,TV5 HD
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/tv5-logo.png" ,TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
-#EXTINF:-1,TeleRadyo Serbisyo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/teleradyo.png" ,TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1,One News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/onenewsph.png" ,One News
 http://tv14s.xyz:8080/live/X5xRz0/944877/101774.ts
 
-#EXTINF:-1,Super Radyo DZBB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/super-radyo-dzbb-logo.png" ,Super Radyo DZBB [AUDIO ONLY]
 https://tinyurl.com/RadyoDZBB
 
-#EXTINF:-1 tvg-id="CINEMO!.ph" ,CINEMO!
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cinemo-logo.png" ,CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="CINEMA.ONE.ph" ,CINEMA ONE
+#EXTINF:-1 tvg-id="CINEMA ONE" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cinema-one-logo.png" ,CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1,MYX Philippines (720p)
+#EXTINF:-1 tvg-id="Myx" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/myx.png" ,MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1,Cartoon Network Southeast Asia (1080p)
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cartoon-network.png" ,Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1,CNN
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cnn.png" ,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1,CNN (1080p)
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cnn.png" ,CNN FHD
 http://fl2.moveonjoy.com/CNN/index.m3u8
 
-#EXTINF:-1,Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/bloomberg.png" ,Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1,BBC World News
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/bbc-world-news.png" ,BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1,France 24
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/france24.png" ,France 24
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 
-#EXTINF:-1,ALJAZEERA
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/aljazeera.jpg" ,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1,NHK World Japan
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nhk-world-japan.png" ,NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
