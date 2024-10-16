@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Tennis" tvg-id="wta-osaka-ashlyn-krueger-asia-muhammad-vs-marie-bouzkova-camila-osorio" tvg-name="WTA Osaka: Ashlyn Krueger/Asia Muhammad. v Marie Bouzkova/Camila Osorio." tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:15AM WTA Osaka: Ashlyn Krueger/Asia Muhammad. v Marie Bouzkova/Camila Osorio. 2024-10-16 ALPHA
+#EXTINF:-1 group-title="Cricket" tvg-id="india-vs-new-zealand" tvg-name="India v New Zealand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:00PM India v New Zealand 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/wta-osaka-ashlyn-krueger-asia-muhammad-vs-marie-bouzkova-camila-osorio/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/india-vs-new-zealand/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="india-vs-new-zealand-1629405656" tvg-name="India v New Zealand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:00PM India v New Zealand 2024-10-16 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/india-vs-new-zealand-1629405656/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Tennis" tvg-id="1729049400000-wta-osaka-court-1-krunic-tomova-bouzkova-osorio" tvg-name="WTA Osaka v Court 1 Krunic/Tomova - Bouzkova/Osorio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:30AM WTA Osaka v Court 1 Krunic/Tomova - Bouzkova/Osorio 2024-10-16 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729049400000-wta-osaka-court-1-krunic-tomova-bouzkova-osorio/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-id="wta-osaka-harriet-dart-vs-clara-tauson" tvg-name="WTA Osaka: Harriet Dart v Clara Tauson" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:15AM WTA Osaka: Harriet Dart v Clara Tauson 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -36,23 +48,29 @@ https://rr.vipstreams.in/alpha/js/mexico-vs-united-states/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/bravo/js/1729045800000-mexico-usa-spanish-alt-/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="1729045800000-mexico-usa-english-" tvg-name="Mexico vs USA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM Mexico vs USA 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729045800000-mexico-usa-english-/1/playlist.m3u8
-
 #EXTINF:-1 group-title="Football" tvg-id="1729045800000-mexico-usa-spanish-" tvg-name="Mexico vs USA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM Mexico vs USA 2024-10-16 BRAVO
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/bravo/js/1729045800000-mexico-usa-spanish-/1/playlist.m3u8
 
+#EXTINF:-1 group-title="Football" tvg-id="1729045800000-mexico-usa-english-" tvg-name="Mexico vs USA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM Mexico vs USA 2024-10-16 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729045800000-mexico-usa-english-/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Football" tvg-id="mexico-vs-united-states-19268888" tvg-name="Mexico vs USA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM Mexico vs USA 2024-10-16 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/mexico-vs-united-states-19268888/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="mexico-vs-usa-291414" tvg-name="Mexico vs USA" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM Mexico vs USA 2024-10-16 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/mexico-vs-usa-291414/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Fight" tvg-id="dwcs-s8w10-post-fight-press-conference" tvg-name="DWCS S8W10: Post-Fight Press Conference" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:15AM DWCS S8W10: Post-Fight Press Conference 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -66,35 +84,11 @@ https://rr.vipstreams.in/alpha/js/dwcs-s8w10-post-fight-press-conference/1/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/echo/js/los-angeles-lakers-golden-state-warriors-19374/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Hockey" tvg-id="prince-albert-raiders-vs-kamloops-blazers-1629406307" tvg-name="Prince Albert Raiders v Kamloops Blazers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Prince Albert Raiders v Kamloops Blazers 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/prince-albert-raiders-vs-kamloops-blazers-1629406307/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="1729044000000-ut-san-antonio-usc" tvg-name="UT San Antonio v USC" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM UT San Antonio v USC 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729044000000-ut-san-antonio-usc/1/playlist.m3u8
-
 #EXTINF:-1 group-title="Football" tvg-id="vancouver-whitecaps-w-vs-portland-thorns-w" tvg-name="Vancouver Whitecaps W v Portland Thorns W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Vancouver Whitecaps W v Portland Thorns W 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/vancouver-whitecaps-w-vs-portland-thorns-w/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="1729044000000-vancouver-whitecaps-w-portland-thorns-w-spanish-" tvg-name="Vancouver Whitecaps W v Portland Thorns W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Vancouver Whitecaps W v Portland Thorns W 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729044000000-vancouver-whitecaps-w-portland-thorns-w-spanish-/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="1729044000000-vancouver-whitecaps-w-portland-thorns-w-english-" tvg-name="Vancouver Whitecaps W v Portland Thorns W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Vancouver Whitecaps W v Portland Thorns W 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729044000000-vancouver-whitecaps-w-portland-thorns-w-english-/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Football" tvg-id="vancouver-whitecaps-vs-portland-thorns-1629406337" tvg-name="Vancouver Whitecaps W v Portland Thorns W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Vancouver Whitecaps W v Portland Thorns W 2024-10-16 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -107,18 +101,6 @@ https://rr.vipstreams.in/charlie/js/vancouver-whitecaps-vs-portland-thorns-16294
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/belize-vs-turks-and-caicos-islands/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="1729044000000-belize-turks-and-caicos-islands" tvg-name="Belize vs Turks and Caicos Islands" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkhAoQJENLAowvEMawhqOkBHNbLF6SyQUsIuY0OqUPMGXhFqcl74rMBgPuJiEEA.webp", 10:00AM Belize vs Turks and Caicos Islands 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729044000000-belize-turks-and-caicos-islands/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="belize-vs-turks-and-caicos-islands-19126989" tvg-name="Belize vs Turks and Caicos Islands" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkhAoQJENLAowvEMawhqOkBHNbLF6SyQUsIuY0OqUPMGXhFqcl74rMBgPuJiEEA.webp", 10:00AM Belize vs Turks and Caicos Islands 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/belize-vs-turks-and-caicos-islands-19126989/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Hockey" tvg-id="edmonton-oilers-vs-philadelphia-flyers" tvg-name="Edmonton Oilers vs Philadelphia Flyers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEHAK8GthC8Q0kCk1GDZkhfgskFLCLmMUYVSh6vyjanPf5W2q7iYhBAA.webp", 10:00AM Edmonton Oilers vs Philadelphia Flyers 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -180,19 +162,7 @@ https://rr.vipstreams.in/charlie/js/golden-state-warriors-vs-los-angeles-lakers-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/wta-osaka-eva-lys-vs-mccartney-kessler/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Rugby" tvg-id="louisiana-tech-vs-new-mexico-state-1629406332" tvg-name="Louisiana Tech v New Mexico State" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:30AM Louisiana Tech v New Mexico State 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/louisiana-tech-vs-new-mexico-state-1629406332/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-id="1729042200000-wta-osaka-center-court-lamens-bronzetti" tvg-name="WTA Osaka v Center Court Lamens - Bronzetti" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:30AM WTA Osaka v Center Court Lamens - Bronzetti 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729042200000-wta-osaka-center-court-lamens-bronzetti/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Tennis" tvg-id="1729042200000-wta-osaka-court-1-lys-kessler" tvg-name="WTA Osaka v Center Court Lamens - Bronzetti" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:30AM WTA Osaka v Center Court Lamens - Bronzetti 2024-10-16 BRAVO
+#EXTINF:-1 group-title="Tennis" tvg-id="1729042200000-wta-osaka-court-1-lys-kessler" tvg-name="WTA Osaka v Court 1 Lys - Kessler" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:30AM WTA Osaka v Court 1 Lys - Kessler 2024-10-16 BRAVO
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -204,131 +174,11 @@ https://rr.vipstreams.in/bravo/js/1729042200000-wta-osaka-court-1-lys-kessler/1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/wta-osaka-suzan-lamens-vs-lucia-bronzetti/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="utah-jazz-sacramento-kings-19373" tvg-name="Utah Jazz v Sacramento Kings" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Utah Jazz v Sacramento Kings 2024-10-16 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/utah-jazz-sacramento-kings-19373/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="denver-nuggets-oklahoma-city-thunder-19372" tvg-name="Denver Nuggets v Oklahoma City Thunder" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Denver Nuggets v Oklahoma City Thunder 2024-10-16 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/denver-nuggets-oklahoma-city-thunder-19372/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="regina-pats-vs-saskatoon-blades-1629406305" tvg-name="Regina Pats v Saskatoon Blades" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Regina Pats v Saskatoon Blades 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/regina-pats-vs-saskatoon-blades-1629406305/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="spokane-chiefs-vs-moose-jaw-warriors-1629406306" tvg-name="Spokane Chiefs v Moose Jaw Warriors" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Spokane Chiefs v Moose Jaw Warriors 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/spokane-chiefs-vs-moose-jaw-warriors-1629406306/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="calgary-flames-vs-chicago-blackhawks" tvg-name="Calgary Flames vs Chicago Blackhawks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhEvMEnJIQvTSBQgsJ6kZA2Y5lvpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp", 9:00AM Calgary Flames vs Chicago Blackhawks 2024-10-16 ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/calgary-flames-vs-chicago-blackhawks/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="1729040400000-chicago-blackhawks-vs-calgary-flames-home-feed-" tvg-name="Calgary Flames vs Chicago Blackhawks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhEvMEnJIQvTSBQgsJ6kZA2Y5lvpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp", 9:00AM Calgary Flames vs Chicago Blackhawks 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729040400000-chicago-blackhawks-vs-calgary-flames-home-feed-/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="1729040400000-chicago-blackhawks-vs-calgary-flames-away-feed-" tvg-name="Calgary Flames vs Chicago Blackhawks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhEvMEnJIQvTSBQgsJ6kZA2Y5lvpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp", 9:00AM Calgary Flames vs Chicago Blackhawks 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729040400000-chicago-blackhawks-vs-calgary-flames-away-feed-/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="chicago-blackhawks-vs-calgary-flames-1629405684" tvg-name="Calgary Flames vs Chicago Blackhawks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhEvMEnJIQvTSBQgsJ6kZA2Y5lvpgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp", 9:00AM Calgary Flames vs Chicago Blackhawks 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/chicago-blackhawks-vs-calgary-flames-1629405684/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="denver-nuggets-vs-oklahoma-city-thunder" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduCTAADCHpIwvEEawhqIC4nMoQEMyBQsDMASLmMUYVSh5fyjajkffFZgMC9xMQggA.webp", 9:00AM Denver Nuggets vs Oklahoma City Thunder 2024-10-16 ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/denver-nuggets-vs-oklahoma-city-thunder/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="1729040400000-oklahoma-city-thunder-vs-denver-nuggets" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduCTAADCHpIwvEEawhqIC4nMoQEMyBQsDMASLmMUYVSh5fyjajkffFZgMC9xMQggA.webp", 9:00AM Denver Nuggets vs Oklahoma City Thunder 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729040400000-oklahoma-city-thunder-vs-denver-nuggets/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="oklahoma-city-thunder-vs-denver-nuggets-1629405662" tvg-name="Denver Nuggets vs Oklahoma City Thunder" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduCTAADCHpIwvEEawhqIC4nMoQEMyBQsDMASLmMUYVSh5fyjajkffFZgMC9xMQggA.webp", 9:00AM Denver Nuggets vs Oklahoma City Thunder 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/oklahoma-city-thunder-vs-denver-nuggets-1629405662/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="utah-jazz-vs-sacramento-kings" tvg-name="Utah Jazz vs Sacramento Kings" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEYRNwJMDAhehkFhDUQFxOZSazFlkgpYRcxijCqUPD+UbU5Xvis+h7iYhBAA.webp", 9:00AM Utah Jazz vs Sacramento Kings 2024-10-16 ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/utah-jazz-vs-sacramento-kings/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="1729040400000-sacramento-kings-vs-utah-jazz-home-feed-" tvg-name="Utah Jazz vs Sacramento Kings" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEYRNwJMDAhehkFhDUQFxOZSazFlkgpYRcxijCqUPD+UbU5Xvis+h7iYhBAA.webp", 9:00AM Utah Jazz vs Sacramento Kings 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729040400000-sacramento-kings-vs-utah-jazz-home-feed-/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="1729040400000-sacramento-kings-vs-utah-jazz-away-feed-" tvg-name="Utah Jazz vs Sacramento Kings" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEYRNwJMDAhehkFhDUQFxOZSazFlkgpYRcxijCqUPD+UbU5Xvis+h7iYhBAA.webp", 9:00AM Utah Jazz vs Sacramento Kings 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729040400000-sacramento-kings-vs-utah-jazz-away-feed-/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="sacramento-kings-vs-utah-jazz-1629405663" tvg-name="Utah Jazz vs Sacramento Kings" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEYRNwJMDAhehkFhDUQFxOZSazFlkgpYRcxijCqUPD+UbU5Xvis+h7iYhBAA.webp", 9:00AM Utah Jazz vs Sacramento Kings 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/sacramento-kings-vs-utah-jazz-1629405663/1/playlist.m3u8
-
 #EXTINF:-1 group-title="American-football" tvg-id="louisiana-tech-vs-nm-state" tvg-name="New Mexico State vs Louisiana Tech" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM New Mexico State vs Louisiana Tech 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/louisiana-tech-vs-nm-state/1/playlist.m3u8
-
-#EXTINF:-1 group-title="American-football" tvg-id="1729040400000-louisiana-tech-vs-new-mexico-state" tvg-name="New Mexico State vs Louisiana Tech" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM New Mexico State vs Louisiana Tech 2024-10-16 BRAVO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/bravo/js/1729040400000-louisiana-tech-vs-new-mexico-state/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="brazil-vs-peru" tvg-name="Brazil vs Peru" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGogoJELzD6kekNJCIYIFGeO8TllkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp", 8:45AM Brazil vs Peru 2024-10-16 ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/brazil-vs-peru/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Fight" tvg-id="wwe-nxt" tvg-name="WWE NXT" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM WWE NXT 2024-10-16 ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/wwe-nxt/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="dallas-stars-vs-san-jose-sharks" tvg-name="Dallas Stars vs San Jose Sharks" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBhMwJTeOkheIAyhBZjIaoZCmYllkgpYRcxih0cUPHeUbU5XviswGAejGIQQA.webp", 8:00AM Dallas Stars vs San Jose Sharks 2024-10-16 ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/dallas-stars-vs-san-jose-sharks/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="nashville-predators-vs-seattle-kraken" tvg-name="Nashville Predators vs Seattle Kraken" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvyQhG9MCGoheIaSBQgsxw+ZAwrWFkgr32o8SjCqUPD+UbU5XviswGAe4mIQQA.webp", 8:00AM Nashville Predators vs Seattle Kraken 2024-10-16 ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/nashville-predators-vs-seattle-kraken/1/playlist.m3u8
 
 #EXTINF:-1 group-title="American-football" tvg-id="kennesaw-state-vs-middle-tennessee" tvg-name="Middle Tennessee vs Kennesaw State" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM Middle Tennessee vs Kennesaw State 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -341,6 +191,12 @@ https://rr.vipstreams.in/alpha/js/kennesaw-state-vs-middle-tennessee/1/playlist.
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/troy-vs-south-alabama/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="libya-vs-nigeria-291285" tvg-name="Libya vs Nigeria" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkhAwtwTYJAheILCGogSIFCGmWD18yyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp", 3:00AM Libya vs Nigeria 2024-10-16 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/libya-vs-nigeria-291285/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-id="sky-sports-darts" tvg-name="Sky Sports Darts" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports Darts  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -492,17 +348,11 @@ https://rr.vipstreams.in/alpha/js/espn-first-take/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/nba-tv/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Cricket" tvg-id="india-vs-new-zealand" tvg-name="India v New Zealand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:00PM India v New Zealand 2024-10-16 ALPHA
+#EXTINF:-1 group-title="Tennis" tvg-id="wta-osaka-krunic-a-tomova-vs-vs-marie-bouzkova-camila-osorio" tvg-name="WTA Osaka: Krunic A / Tomova v vs Marie Bouzkova/Camila Osorio." tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:20PM WTA Osaka: Krunic A / Tomova v vs Marie Bouzkova/Camila Osorio. 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/india-vs-new-zealand/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Cricket" tvg-id="india-vs-new-zealand-1629405656" tvg-name="India v New Zealand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:00PM India v New Zealand 2024-10-16 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/india-vs-new-zealand-1629405656/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/wta-osaka-krunic-a-tomova-vs-vs-marie-bouzkova-camila-osorio/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-id="wta-osaka-sabrina-santamaria-qianhui-tang-vs-ena-shibahara-laura-siegemund" tvg-name="WTA Osaka: Sabrina Santamaria/Qianhui Tang v Ena Shibahara/Laura Siegemund" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:30PM WTA Osaka: Sabrina Santamaria/Qianhui Tang v Ena Shibahara/Laura Siegemund 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -845,6 +695,12 @@ https://rr.vipstreams.in/alpha/js/atp-stockholm-jean-julien-rojer-joe-salisbury-
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/atp-antwerp-hugo-gaston-vs-mariano-navone/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="racing-montevideo-vs-rampla-juniors-291450" tvg-name="Racing Montevideo v Rampla Juniors" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00PM Racing Montevideo v Rampla Juniors 2024-10-16 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/racing-montevideo-vs-rampla-juniors-291450/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Basketball" tvg-id="sabah-baku-vs-maroussi" tvg-name="Sabah Baku v Maroussi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00PM Sabah Baku v Maroussi 2024-10-16 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
