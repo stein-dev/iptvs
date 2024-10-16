@@ -1,25 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1,ABSCBN
+#EXTINF:-1 tvg-id="ABS-CBN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/abs-cbn-logo.png" ,ABS-CBN
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium785/index.m3u8
 
-#EXTINF:-1 tvg-id="ANC.HD.ph" ,ANC 
+#EXTINF:-1 tvg-id="ANC" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/anc-logo.png",ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1,TV5 HD
+#EXTINF:-1 tvg-id="Tv5.ph" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/tv5-logo.png" ,TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
 #EXTINF:-1,TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1,DZRH News TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-
 #EXTINF:-1,One News
-https://bit.ly/3V39Bce
+http://tv14s.xyz:8080/live/X5xRz0/944877/101774.ts
 
 #EXTINF:-1,Super Radyo DZBB
 https://tinyurl.com/RadyoDZBB
