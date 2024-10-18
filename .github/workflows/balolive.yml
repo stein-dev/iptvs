@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Download dlhd-channels M3U8 file
+      - name: Download balolive-channels M3U8 file
         run: |
           curl -fSL "${{ secrets.BALOLIVE }}" -o balolive-channels.m3u8
 
