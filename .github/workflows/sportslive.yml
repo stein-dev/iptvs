@@ -2,7 +2,7 @@ name: Fetch Sportslive
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Runs every 6 hours starting from 12:00 AM PHT
+    - cron: '0 */2 * * *' # This runs every 2 hours
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
