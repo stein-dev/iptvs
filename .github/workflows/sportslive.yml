@@ -2,11 +2,12 @@ name: Fetch Sportslive Channels M3U8
 
 on:
   schedule:
-    - cron: '0 16,22,4,10 * * *'  # Runs every 6 hours starting from 12:00 AM PHT
+    - cron: '0 */2 * * *'  # Runs every 6 hours starting from 12:00 AM PHT
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
-  filename: sportslive-channels.m3u8
+  ch_filename: sportslive-channels.m3u8
+  ev_filename: sportslive-events.m3u8
 
 jobs:
   fetch_m3u8_job:
@@ -20,26 +21,34 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Download M3U8 file
+      - name: Download M3U8 files
         run: |
-          echo "Downloading M3U8 file"
-          curl -fSL "${{ secrets.SPORTSLIVE }}" -o $filename
+          echo "Downloading M3U8 files"
+          curl -fSL "${{ secrets.SPORTSLIVE_CH }}" -o "${{ env.ch_filename }}"
+          curl -fSL "${{ secrets.SPORTSLIVE_EV }}" -o "${{ env.ev_filename }}"
 
       - name: Log the downloaded M3U8 file details
         run: |
-          if [ -f "$filename" ]; then
-            echo "M3U8 file downloaded successfully."
-            ls -lh $filename
+          if [ -f "${{ env.ch_filename }}" ]; then
+            echo "${{ env.ch_filename }} downloaded successfully."
+            ls -lh "${{ env.ch_filename }}"
           else
-            echo "Failed to download the M3U8 file."
+            echo "Failed to download ${{ env.ch_filename }}."
           fi
 
-      - name: Commit and push the M3U8 file (Squash Commit)
+          if [ -f "${{ env.ev_filename }}" ]; then
+            echo "${{ env.ev_filename }} downloaded successfully."
+            ls -lh "${{ env.ev_filename }}"
+          else
+            echo "Failed to download ${{ env.ev_filename }}."
+          fi
+
+      - name: Commit and push the M3U8 files (Squash Commit)
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add $filename
-          git commit -m "Update M3U8 file" || echo "No changes to commit"
+          git add "${{ env.ch_filename }}" "${{ env.ev_filename }}"
+          git commit -m "Update M3U8 files" || echo "No changes to commit"
           git push --force-with-lease
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
