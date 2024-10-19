@@ -20,7 +20,7 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Download $filename M3U8 file
+      - name: Download M3U8 file
         run: |
           echo "Downloading M3U8 file"
           curl -fSL "${{ secrets.SPORTSLIVE }}" -o $filename
