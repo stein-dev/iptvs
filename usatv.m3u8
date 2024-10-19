@@ -178,10 +178,10 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/foxnews.png", Fox News 
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+http://streamsy.online:2999/live/juanv/04bodwaga0/267.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/msnbc.png", MSNBC 
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
+http://streamsy.online:2999/live/juanv/04bodwaga0/143.m3u8
 
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="NewsMax" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/newsmmax.png", NewsMax 
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
@@ -312,10 +312,7 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS1.us" tvg-name="Fox Sports 1 Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/foxsports1.png", Fox Sports 1 Server 2 
 http://streamsy.online:2999/live/juanv/04bodwaga0/263.m3u8
 
-#EXTINF:-1 tvg-id="FS2.us" tvg-name="Fox Sports 2 Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/foxsports2.png", Fox Sports 2 Server 1 
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-
-#EXTINF:-1 tvg-id="FS2.us" tvg-name="Fox Sports 2 Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/foxsports2.png", Fox Sports 2 Server 2 
+#EXTINF:-1 tvg-id="FS2.us" tvg-name="Fox Sports 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/foxsports2.png", Fox Sports 2 
 http://streamsy.online:2999/live/juanv/04bodwaga0/264.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/golfchannel.png", Golf Channel Server 1 
@@ -369,7 +366,16 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nflnetwork.png", NFL Network Server 2 
 http://streamsy.online:2999/live/juanv/04bodwaga0/234.m3u8
 
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nflredzone.png", NFL RedZone 
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nflredzone.png", NFL RedZone Server 1 
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nflredzone.png", NFL RedZone Server 2 
+http://fl2.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone Server 3" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nflredzone.png", NFL RedZone Server 3 
+http://fl5.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone Server 4" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nflredzone.png", NFL RedZone Server 4 
 http://streamsy.online:2999/live/juanv/04bodwaga0/260.m3u8
 
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nhlnetwork.png", NHL Network Server 1 
@@ -414,10 +420,7 @@ http://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/tennischannel.png", Tennis Channel Server 2 
 http://streamsy.online:2999/live/juanv/04bodwaga0/244.m3u8
 
-#EXTINF:-1 tvg-id="UFCFightPass.us" tvg-name="UFC Fight Pass Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/ufcfightpass.png", UFC Fight Pass Server 1 
-http://fl1.moveonjoy.com/UFC/index.m3u8
-
-#EXTINF:-1 tvg-id="UFCFightPass.us" tvg-name="UFC Fight Pass Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/ufcfightpass.png", UFC Fight Pass Server 2 
+#EXTINF:-1 tvg-id="UFCFightPass.us" tvg-name="UFC Fight Pass" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/ufcfightpass.png", UFC Fight Pass 
 http://streamsy.online:2999/live/juanv/04bodwaga0/631.m3u8
 
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/yesnetwork.png", YES Network Server 1 
@@ -487,7 +490,7 @@ http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hallmarkmystery.png", Hallmark Mystery 
-http://streamsy.online:2999/live/juanv/04bodwaga0/161.m3u8
+http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="INSP.us" tvg-name="Insp" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/insp.png", Insp 
 http://fl2.moveonjoy.com/INSP/index.m3u8
