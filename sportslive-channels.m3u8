@@ -2400,6 +2400,12 @@ https://faptok.site/sportslive/stream.m3u8?id=613
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://faptok.site/sportslive/stream.m3u8?id=405
 
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="NFL Sunday Ticket" ,NFL Sunday Ticket  
+#EXTVLCOPT:http-origin=https://faptok.site/sportslive/?play=26
+#EXTVLCOPT:http-referrer=https://faptok.site/sportslive/?play=26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://faptok.site/sportslive/stream.m3u8?id=26
+
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" group-title="" tvg-id="NHL Network USA" ,NHL Network USA  
 #EXTVLCOPT:http-origin=https://faptok.site/sportslive/?play=663
 #EXTVLCOPT:http-referrer=https://faptok.site/sportslive/?play=663
