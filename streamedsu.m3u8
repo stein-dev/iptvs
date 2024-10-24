@@ -1,22 +1,346 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live" tvg-id="nhl-network" tvg-name="NHL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 NHL Network  ALPHA
+#EXTINF:-1 group-title="Football" tvg-id="washington-wizards-boston-celtics-19404" tvg-name="Washington Wizards v Boston Celtics" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Washington Wizards v Boston Celtics 2024-10-25 ECHO
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/nhl-network/1/playlist.m3u8
+https://rr.vipstreams.in/echo/js/washington-wizards-boston-celtics-19404/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="espn-first-take" tvg-name="ESPN First Take" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 ESPN First Take  ALPHA
+#EXTINF:-1 group-title="Other" tvg-id="1729810800000-wisconsin-w-indiana-w" tvg-name="Wisconsin W v Indiana W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Wisconsin W v Indiana W 2024-10-25 BRAVO
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/espn-first-take/1/playlist.m3u8
+https://rr.vipstreams.in/bravo/js/1729810800000-wisconsin-w-indiana-w/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 NBA TV  ALPHA
+#EXTINF:-1 group-title="Tennis" tvg-id="1729810800000-wta-tampico-stadium-2-joint-marino" tvg-name="WTA Tampico v Stadium 1 Stefanini - Stakusic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM WTA Tampico v Stadium 1 Stefanini - Stakusic 2024-10-25 BRAVO
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/nba-tv/1/playlist.m3u8
+https://rr.vipstreams.in/bravo/js/1729810800000-wta-tampico-stadium-2-joint-marino/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Tennis" tvg-id="1729810800000-wta-tampico-stadium-3-blinkova-lepchenko" tvg-name="WTA Tampico v Stadium 1 Stefanini - Stakusic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM WTA Tampico v Stadium 1 Stefanini - Stakusic 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-wta-tampico-stadium-3-blinkova-lepchenko/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Tennis" tvg-id="1729810800000-wta-tampico-stadium-1-stefanini-stakusic" tvg-name="WTA Tampico v Stadium 1 Stefanini - Stakusic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM WTA Tampico v Stadium 1 Stefanini - Stakusic 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-wta-tampico-stadium-1-stefanini-stakusic/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="1729810800000-nhl-coast-to-coast" tvg-name="NHL Coast to Coast" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM NHL Coast to Coast 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-nhl-coast-to-coast/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="1729810800000-guarani-sp-carapegua" tvg-name="Guarani v Sp. Carapegua" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Guarani v Sp. Carapegua 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-guarani-sp-carapegua/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="1729810800000-flamengo-corinthians-paulista" tvg-name="Flamengo v Corinthians Paulista" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Flamengo v Corinthians Paulista 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-flamengo-corinthians-paulista/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="victoria-vs-new-south-wales" tvg-name="Victoria v New South Wales" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Victoria v New South Wales 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/victoria-vs-new-south-wales/1/playlist.m3u8
+
+#EXTINF:-1 group-title="American-football" tvg-id="thursday-night-football" tvg-name="Thursday Night Football" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Thursday Night Football 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/thursday-night-football/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="toronto-maple-leafs-vs-st-louis-blues" tvg-name="Toronto Maple Leafs vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtQZEQwWWBC8Q0kChBYjIagZA3Ek-MCQUsIuYxRhVKHp-KNNYt4O9GCe4mIQQA.webp", 7:00AM Toronto Maple Leafs vs St. Louis Blues 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/toronto-maple-leafs-vs-st-louis-blues/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="1729810800000-st-louis-blues-vs-toronto-maple-leafs" tvg-name="Toronto Maple Leafs vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtQZEQwWWBC8Q0kChBYjIagZA3Ek-MCQUsIuYxRhVKHp-KNNYt4O9GCe4mIQQA.webp", 7:00AM Toronto Maple Leafs vs St. Louis Blues 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-st-louis-blues-vs-toronto-maple-leafs/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="st-louis-blues-vs-toronto-maple-leafs-1629408123" tvg-name="Toronto Maple Leafs vs St. Louis Blues" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtQZEQwWWBC8Q0kChBYjIagZA3Ek-MCQUsIuYxRhVKHp-KNNYt4O9GCe4mIQQA.webp", 7:00AM Toronto Maple Leafs vs St. Louis Blues 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/st-louis-blues-vs-toronto-maple-leafs-1629408123/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="tampa-bay-lightning-vs-minnesota-wild" tvg-name="Tampa Bay Lightning vs Minnesota Wild" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBYQEEHCjSQvEIZRaTRzRc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp", 7:00AM Tampa Bay Lightning vs Minnesota Wild 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/tampa-bay-lightning-vs-minnesota-wild/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="1729810800000-minnesota-wild-vs-tampa-bay-lightning" tvg-name="Tampa Bay Lightning vs Minnesota Wild" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBYQEEHCjSQvEIZRaTRzRc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp", 7:00AM Tampa Bay Lightning vs Minnesota Wild 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-minnesota-wild-vs-tampa-bay-lightning/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="minnesota-wild-vs-tampa-bay-lightning-1629408121" tvg-name="Tampa Bay Lightning vs Minnesota Wild" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBYQEEHCjSQvEIZRaTRzRc3SWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp", 7:00AM Tampa Bay Lightning vs Minnesota Wild 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/minnesota-wild-vs-tampa-bay-lightning-1629408121/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="new-york-rangers-vs-florida-panthers" tvg-name="New York Rangers vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduzBgQIeGBIhpIXoZAoQWU9WNmLIEiyQUsIuYxT6OKHvvKNqct74rMBaYozhQA.webp", 7:00AM New York Rangers vs Florida Panthers 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/new-york-rangers-vs-florida-panthers/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="1729810800000-florida-panthers-vs-new-york-rangers" tvg-name="New York Rangers vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduzBgQIeGBIhpIXoZAoQWU9WNmLIEiyQUsIuYxT6OKHvvKNqct74rMBaYozhQA.webp", 7:00AM New York Rangers vs Florida Panthers 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-florida-panthers-vs-new-york-rangers/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="florida-panthers-vs-new-york-rangers-1629408120" tvg-name="New York Rangers vs Florida Panthers" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduzBgQIeGBIhpIXoZAoQWU9WNmLIEiyQUsIuYxT6OKHvvKNqct74rMBaYozhQA.webp", 7:00AM New York Rangers vs Florida Panthers 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/florida-panthers-vs-new-york-rangers-1629408120/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="detroit-red-wings-vs-new-jersey-devils" tvg-name="Detroit Red Wings vs New Jersey Devils" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPxCQwMDRC8Q0kChBYjBs5eogYLJBSwi5jFGFUoe78o2pzPWvR6YowhQA.webp", 7:00AM Detroit Red Wings vs New Jersey Devils 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/detroit-red-wings-vs-new-jersey-devils/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="1729810800000-new-jersey-devils-vs-detroit-red-wings" tvg-name="Detroit Red Wings vs New Jersey Devils" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPxCQwMDRC8Q0kChBYjBs5eogYLJBSwi5jFGFUoe78o2pzPWvR6YowhQA.webp", 7:00AM Detroit Red Wings vs New Jersey Devils 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-new-jersey-devils-vs-detroit-red-wings/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="new-jersey-devils-vs-detroit-red-wings-1629408122" tvg-name="Detroit Red Wings vs New Jersey Devils" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPxCQwMDRC8Q0kChBYjBs5eogYLJBSwi5jFGFUoe78o2pzPWvR6YowhQA.webp", 7:00AM Detroit Red Wings vs New Jersey Devils 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/new-jersey-devils-vs-detroit-red-wings-1629408122/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="boston-bruins-vs-dallas-stars" tvg-name="Boston Bruins vs Dallas Stars" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxBMBIKNJC8Q+lCCxGQ1AyGsldLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp", 7:00AM Boston Bruins vs Dallas Stars 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/boston-bruins-vs-dallas-stars/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="1729810800000-dallas-stars-vs-boston-bruins" tvg-name="Boston Bruins vs Dallas Stars" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxBMBIKNJC8Q+lCCxGQ1AyGsldLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp", 7:00AM Boston Bruins vs Dallas Stars 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-dallas-stars-vs-boston-bruins/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="dallas-stars-vs-boston-bruins-1629408119" tvg-name="Boston Bruins vs Dallas Stars" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvxBMBIKNJC8Q+lCCxGQ1AyGsldLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp", 7:00AM Boston Bruins vs Dallas Stars 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/dallas-stars-vs-boston-bruins-1629408119/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="washington-wizards-vs-boston-celtics" tvg-name="Washington Wizards vs Boston Celtics" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijDTy4EMDAheILCGohzRs0ekgIhlkgpYRcxptUoeYMvCLU5nvis+t7iYhBAA.webp", 7:00AM Washington Wizards vs Boston Celtics 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/washington-wizards-vs-boston-celtics/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="1729810800000-boston-celtics-vs-washington-wizards" tvg-name="Washington Wizards vs Boston Celtics" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijDTy4EMDAheILCGohzRs0ekgIhlkgpYRcxptUoeYMvCLU5nvis+t7iYhBAA.webp", 7:00AM Washington Wizards vs Boston Celtics 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-boston-celtics-vs-washington-wizards/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="boston-celtics-vs-washington-wizards-1629408110" tvg-name="Washington Wizards vs Boston Celtics" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijDTy4EMDAheILCGohzRs0ekgIhlkgpYRcxptUoeYMvCLU5nvis+t7iYhBAA.webp", 7:00AM Washington Wizards vs Boston Celtics 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/boston-celtics-vs-washington-wizards-1629408110/1/playlist.m3u8
+
+#EXTINF:-1 group-title="American-football" tvg-id="georgia-southern-vs-old-dominion" tvg-name="Old Dominion vs Georgia Southern" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Old Dominion vs Georgia Southern 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/georgia-southern-vs-old-dominion/1/playlist.m3u8
+
+#EXTINF:-1 group-title="American-football" tvg-id="1729810800000-georgia-southern-vs-old-dominion" tvg-name="Old Dominion vs Georgia Southern" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Old Dominion vs Georgia Southern 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729810800000-georgia-southern-vs-old-dominion/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="1729809000000-paulistano-franca" tvg-name="Paulistano v Franca" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:30AM Paulistano v Franca 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729809000000-paulistano-franca/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Golf" tvg-id="maybank-championship-first-round" tvg-name="Maybank Championship First Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:30AM Maybank Championship First Round 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/maybank-championship-first-round/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Golf" tvg-id="maybank-championship-first-round-1629408134" tvg-name="Maybank Championship First Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:30AM Maybank Championship First Round 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/maybank-championship-first-round-1629408134/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="nacional-potosi-vs-guabira" tvg-name="Nacional Potosi v Guabira" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Nacional Potosi v Guabira 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/nacional-potosi-vs-guabira/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="1729807200000-nacional-potosi-guabira" tvg-name="Nacional Potosi v Guabira" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Nacional Potosi v Guabira 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729807200000-nacional-potosi-guabira/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="huracan-vs-central-cordoba" tvg-name="Huracan vs Central Córdoba de Santiago del Estero" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Huracan vs Central Córdoba de Santiago del Estero 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/huracan-vs-central-cordoba/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="1729807200000-huracan-central-cordoba" tvg-name="Huracan vs Central Córdoba de Santiago del Estero" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Huracan vs Central Córdoba de Santiago del Estero 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729807200000-huracan-central-cordoba/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="huracan-vs-central-cordoba-sde-19313051" tvg-name="Huracan vs Central Córdoba de Santiago del Estero" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Huracan vs Central Córdoba de Santiago del Estero 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/huracan-vs-central-cordoba-sde-19313051/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="huracan-vs-central-cordoba-de-santiago-295811" tvg-name="Huracan vs Central Córdoba de Santiago del Estero" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Huracan vs Central Córdoba de Santiago del Estero 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/huracan-vs-central-cordoba-de-santiago-295811/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="vasco-da-gama-vs-cuiaba" tvg-name="Vasco da Gama vs Cuiaba" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBlG7FCGkheILIZDUQevQb0ktLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp", 6:00AM Vasco da Gama vs Cuiaba 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/vasco-da-gama-vs-cuiaba/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="1729807200000-vasco-cuiaba" tvg-name="Vasco da Gama vs Cuiaba" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBlG7FCGkheILIZDUQevQb0ktLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp", 6:00AM Vasco da Gama vs Cuiaba 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729807200000-vasco-cuiaba/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="vasco-da-gama-vs-cuiaba-239610" tvg-name="Vasco da Gama vs Cuiaba" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBBlG7FCGkheILIZDUQevQb0ktLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp", 6:00AM Vasco da Gama vs Cuiaba 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/vasco-da-gama-vs-cuiaba-239610/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Other" tvg-id="1729805400000-sesi-bauru-w-pinheiros-w" tvg-name="Sesi Bauru W v Pinheiros W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 5:30AM Sesi Bauru W v Pinheiros W 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729805400000-sesi-bauru-w-pinheiros-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Tennis" tvg-id="1729803600000-wta-tampico-stadium-1-rodriguez-sanchez-chwalinska-ruzic" tvg-name="WTA Tampico v Stadium 1 Rodriguez/Sanchez - Chwalinska/Ruzic" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 5:00AM WTA Tampico v Stadium 1 Rodriguez/Sanchez - Chwalinska/Ruzic 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729803600000-wta-tampico-stadium-1-rodriguez-sanchez-chwalinska-ruzic/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Billiards" tvg-id="1729792800000-northern-ireland-open-table-2" tvg-name="Northern Ireland Open v Table 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 2:00AM Northern Ireland Open v Table 1 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729792800000-northern-ireland-open-table-2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Billiards" tvg-id="1729792800000-northern-ireland-open-table-1" tvg-name="Northern Ireland Open v Table 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 2:00AM Northern Ireland Open v Table 1 2024-10-25 BRAVO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/bravo/js/1729792800000-northern-ireland-open-table-1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="swimming-wc-korea-day-2" tvg-name="Swimming WC: Korea Day 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Swimming WC: Korea Day 2  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/swimming-wc-korea-day-2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="sky-sports-darts" tvg-name="Sky Sports Darts" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports Darts  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/sky-sports-darts/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="darts-tv-all-darts-championship" tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Darts TV: All Darts Championship  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="sky-sports-golf" tvg-name="Sky Sports Golf" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports Golf  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/sky-sports-golf/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="pga-tour-2024" tvg-name="PGA Tour 2024" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 PGA Tour 2024  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/pga-tour-2024/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="nbc-golf-channel" tvg-name="NBC Golf Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 NBC Golf Channel  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/nbc-golf-channel/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="fox-nrl-tv" tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Fox NRL TV  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/fox-nrl-tv/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="tennis-channel" tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Tennis Channel  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/tennis-channel/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="wwe-network" tvg-name="WWE Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 WWE Network  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/wwe-network/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="dazn-boxing-dazn-ppv-boxing" tvg-name="DAZN Boxing | DAZN PPV Boxing" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 DAZN Boxing | DAZN PPV Boxing  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/dazn-boxing-dazn-ppv-boxing/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-id="supercars" tvg-name="Supercars" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Supercars  ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/supercars/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-id="dazn-formula-1-dazn-f1" tvg-name="DAZN Formula 1 | DAZN F1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 DAZN Formula 1 | DAZN F1  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -36,47 +360,11 @@ https://rr.vipstreams.in/alpha/js/sky-sports-f1-sky-f1/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/nascar-racehub/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="mutv-manchester-united-tv-mufc-tv" tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 MUTV | Manchester United TV | MUFC TV  ALPHA
+#EXTINF:-1 group-title="Live" tvg-id="nhl-network" tvg-name="NHL Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 NHL Network  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live" tvg-id="sky-sports-saturday-social" tvg-name="Sky Sports Saturday Social" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports Saturday Social  ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/sky-sports-saturday-social/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live" tvg-id="sky-sports-news-ssn-breaking-sports-news" tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports News | SSN Breaking Sports News  ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live" tvg-id="wwe-network" tvg-name="WWE Network" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 WWE Network  ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/wwe-network/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live" tvg-id="swimming-wc-korea-day-2" tvg-name="Swimming WC: Korea Day 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Swimming WC: Korea Day 2  ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/swimming-wc-korea-day-2/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live" tvg-id="sky-sports-darts" tvg-name="Sky Sports Darts" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports Darts  ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/sky-sports-darts/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live" tvg-id="darts-tv-all-darts-championship" tvg-name="Darts TV: All Darts Championship" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Darts TV: All Darts Championship  ALPHA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/darts-tv-all-darts-championship/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/nhl-network/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-id="snf-sunday-night-football" tvg-name="SNF: Sunday Night Football" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 SNF: Sunday Night Football  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -114,605 +402,107 @@ https://rr.vipstreams.in/alpha/js/nfl-network/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/alpha/js/espn/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="sky-sports-golf" tvg-name="Sky Sports Golf" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports Golf  ALPHA
+#EXTINF:-1 group-title="Live" tvg-id="switzerland-w-vs-australia-w" tvg-name="Switzerland W v Australia W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Switzerland W v Australia W  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/sky-sports-golf/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/switzerland-w-vs-australia-w/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="pga-tour-2024" tvg-name="PGA Tour 2024" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 PGA Tour 2024  ALPHA
+#EXTINF:-1 group-title="Live" tvg-id="italy-w-vs-malta-w" tvg-name="Italy W v Malta W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Italy W v Malta W  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/pga-tour-2024/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/italy-w-vs-malta-w/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="nbc-golf-channel" tvg-name="NBC Golf Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 NBC Golf Channel  ALPHA
+#EXTINF:-1 group-title="Live" tvg-id="ecuador-w-vs-chile-w" tvg-name="Ecuador W v Chile W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Ecuador W v Chile W  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/nbc-golf-channel/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/ecuador-w-vs-chile-w/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="fox-nrl-tv" tvg-name="Fox NRL TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Fox NRL TV  ALPHA
+#EXTINF:-1 group-title="Live" tvg-id="denmark-w-vs-south-africa-w" tvg-name="Denmark W v South Africa W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Denmark W v South Africa W  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/fox-nrl-tv/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/denmark-w-vs-south-africa-w/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live" tvg-id="tennis-channel" tvg-name="Tennis Channel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Tennis Channel  ALPHA
+#EXTINF:-1 group-title="Live" tvg-id="united-states-w-vs-iceland-w" tvg-name="United States W v Iceland W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 United States W v Iceland W  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/alpha/js/tennis-channel/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/united-states-w-vs-iceland-w/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="heart-of-midlothian-vs-omonia-nicosia-295770" tvg-name="Heart Of Midlothian v Omonia Nicosia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Heart Of Midlothian v Omonia Nicosia 2024-10-25 DELTA
+#EXTINF:-1 group-title="Live" tvg-id="mutv-manchester-united-tv-mufc-tv" tvg-name="MUTV | Manchester United TV | MUFC TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 MUTV | Manchester United TV | MUFC TV  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/heart-of-midlothian-vs-omonia-nicosia-295770/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="rapid-vienna-vs-fc-noah-295776" tvg-name="Rapid Vienna v FC Noah" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Rapid Vienna v FC Noah 2024-10-25 DELTA
+#EXTINF:-1 group-title="Live" tvg-id="sky-sports-saturday-social" tvg-name="Sky Sports Saturday Social" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports Saturday Social  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/rapid-vienna-vs-fc-noah-295776/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/sky-sports-saturday-social/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="st-gallen-vs-fiorentina-1629408639" tvg-name="St. Gallen v Fiorentina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM St. Gallen v Fiorentina 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Live" tvg-id="sky-sports-news-ssn-breaking-sports-news" tvg-name="Sky Sports News | SSN Breaking Sports News" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 Sky Sports News | SSN Breaking Sports News  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/st-gallen-vs-fiorentina-1629408639/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="fc-st-gallen-vs-fiorentina-295771" tvg-name="St. Gallen v Fiorentina" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM St. Gallen v Fiorentina 2024-10-25 DELTA
+#EXTINF:-1 group-title="Live" tvg-id="espn-first-take" tvg-name="ESPN First Take" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 ESPN First Take  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/fc-st-gallen-vs-fiorentina-295771/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/espn-first-take/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="celje-vs-istanbul-basaksehir-1629408637" tvg-name="Celje v Istanbul Basaksehir" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Celje v Istanbul Basaksehir 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Live" tvg-id="nba-tv" tvg-name="NBA TV" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 24/7 NBA TV  ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/celje-vs-istanbul-basaksehir-1629408637/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/nba-tv/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="celje-vs-istanbul-basaksehir-295767" tvg-name="Celje v Istanbul Basaksehir" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Celje v Istanbul Basaksehir 2024-10-25 DELTA
+#EXTINF:-1 group-title="Football" tvg-id="dallas-mavericks-san-antonio-spurs-19405" tvg-name="Dallas Mavericks v San Antonio Spurs" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:30AM Dallas Mavericks v San Antonio Spurs 2024-10-25 ECHO
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/celje-vs-istanbul-basaksehir-295767/1/playlist.m3u8
+https://rr.vipstreams.in/echo/js/dallas-mavericks-san-antonio-spurs-19405/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="larne-vs-shamrock-rovers-1629408636" tvg-name="Larne v Shamrock Rovers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Larne v Shamrock Rovers 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Football" tvg-id="san-diego-state-vs-ut-rio-grande-valley-1629408647" tvg-name="San Diego State v UT Rio Grande Valley" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:30AM San Diego State v UT Rio Grande Valley 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/larne-vs-shamrock-rovers-1629408636/1/playlist.m3u8
+https://rr.vipstreams.in/charlie/js/san-diego-state-vs-ut-rio-grande-valley-1629408647/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="larne-vs-shamrock-rovers-295778" tvg-name="Larne v Shamrock Rovers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Larne v Shamrock Rovers 2024-10-25 DELTA
+#EXTINF:-1 group-title="Football" tvg-id="united-states-w-vs-iceland-w-19196492" tvg-name="United States W v Iceland W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:30AM United States W v Iceland W 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/larne-vs-shamrock-rovers-295778/1/playlist.m3u8
+https://rr.vipstreams.in/charlie/js/united-states-w-vs-iceland-w-19196492/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="heart-of-midlothian-vs-omonoia-1629408634" tvg-name="Heart of Midlothian v Omonoia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Heart of Midlothian v Omonoia 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/heart-of-midlothian-vs-omonoia-1629408634/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="apoel-vs-borac-1629408633" tvg-name="APOEL v Borac" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM APOEL v Borac 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/apoel-vs-borac-1629408633/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="apoel-nicosia-vs-borac-banja-luka-295757" tvg-name="APOEL v Borac" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM APOEL v Borac 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/apoel-nicosia-vs-borac-banja-luka-295757/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="apoel-nicosia-borac-banja-luka-18732" tvg-name="APOEL v Borac" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM APOEL v Borac 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/apoel-nicosia-borac-banja-luka-18732/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="gent-vs-molde-1629408632" tvg-name="Gent v Molde" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Gent v Molde 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/gent-vs-molde-1629408632/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="gent-vs-molde-295762" tvg-name="Gent v Molde" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Gent v Molde 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/gent-vs-molde-295762/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="rapid-wien-vs-noah-1629408631" tvg-name="Rapid Wien v Noah" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Rapid Wien v Noah 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/rapid-wien-vs-noah-1629408631/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="jagiellonia-bialystok-vs-petrocub-1629408638" tvg-name="Jagiellonia Białystok v Petrocub" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Jagiellonia Białystok v Petrocub 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/jagiellonia-bialystok-vs-petrocub-1629408638/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="jagiellonia-vs-petrocub-295773" tvg-name="Jagiellonia Białystok v Petrocub" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Jagiellonia Białystok v Petrocub 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/jagiellonia-vs-petrocub-295773/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="djurgarden-vs-vitoria-sc-1629408635" tvg-name="Djurgarden v Vitoria SC" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Djurgarden v Vitoria SC 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/djurgarden-vs-vitoria-sc-1629408635/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="djurgardens-if-vs-guimaraes-295775" tvg-name="Djurgarden v Vitoria SC" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Djurgarden v Vitoria SC 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/djurgardens-if-vs-guimaraes-295775/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="panathinaikos-vs-chelsea-1629408630" tvg-name="Panathinaikos v Chelsea" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Panathinaikos v Chelsea 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/panathinaikos-vs-chelsea-1629408630/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="panathinaikos-vs-chelsea-295777" tvg-name="Panathinaikos v Chelsea" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Panathinaikos v Chelsea 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/panathinaikos-vs-chelsea-295777/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="ferencvaros-vs-nice-19296408" tvg-name="Ferencvaros v Nice" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Ferencvaros v Nice 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/ferencvaros-vs-nice-19296408/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="ferencvarosi-tc-vs-nice-295760" tvg-name="Ferencvaros v Nice" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Ferencvaros v Nice 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/ferencvarosi-tc-vs-nice-295760/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="ferencvarosi-tc-nice-18700" tvg-name="Ferencvaros v Nice" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Ferencvaros v Nice 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/ferencvarosi-tc-nice-18700/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="qarabag-vs-ajax-19296411" tvg-name="Qarabag v Ajax" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Qarabag v Ajax 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/qarabag-vs-ajax-19296411/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="qarabag-vs-ajax-295759" tvg-name="Qarabag v Ajax" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Qarabag v Ajax 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/qarabag-vs-ajax-295759/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="qarabag-ajax-18703" tvg-name="Qarabag v Ajax" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Qarabag v Ajax 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/qarabag-ajax-18703/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="paok-vs-viktoria-plzen-19296410" tvg-name="PAOK v Viktoria Plzen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM PAOK v Viktoria Plzen 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/paok-vs-viktoria-plzen-19296410/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="paok-vs-plzen-295766" tvg-name="PAOK v Viktoria Plzen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM PAOK v Viktoria Plzen 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/paok-vs-plzen-295766/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="paok-plzen-18702" tvg-name="PAOK v Viktoria Plzen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM PAOK v Viktoria Plzen 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/paok-plzen-18702/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="maccabi-tel-aviv-vs-real-sociedad-19296409" tvg-name="Maccabi Tel Aviv v Real Sociedad" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Maccabi Tel Aviv v Real Sociedad 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/maccabi-tel-aviv-vs-real-sociedad-19296409/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="maccabi-tel-aviv-vs-real-sociedad-295764" tvg-name="Maccabi Tel Aviv v Real Sociedad" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Maccabi Tel Aviv v Real Sociedad 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/maccabi-tel-aviv-vs-real-sociedad-295764/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="maccabi-tel-aviv-real-sociedad-18701" tvg-name="Maccabi Tel Aviv v Real Sociedad" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Maccabi Tel Aviv v Real Sociedad 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/maccabi-tel-aviv-real-sociedad-18701/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="eintracht-frankfurt-vs-rigas-fs-19296406" tvg-name="Eintracht Frankfurt v Rigas FS" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Eintracht Frankfurt v Rigas FS 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/eintracht-frankfurt-vs-rigas-fs-19296406/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="eintracht-frankfurt-vs-rigas-fs-295761" tvg-name="Eintracht Frankfurt v Rigas FS" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Eintracht Frankfurt v Rigas FS 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/eintracht-frankfurt-vs-rigas-fs-295761/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="eintracht-frankfurt-rigas-fs-18698" tvg-name="Eintracht Frankfurt v Rigas FS" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Eintracht Frankfurt v Rigas FS 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/eintracht-frankfurt-rigas-fs-18698/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="roma-vs-dynamo-kyiv-19296412" tvg-name="Roma v Dynamo Kyiv" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Roma v Dynamo Kyiv 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/roma-vs-dynamo-kyiv-19296412/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="as-roma-vs-dynamo-kyiv-295769" tvg-name="Roma v Dynamo Kyiv" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Roma v Dynamo Kyiv 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/as-roma-vs-dynamo-kyiv-295769/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="as-roma-dynamo-kyiv-18704" tvg-name="Roma v Dynamo Kyiv" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM Roma v Dynamo Kyiv 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/as-roma-dynamo-kyiv-18704/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="fc-midtjylland-vs-union-saint-gilloise-19296407" tvg-name="FC Midtjylland v Union Saint-Gilloise" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM FC Midtjylland v Union Saint-Gilloise 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/fc-midtjylland-vs-union-saint-gilloise-19296407/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="fc-midtjylland-vs-union-st-gilloise-295768" tvg-name="FC Midtjylland v Union Saint-Gilloise" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM FC Midtjylland v Union Saint-Gilloise 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/fc-midtjylland-vs-union-st-gilloise-295768/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="fc-midtjylland-union-st-gilloise-18699" tvg-name="FC Midtjylland v Union Saint-Gilloise" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:45AM FC Midtjylland v Union Saint-Gilloise 2024-10-25 ECHO
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/echo/js/fc-midtjylland-union-st-gilloise-18699/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="almeria-vs-albacete-295772" tvg-name="Almeria v Albacete" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 1:00AM Almeria v Albacete 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/almeria-vs-albacete-295772/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="levante-vs-deportivo-la-coruna-19144775" tvg-name="Levante v Deportivo La Coruna" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 1:00AM Levante v Deportivo La Coruna 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/levante-vs-deportivo-la-coruna-19144775/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="levante-vs-deportivo-la-coruna-295782" tvg-name="Levante v Deportivo La Coruna" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 1:00AM Levante v Deportivo La Coruna 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/levante-vs-deportivo-la-coruna-295782/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Fight" tvg-id="ares-26-1629408132" tvg-name="ARES 26" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 1:30AM ARES 26 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/ares-26-1629408132/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="al-riyadh-vs-alittihad-fc-295784" tvg-name="Al Riyadh v Al-Ittihad FC" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 2:00AM Al Riyadh v Al-Ittihad FC 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/al-riyadh-vs-alittihad-fc-295784/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="al-wehda-club-vs-al-khaleej-saihat-295774" tvg-name="Al Wehda Club v Al Khaleej Saihat" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 2:00AM Al Wehda Club v Al Khaleej Saihat 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/al-wehda-club-vs-al-khaleej-saihat-295774/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="burgos-vs-racing-ferrol-295793" tvg-name="Burgos v Racing Ferrol" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Burgos v Racing Ferrol 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/burgos-vs-racing-ferrol-295793/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="mlada-boleslav-vs-fc-lugano-295806" tvg-name="Mlada Boleslav v FC Lugano" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Mlada Boleslav v FC Lugano 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/mlada-boleslav-vs-fc-lugano-295806/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="tenerife-vs-malaga-295792" tvg-name="Tenerife v Malaga" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Tenerife v Malaga 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/tenerife-vs-malaga-295792/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="hjk-helsinki-vs-dinamo-minsk-295804" tvg-name="HJK helsinki v Dinamo Minsk" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM HJK helsinki v Dinamo Minsk 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/hjk-helsinki-vs-dinamo-minsk-295804/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="olimpija-ljubljana-vs-lask-linz-295796" tvg-name="Olimpija Ljubljana v Lask Linz" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Olimpija Ljubljana v Lask Linz 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/olimpija-ljubljana-vs-lask-linz-295796/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="real-betis-vs-fc-copenhagen-295808" tvg-name="Real Betis v FC Copenhagen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Real Betis v FC Copenhagen 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/real-betis-vs-fc-copenhagen-295808/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="backa-topola-vs-legia-warszawa-1629408646" tvg-name="Backa Topola v Legia Warszawa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Backa Topola v Legia Warszawa 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/backa-topola-vs-legia-warszawa-1629408646/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="tsc-backa-topola-vs-legia-warszawa-295805" tvg-name="Backa Topola v Legia Warszawa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Backa Topola v Legia Warszawa 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/tsc-backa-topola-vs-legia-warszawa-295805/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="the-new-saints-vs-astana-1629408642" tvg-name="The New Saints v Astana" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM The New Saints v Astana 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/the-new-saints-vs-astana-1629408642/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="the-new-saints-vs-fc-astana-295807" tvg-name="The New Saints v Astana" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM The New Saints v Astana 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/the-new-saints-vs-fc-astana-295807/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="pafos-vs-heidenheim-1629408640" tvg-name="Pafos v Heidenheim" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Pafos v Heidenheim 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/pafos-vs-heidenheim-1629408640/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="pafos-vs-1-fc-heidenheim-295809" tvg-name="Pafos v Heidenheim" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Pafos v Heidenheim 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/pafos-vs-1-fc-heidenheim-295809/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="porto-vs-tsg-hoffenheim-19296414" tvg-name="Porto v TSG Hoffenheim" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Porto v TSG Hoffenheim 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/porto-vs-tsg-hoffenheim-19296414/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="fc-porto-vs-1899-hoffenheim-295795" tvg-name="Porto v TSG Hoffenheim" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Porto v TSG Hoffenheim 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/fc-porto-vs-1899-hoffenheim-295795/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="tottenham-hotspur-vs-az-19296421" tvg-name="Tottenham Hotspur v AZ" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Tottenham Hotspur v AZ 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/tottenham-hotspur-vs-az-19296421/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="tottenham-vs-az-alkmaar-295802" tvg-name="Tottenham Hotspur v AZ" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Tottenham Hotspur v AZ 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/tottenham-vs-az-alkmaar-295802/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="olympique-lyonnais-vs-besiktas-19296417" tvg-name="Olympique Lyonnais v Besiktas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Olympique Lyonnais v Besiktas 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/olympique-lyonnais-vs-besiktas-19296417/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="lyon-vs-besiktas-295789" tvg-name="Olympique Lyonnais v Besiktas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Olympique Lyonnais v Besiktas 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/lyon-vs-besiktas-295789/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="anderlecht-vs-ludogorets-19296420" tvg-name="Anderlecht v Ludogorets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Anderlecht v Ludogorets 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/anderlecht-vs-ludogorets-19296420/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="anderlecht-vs-ludogorets-295803" tvg-name="Anderlecht v Ludogorets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Anderlecht v Ludogorets 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/anderlecht-vs-ludogorets-295803/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="fenerbahce-vs-manchester-united-19296416" tvg-name="Fenerbahce v Manchester United" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Fenerbahce v Manchester United 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/fenerbahce-vs-manchester-united-19296416/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="fenerbahce-vs-manchester-united-295787" tvg-name="Fenerbahce v Manchester United" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Fenerbahce v Manchester United 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/fenerbahce-vs-manchester-united-295787/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="athletic-club-vs-slavia-praha-19296413" tvg-name="Athletic Club v Slavia Praha" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Athletic Club v Slavia Praha 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/athletic-club-vs-slavia-praha-19296413/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="athletic-club-vs-slavia-praha-295797" tvg-name="Athletic Club v Slavia Praha" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Athletic Club v Slavia Praha 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/athletic-club-vs-slavia-praha-295797/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="malmo-ff-vs-olympiakos-piraeus-19296418" tvg-name="Malmo FF v Olympiakos Piraeus" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Malmo FF v Olympiakos Piraeus 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/malmo-ff-vs-olympiakos-piraeus-19296418/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="malmo-ff-vs-olympiakos-piraeus-295800" tvg-name="Malmo FF v Olympiakos Piraeus" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Malmo FF v Olympiakos Piraeus 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/malmo-ff-vs-olympiakos-piraeus-295800/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="sporting-gijon-vs-huesca-19144776" tvg-name="Sporting Gijon v Huesca" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Sporting Gijon v Huesca 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/sporting-gijon-vs-huesca-19144776/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="sporting-gijon-vs-huesca-295794" tvg-name="Sporting Gijon v Huesca" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Sporting Gijon v Huesca 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/sporting-gijon-vs-huesca-295794/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="fc-twente-vs-lazio-19296415" tvg-name="FC Twente v Lazio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM FC Twente v Lazio 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/fc-twente-vs-lazio-19296415/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="twente-vs-lazio-295786" tvg-name="FC Twente v Lazio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM FC Twente v Lazio 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/twente-vs-lazio-295786/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="rangers-vs-fcsb-19296419" tvg-name="Rangers v FCSB" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Rangers v FCSB 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/rangers-vs-fcsb-19296419/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="rangers-vs-fcsb-295801" tvg-name="Rangers v FCSB" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:00AM Rangers v FCSB 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/rangers-vs-fcsb-295801/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="comerciantes-unidos-vs-sport-boys-295799" tvg-name="Comerciantes Unidos v Sport Boys" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:00AM Comerciantes Unidos v Sport Boys 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/comerciantes-unidos-vs-sport-boys-295799/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="honduras-w-vs-guatemala-w-299733" tvg-name="Honduras W v Guatemala W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:00AM Honduras W v Guatemala W 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/honduras-w-vs-guatemala-w-299733/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="envigado-vs-rionegro-aguilas-253479" tvg-name="Envigado v Rionegro Aguilas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 5:00AM Envigado v Rionegro Aguilas 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/envigado-vs-rionegro-aguilas-253479/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="vasco-da-gama-vs-cuiaba-239610" tvg-name="Vasco DA Gama v Cuiaba" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Vasco DA Gama v Cuiaba 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/vasco-da-gama-vs-cuiaba-239610/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="huracan-vs-central-cordoba-de-santiago-295811" tvg-name="Huracan v Central Cordoba de Santiago" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00AM Huracan v Central Cordoba de Santiago 2024-10-25 DELTA
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/huracan-vs-central-cordoba-de-santiago-295811/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Golf" tvg-id="maybank-championship-first-round-1629408134" tvg-name="Maybank Championship, First Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:30AM Maybank Championship, First Round 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/maybank-championship-first-round-1629408134/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="florida-panthers-vs-new-york-rangers-1629408120" tvg-name="Florida Panthers v New York Rangers" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Florida Panthers v New York Rangers 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/florida-panthers-vs-new-york-rangers-1629408120/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="st-louis-blues-vs-toronto-maple-leafs-1629408123" tvg-name="St. Louis Blues v Toronto Maple Leafs" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM St. Louis Blues v Toronto Maple Leafs 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/st-louis-blues-vs-toronto-maple-leafs-1629408123/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="new-jersey-devils-vs-detroit-red-wings-1629408122" tvg-name="New Jersey Devils v Detroit Red Wings" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM New Jersey Devils v Detroit Red Wings 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/new-jersey-devils-vs-detroit-red-wings-1629408122/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="dallas-stars-vs-boston-bruins-1629408119" tvg-name="Dallas Stars v Boston Bruins" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Dallas Stars v Boston Bruins 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/dallas-stars-vs-boston-bruins-1629408119/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Hockey" tvg-id="minnesota-wild-vs-tampa-bay-lightning-1629408121" tvg-name="Minnesota Wild v Tampa Bay Lightning" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Minnesota Wild v Tampa Bay Lightning 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/minnesota-wild-vs-tampa-bay-lightning-1629408121/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Basketball" tvg-id="boston-celtics-vs-washington-wizards-1629408110" tvg-name="Boston Celtics v Washington Wizards" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00AM Boston Celtics v Washington Wizards 2024-10-25 CHARLIE
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/boston-celtics-vs-washington-wizards-1629408110/1/playlist.m3u8
-
-#EXTINF:-1 group-title="Football" tvg-id="usa-w-vs-iceland-w-295813" tvg-name="USA W v Iceland W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:30AM USA W v Iceland W 2024-10-25 DELTA
+#EXTINF:-1 group-title="Football" tvg-id="usa-w-vs-iceland-w-295813" tvg-name="United States W v Iceland W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:30AM United States W v Iceland W 2024-10-25 DELTA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/delta/js/usa-w-vs-iceland-w-295813/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Basketball" tvg-id="san-antonio-spurs-vs-dallas-mavericks-1629408111" tvg-name="San Antonio Spurs v Dallas Mavericks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:30AM San Antonio Spurs v Dallas Mavericks 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Basketball" tvg-id="dallas-mavericks-vs-san-antonio-spurs" tvg-name="Dallas Mavericks vs San Antonio Spurs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihAwGFYGCQheILCGohzRs0ekgIplkgpYRcxijCqUPD+UbU5Xviseh7iYhBAA.webp", 7:30AM Dallas Mavericks vs San Antonio Spurs 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/dallas-mavericks-vs-san-antonio-spurs/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="san-antonio-spurs-vs-dallas-mavericks-1629408111" tvg-name="Dallas Mavericks vs San Antonio Spurs" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihAwGFYGCQheILCGohzRs0ekgIplkgpYRcxijCqUPD+UbU5Xviseh7iYhBAA.webp", 7:30AM Dallas Mavericks vs San Antonio Spurs 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/san-antonio-spurs-vs-dallas-mavericks-1629408111/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="moca-vs-cavalier-295891" tvg-name="Moca v Cavalier" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM Moca v Cavalier 2024-10-25 DELTA
+#EXTINF:-1 group-title="American-football" tvg-id="syracuse-vs-pitt" tvg-name="Pittsburgh vs Syracuse" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdimBhgssGFkkQvENJAoQiGCAghq1kA7P5gSClhFzGKMKs0cf5IzUcprO9HpijJFAA.webp", 7:30AM Pittsburgh vs Syracuse 2024-10-25 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/moca-vs-cavalier-295891/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/syracuse-vs-pitt/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Rugby" tvg-id="minnesota-vikings-vs-los-angeles-rams-1629408128" tvg-name="Minnesota Vikings v Los Angeles Rams" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM Minnesota Vikings v Los Angeles Rams 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -720,17 +510,53 @@ https://rr.vipstreams.in/delta/js/moca-vs-cavalier-295891/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/minnesota-vikings-vs-los-angeles-rams-1629408128/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="corinthians-vs-racing-club-295888" tvg-name="Corinthians v Racing Club" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Corinthians v Racing Club 2024-10-25 DELTA
+#EXTINF:-1 group-title="Football" tvg-id="unlv-vs-utah-valley-1629408648" tvg-name="UNLV v Utah Valley" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM UNLV v Utah Valley 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/corinthians-vs-racing-club-295888/1/playlist.m3u8
+https://rr.vipstreams.in/charlie/js/unlv-vs-utah-valley-1629408648/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="sport-recife-vs-guarani-campinas-295890" tvg-name="Sport Recife v Guarani Campinas" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Sport Recife v Guarani Campinas 2024-10-25 DELTA
+#EXTINF:-1 group-title="Football" tvg-id="utah-tech-vs-air-force-1629408649" tvg-name="Utah Tech v Air Force" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM Utah Tech v Air Force 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/sport-recife-vs-guarani-campinas-295890/1/playlist.m3u8
+https://rr.vipstreams.in/charlie/js/utah-tech-vs-air-force-1629408649/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="queensland-vs-south-australia" tvg-name="Queensland v South Australia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM Queensland v South Australia 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/queensland-vs-south-australia/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="impact-wrestling" tvg-name="IMPACT Wrestling" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM IMPACT Wrestling 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/impact-wrestling/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="moca-vs-cavalier" tvg-name="Moca v Cavalier" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM Moca v Cavalier 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/moca-vs-cavalier/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="moca-vs-cavalier-295891" tvg-name="Moca v Cavalier" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00AM Moca v Cavalier 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/moca-vs-cavalier-295891/1/playlist.m3u8
+
+#EXTINF:-1 group-title="American-football" tvg-id="los-angeles-rams-vs-minnesota-vikings" tvg-name="Los Angeles Rams v Minnesota Vikings" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:15AM Los Angeles Rams v Minnesota Vikings 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/los-angeles-rams-vs-minnesota-vikings/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Golf" tvg-id="hisako-higuchi-mitsubishi-electric-ladies-golf-tournament-day-1" tvg-name="Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 1 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/hisako-higuchi-mitsubishi-electric-ladies-golf-tournament-day-1/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Golf" tvg-id="hisako-higuchi-mitsubishi-electric-ladies-golf-tournament-day-1-1629408650" tvg-name="Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 1 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -738,65 +564,203 @@ https://rr.vipstreams.in/delta/js/sport-recife-vs-guarani-campinas-295890/1/play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/hisako-higuchi-mitsubishi-electric-ladies-golf-tournament-day-1-1629408650/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="correcaminos-uat-vs-tapatio-295894" tvg-name="Correcaminos Uat v Tapatio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Correcaminos Uat v Tapatio 2024-10-25 DELTA
+#EXTINF:-1 group-title="Football" tvg-id="corinthians-vs-racing-club" tvg-name="Corinthians v Racing Club" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Corinthians v Racing Club 2024-10-25 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/correcaminos-uat-vs-tapatio-295894/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/corinthians-vs-racing-club/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Fight" tvg-id="manuel-flores-vs-victor-olivo-or-prelims-and-main-fight-1629408131" tvg-name="Manuel Flores v Victor Olivo | Prelims & Main Fight" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Manuel Flores v Victor Olivo | Prelims & Main Fight 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Football" tvg-id="corinthians-vs-racing-club-19317832" tvg-name="Corinthians v Racing Club" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Corinthians v Racing Club 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/corinthians-vs-racing-club-19317832/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="corinthians-vs-racing-club-295888" tvg-name="Corinthians v Racing Club" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Corinthians v Racing Club 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/corinthians-vs-racing-club-295888/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="sport-vs-guarani" tvg-name="Sport v Guarani" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Sport v Guarani 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/sport-vs-guarani/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="sport-recife-vs-guarani-campinas-295890" tvg-name="Sport v Guarani" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30AM Sport v Guarani 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/sport-recife-vs-guarani-campinas-295890/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="manuel-flores-vs-victor-olivo" tvg-name="Manuel Flores v Victor Olivo" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Manuel Flores v Victor Olivo 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/manuel-flores-vs-victor-olivo/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="manuel-flores-vs-victor-olivo-or-prelims-and-main-fight-1629408131" tvg-name="Manuel Flores v Victor Olivo" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Manuel Flores v Victor Olivo 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/manuel-flores-vs-victor-olivo-or-prelims-and-main-fight-1629408131/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Hockey" tvg-id="colorado-avalanche-vs-utah-hockey-club-1629408125" tvg-name="Colorado Avalanche v Utah Hockey Club" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Colorado Avalanche v Utah Hockey Club 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Hockey" tvg-id="utah-hockey-club-vs-colorado-avalanche" tvg-name="Utah Hockey Club v Colorado Avalanche" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Utah Hockey Club v Colorado Avalanche 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/utah-hockey-club-vs-colorado-avalanche/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="colorado-avalanche-vs-utah-hockey-club-1629408125" tvg-name="Utah Hockey Club v Colorado Avalanche" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Utah Hockey Club v Colorado Avalanche 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/colorado-avalanche-vs-utah-hockey-club-1629408125/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Hockey" tvg-id="carolina-hurricanes-vs-calgary-flames-1629408124" tvg-name="Carolina Hurricanes v Calgary Flames" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Carolina Hurricanes v Calgary Flames 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Hockey" tvg-id="calgary-flames-vs-carolina-hurricanes" tvg-name="Calgary Flames v Carolina Hurricanes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Calgary Flames v Carolina Hurricanes 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/calgary-flames-vs-carolina-hurricanes/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="carolina-hurricanes-vs-calgary-flames-1629408124" tvg-name="Calgary Flames v Carolina Hurricanes" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Calgary Flames v Carolina Hurricanes 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/carolina-hurricanes-vs-calgary-flames-1629408124/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Football" tvg-id="real-esteli-vs-cs-herediano-295893" tvg-name="Real Esteli v CS Herediano" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Real Esteli v CS Herediano 2024-10-25 DELTA
+#EXTINF:-1 group-title="Football" tvg-id="correcaminos-vs-tapatio" tvg-name="Correcaminos v Tapatio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Correcaminos v Tapatio 2024-10-25 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/delta/js/real-esteli-vs-cs-herediano-295893/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/correcaminos-vs-tapatio/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Hockey" tvg-id="winnipeg-jets-vs-seattle-kraken-1629408126" tvg-name="Winnipeg Jets v Seattle Kraken" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Winnipeg Jets v Seattle Kraken 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Football" tvg-id="correcaminos-uat-vs-tapatio-295894" tvg-name="Correcaminos v Tapatio" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00AM Correcaminos v Tapatio 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/correcaminos-uat-vs-tapatio-295894/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Golf" tvg-id="maybank-championship-day-2" tvg-name="Maybank Championship | Day 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:30AM Maybank Championship | Day 2 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/maybank-championship-day-2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="atletico-nacional-vs-jaguares-de-cordoba" tvg-name="Atletico Nacional v Jaguares de Cordoba" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:30AM Atletico Nacional v Jaguares de Cordoba 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/atletico-nacional-vs-jaguares-de-cordoba/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="denver-nuggets-oklahoma-city-thunder-19406" tvg-name="Denver Nuggets v Oklahoma City Thunder" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Denver Nuggets v Oklahoma City Thunder 2024-10-25 ECHO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/echo/js/denver-nuggets-oklahoma-city-thunder-19406/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="sacramento-kings-minnesota-timberwolves-19407" tvg-name="Sacramento Kings v Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Sacramento Kings v Minnesota Timberwolves 2024-10-25 ECHO
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/echo/js/sacramento-kings-minnesota-timberwolves-19407/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="california-baptist-vs-grand-canyon-1629408652" tvg-name="California Baptist v Grand Canyon" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM California Baptist v Grand Canyon 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/california-baptist-vs-grand-canyon-1629408652/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="western-australia-vs-tasmania" tvg-name="Western Australia v Tasmania" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Western Australia v Tasmania 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/western-australia-vs-tasmania/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="fight-club-oc" tvg-name="Fight Club OC" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Fight Club OC 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/fight-club-oc/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="fusion-fighting-championship-83" tvg-name="Fusion Fighting Championship 83" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Fusion Fighting Championship 83 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/fusion-fighting-championship-83/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Motor-sports" tvg-id="motogp-thailand-gp-moto3-fp1" tvg-name="MotoGP Thailand GP: Moto3 FP1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM MotoGP Thailand GP: Moto3 FP1 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/motogp-thailand-gp-moto3-fp1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="seattle-kraken-vs-winnipeg-jets" tvg-name="Seattle Kraken v Winnipeg Jets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Seattle Kraken v Winnipeg Jets 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/seattle-kraken-vs-winnipeg-jets/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="winnipeg-jets-vs-seattle-kraken-1629408126" tvg-name="Seattle Kraken v Winnipeg Jets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Seattle Kraken v Winnipeg Jets 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/winnipeg-jets-vs-seattle-kraken-1629408126/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Basketball" tvg-id="minnesota-timberwolves-vs-sacramento-kings-1629408112" tvg-name="Minnesota Timberwolves v Sacramento Kings" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Minnesota Timberwolves v Sacramento Kings 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Football" tvg-id="esteli-vs-herediano" tvg-name="Esteli v Herediano" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Esteli v Herediano 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/esteli-vs-herediano/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="real-esteli-vs-cs-herediano-295893" tvg-name="Esteli v Herediano" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Esteli v Herediano 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/real-esteli-vs-cs-herediano-295893/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="sacramento-kings-vs-minnesota-timberwolves" tvg-name="Sacramento Kings v Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Sacramento Kings v Minnesota Timberwolves 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/sacramento-kings-vs-minnesota-timberwolves/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="minnesota-timberwolves-vs-sacramento-kings-1629408112" tvg-name="Sacramento Kings v Minnesota Timberwolves" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Sacramento Kings v Minnesota Timberwolves 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/minnesota-timberwolves-vs-sacramento-kings-1629408112/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Basketball" tvg-id="oklahoma-city-thunder-vs-denver-nuggets-1629408113" tvg-name="Oklahoma City Thunder v Denver Nuggets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Oklahoma City Thunder v Denver Nuggets 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Basketball" tvg-id="denver-nuggets-vs-oklahoma-city-thunder" tvg-name="Denver Nuggets v Oklahoma City Thunder" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Denver Nuggets v Oklahoma City Thunder 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/denver-nuggets-vs-oklahoma-city-thunder/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="oklahoma-city-thunder-vs-denver-nuggets-1629408113" tvg-name="Denver Nuggets v Oklahoma City Thunder" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00AM Denver Nuggets v Oklahoma City Thunder 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/oklahoma-city-thunder-vs-denver-nuggets-1629408113/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Hockey" tvg-id="san-jose-sharks-vs-los-angeles-kings-1629408127" tvg-name="San Jose Sharks v Los Angeles Kings" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM San Jose Sharks v Los Angeles Kings 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Hockey" tvg-id="los-angeles-kings-vs-san-jose-sharks" tvg-name="Los Angeles Kings v San Jose Sharks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM Los Angeles Kings v San Jose Sharks 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/los-angeles-kings-vs-san-jose-sharks/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="san-jose-sharks-vs-los-angeles-kings-1629408127" tvg-name="Los Angeles Kings v San Jose Sharks" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30AM Los Angeles Kings v San Jose Sharks 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/san-jose-sharks-vs-los-angeles-kings-1629408127/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Golf" tvg-id="zozo-championship-second-round-1629408135" tvg-name="Zozo Championship, Second Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00AM Zozo Championship, Second Round 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Motor-sports" tvg-id="motogp-thailand-gp-moto2-fp1" tvg-name="MotoGP Thailand GP: Moto2 FP1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:50AM MotoGP Thailand GP: Moto2 FP1 2024-10-25 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/zozo-championship-second-round-1629408135/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/motogp-thailand-gp-moto2-fp1/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-id="tokyo-open-day-5-1629408653" tvg-name="Tokyo Open - Day 5" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00AM Tokyo Open - Day 5 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -804,7 +768,31 @@ https://rr.vipstreams.in/charlie/js/zozo-championship-second-round-1629408135/1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/tokyo-open-day-5-1629408653/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Cricket" tvg-id="india-vs-new-zealand-1629408108" tvg-name="India v New Zealand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:50AM India v New Zealand 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Golf" tvg-id="zozo-championship-second-round" tvg-name="Zozo Championship Second Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00AM Zozo Championship Second Round 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/zozo-championship-second-round/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Golf" tvg-id="zozo-championship-second-round-1629408135" tvg-name="Zozo Championship Second Round" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00AM Zozo Championship Second Round 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/zozo-championship-second-round-1629408135/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Motor-sports" tvg-id="motogp-thailand-gp-motogp-fp1" tvg-name="MotoGP Thailand GP: MotoGP FP1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:45AM MotoGP Thailand GP: MotoGP FP1 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/motogp-thailand-gp-motogp-fp1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="india-vs-new-zealand" tvg-name="India v New Zealand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:00PM India v New Zealand 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/india-vs-new-zealand/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="india-vs-new-zealand-1629408108" tvg-name="India v New Zealand" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:00PM India v New Zealand 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -816,17 +804,101 @@ https://rr.vipstreams.in/charlie/js/india-vs-new-zealand-1629408108/1/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/pakistan-vs-england-1629408109/1/playlist.m3u8
 
+#EXTINF:-1 group-title="Fight" tvg-id="ufc-308-official-weigh-in-show" tvg-name="UFC 308: Official Weigh-In Show" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 12:50PM UFC 308: Official Weigh-In Show 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/ufc-308-official-weigh-in-show/1/playlist.m3u8
+
 #EXTINF:-1 group-title="Tennis" tvg-id="guangzhou-open-day-5-1629408130" tvg-name="Guangzhou Open - Day 5" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 1:00PM Guangzhou Open - Day 5 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/guangzhou-open-day-5-1629408130/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Cricket" tvg-id="dream11-ecc-challenger-2024-or-group-1-day-1-1629408654" tvg-name="Dream11 ECC Challenger, 2024 | Group 1, Day 1" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 5:15PM Dream11 ECC Challenger, 2024 | Group 1, Day 1 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Cricket" tvg-id="pakistan-vs-england" tvg-name="Pakistan v England" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 1:00PM Pakistan v England 2024-10-25 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/dream11-ecc-challenger-2024-or-group-1-day-1-1629408654/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/pakistan-vs-england/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Motor-sports" tvg-id="motogp-thailand-gp-moto3-fp2" tvg-name="MotoGP Thailand GP: Moto3 FP2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 2:15PM MotoGP Thailand GP: Moto3 FP2 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/motogp-thailand-gp-moto3-fp2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Motor-sports" tvg-id="motogp-thailand-gp-moto2-fp2" tvg-name="MotoGP Thailand GP: Moto2 FP2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 3:05PM MotoGP Thailand GP: Moto2 FP2 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/motogp-thailand-gp-moto2-fp2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Motor-sports" tvg-id="motogp-thailand-gp-motogp-fp2" tvg-name="MotoGP Thailand GP: MotoGP FP2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:00PM MotoGP Thailand GP: MotoGP FP2 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/motogp-thailand-gp-motogp-fp2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cricket" tvg-id="ecs-malta-2024-or-day-5-or-24-oct-2024-or-1629408654" tvg-name="ECS Malta, 2024 | Day 5 | 24 Oct 2024 |" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:15PM ECS Malta, 2024 | Day 5 | 24 Oct 2024 | 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/ecs-malta-2024-or-day-5-or-24-oct-2024-or-1629408654/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="semen-padang-vs-dewa-united" tvg-name="Semen Padang v Dewa United" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:30PM Semen Padang v Dewa United 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/semen-padang-vs-dewa-united/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="adelaide-vs-cairns-taipans" tvg-name="Adelaide v Cairns Taipans" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:30PM Adelaide v Cairns Taipans 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/adelaide-vs-cairns-taipans/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="macarthur-fc-vs-newcastle-jets" tvg-name="Macarthur FC v Newcastle Jets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:35PM Macarthur FC v Newcastle Jets 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/macarthur-fc-vs-newcastle-jets/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="macarthur-vs-newcastle-jets-19238303" tvg-name="Macarthur FC v Newcastle Jets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:35PM Macarthur FC v Newcastle Jets 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/macarthur-vs-newcastle-jets-19238303/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="macarthur-vs-newcastle-jets-295896" tvg-name="Macarthur FC v Newcastle Jets" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 4:35PM Macarthur FC v Newcastle Jets 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/macarthur-vs-newcastle-jets-295896/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="bosnia-herzegovina-w-vs-serbia-w" tvg-name="Bosnia & Herzegovina W v Serbia W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 5:30PM Bosnia & Herzegovina W v Serbia W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/bosnia-herzegovina-w-vs-serbia-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="azerbaijan-w-vs-portugal-w" tvg-name="Azerbaijan W v Portugal W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 5:30PM Azerbaijan W v Portugal W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/azerbaijan-w-vs-portugal-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="karlovy-vary-vs-ceske-budejovice" tvg-name="Karlovy Vary v Ceske Budejovice" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00PM Karlovy Vary v Ceske Budejovice 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/karlovy-vary-vs-ceske-budejovice/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="namibia-w-vs-seychelles-w" tvg-name="Namibia W v Seychelles W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:00PM Namibia W v Seychelles W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/namibia-w-vs-seychelles-w/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Basketball" tvg-id="swimming-wc-korea-day-2-1629408133" tvg-name="Swimming WC: Korea Day 2" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:30PM Swimming WC: Korea Day 2 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -834,15 +906,231 @@ https://rr.vipstreams.in/charlie/js/dream11-ecc-challenger-2024-or-group-1-day-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/swimming-wc-korea-day-2-1629408133/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Tennis" tvg-id="center-court-swiss-indoors-basel-1629408721" tvg-name="Center Court - Swiss Indoors Basel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00PM Center Court - Swiss Indoors Basel 2024-10-25 CHARLIE
+#EXTINF:-1 group-title="Basketball" tvg-id="perth-vs-sydney" tvg-name="Perth v Sydney" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 6:30PM Perth v Sydney 2024-10-25 ALPHA
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/center-court-swiss-indoors-basel-1629408721/1/playlist.m3u8
+https://rr.vipstreams.in/alpha/js/perth-vs-sydney/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="arda-vs-septemvri-sofia" tvg-name="Arda v Septemvri Sofia" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:00PM Arda v Septemvri Sofia 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/arda-vs-septemvri-sofia/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="tianjin-vs-fujian" tvg-name="Tianjin v Fujian" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:35PM Tianjin v Fujian 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/tianjin-vs-fujian/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="guangzhou-vs-nanjing-tongxi" tvg-name="Guangzhou v Nanjing Tongxi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:35PM Guangzhou v Nanjing Tongxi 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/guangzhou-vs-nanjing-tongxi/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="beijing-vs-guangdong" tvg-name="Beijing v Guangdong" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:35PM Beijing v Guangdong 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/beijing-vs-guangdong/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="beijing-royal-fighters-vs-zhejiang-guangsha" tvg-name="Beijing v Guangdong" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 7:35PM Beijing v Guangdong 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/beijing-royal-fighters-vs-zhejiang-guangsha/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="bosniaherzegovina-w-vs-serbia-w-295908" tvg-name="Bosnia-Herzegovina W v Serbia W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00PM Bosnia-Herzegovina W v Serbia W 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/bosniaherzegovina-w-vs-serbia-w-295908/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="azerbaijan-w-vs-portugal-w-295917" tvg-name="Azerbaijan W v Portugal W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00PM Azerbaijan W v Portugal W 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/azerbaijan-w-vs-portugal-w-295917/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Tennis" tvg-id="center-cour-erste-bank-open-1629408722" tvg-name="Center Cour - Erste Bank Open" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00PM Center Cour - Erste Bank Open 2024-10-25 CHARLIE
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/center-cour-erste-bank-open-1629408722/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Tennis" tvg-id="center-court-swiss-indoors-basel-1629408721" tvg-name="Center Court - Swiss Indoors Basel" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00PM Center Court - Swiss Indoors Basel 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/center-court-swiss-indoors-basel-1629408721/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="nong-bua-pitchaya-vs-ratchaburi-mitrphol" tvg-name="Nong Bua Pitchaya v Ratchaburi Mitrphol" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00PM Nong Bua Pitchaya v Ratchaburi Mitrphol 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/nong-bua-pitchaya-vs-ratchaburi-mitrphol/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="borneo-vs-psbs-biak-numfor" tvg-name="Borneo v PSBS Biak Numfor" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:00PM Borneo v PSBS Biak Numfor 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/borneo-vs-psbs-biak-numfor/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="one-friday-fights-84" tvg-name="ONE Friday Fights 84" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30PM ONE Friday Fights 84 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/one-friday-fights-84/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="rukh-lviv-vs-ch-odesa" tvg-name="Rukh Lviv v Ch. Odesa" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:30PM Rukh Lviv v Ch. Odesa 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/rukh-lviv-vs-ch-odesa/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="dibba-al-hisn-vs-al-ain-295928" tvg-name="Dibba Al Hisn v Al Ain" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 8:55PM Dibba Al Hisn v Al Ain 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/dibba-al-hisn-vs-al-ain-295928/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="ufc-308-q-a" tvg-name="UFC 308: Q&A" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00PM UFC 308: Q&A 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/ufc-308-q-a/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="south-africa-w-vs-eswatini-w" tvg-name="South Africa W v Eswatini W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:00PM South Africa W v Eswatini W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/south-africa-w-vs-eswatini-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="botev-plovdiv-vs-cherno-more" tvg-name="Botev Plovdiv v Cherno More" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 9:30PM Botev Plovdiv v Cherno More 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/botev-plovdiv-vs-cherno-more/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Fight" tvg-id="ufc-308-ceremonial-weigh-in" tvg-name="UFC 308: Ceremonial Weigh-In" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00PM UFC 308: Ceremonial Weigh-In 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/ufc-308-ceremonial-weigh-in/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="albania-w-vs-norway-w" tvg-name="Albania W v Norway W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00PM Albania W v Norway W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/albania-w-vs-norway-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="albania-w-vs-norway-w-295954" tvg-name="Albania W v Norway W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00PM Albania W v Norway W 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/albania-w-vs-norway-w-295954/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="brasilia-vs-mogi" tvg-name="Brasilia v Mogi" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:00PM Brasilia v Mogi 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/brasilia-vs-mogi/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="montenegro-w-vs-finland-w" tvg-name="Montenegro W v Finland W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30PM Montenegro W v Finland W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/montenegro-w-vs-finland-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="montenegro-w-vs-finland-w-295953" tvg-name="Montenegro W v Finland W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:30PM Montenegro W v Finland W 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/montenegro-w-vs-finland-w-295953/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="al-qadisiya-vs-damac" tvg-name="Al Qadisiya v Damac" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:35PM Al Qadisiya v Damac 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/al-qadisiya-vs-damac/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="alqadisiyah-fc-vs-damac-295947" tvg-name="Al Qadisiya v Damac" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 10:35PM Al Qadisiya v Damac 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/alqadisiyah-fc-vs-damac-295947/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="trinec-vs-sparta-prague" tvg-name="Trinec v Sparta Prague" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00PM Trinec v Sparta Prague 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/trinec-vs-sparta-prague/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="turkey-w-vs-ukraine-w" tvg-name="Turkey W v Ukraine W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00PM Turkey W v Ukraine W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/turkey-w-vs-ukraine-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="turkey-w-vs-ukraine-w-295965" tvg-name="Turkey W v Ukraine W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00PM Turkey W v Ukraine W 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/turkey-w-vs-ukraine-w-295965/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="polissya-zhytomyr-vs-kolos-kovalivka" tvg-name="Polissya Zhytomyr v Kolos Kovalivka" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00PM Polissya Zhytomyr v Kolos Kovalivka 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/polissya-zhytomyr-vs-kolos-kovalivka/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Basketball" tvg-id="bears-academy-vs-bakken-bears" tvg-name="Bears Academy v Bakken Bears" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:00PM Bears Academy v Bakken Bears 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/bears-academy-vs-bakken-bears/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="al-kholood-vs-al-nassr" tvg-name="Al Kholood v Al Nassr" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:05PM Al Kholood v Al Nassr 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/al-kholood-vs-al-nassr/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="al-kholood-vs-al-nassr-19191825" tvg-name="Al Kholood v Al Nassr" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:05PM Al Kholood v Al Nassr 2024-10-25 CHARLIE
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/al-kholood-vs-al-nassr-19191825/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="al-kholood-vs-alnassr-295962" tvg-name="Al Kholood v Al Nassr" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:05PM Al Kholood v Al Nassr 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/al-kholood-vs-alnassr-295962/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="al-wahda-fc-vs-alittihad-kalba-295976" tvg-name="Al Wahda FC v Al-Ittihad Kalba" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:30PM Al Wahda FC v Al-Ittihad Kalba 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/al-wahda-fc-vs-alittihad-kalba-295976/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Hockey" tvg-id="vitkovice-vs-plzen" tvg-name="Vitkovice v Plzen" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:30PM Vitkovice v Plzen 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/vitkovice-vs-plzen/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="slovakia-w-vs-wales-w" tvg-name="Slovakia W v Wales W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:30PM Slovakia W v Wales W 2024-10-25 ALPHA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/alpha/js/slovakia-w-vs-wales-w/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-id="slovakia-w-vs-wales-w-295974" tvg-name="Slovakia W v Wales W" tvg-logo="https://streamed.su/api/images/poster/fallback.webp", 11:30PM Slovakia W v Wales W 2024-10-25 DELTA
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/delta/js/slovakia-w-vs-wales-w-295974/1/playlist.m3u8
 
