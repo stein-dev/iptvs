@@ -2,7 +2,7 @@ name: Fetch Balolive
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # This runs every 2 hours
+    - cron: '0 16 * * *'  # This runs at 12:00 AM PHT (UTC+8)
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
