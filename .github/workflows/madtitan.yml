@@ -2,7 +2,7 @@ name: Fetch Madtitan
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # This runs at 12:00 AM PHT (UTC+8)
+    - cron: '30 16 * * 0'  # This runs at 12:30 AM PHT (UTC+8) every Sunday
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
