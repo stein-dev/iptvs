@@ -1925,6 +1925,11 @@ https://faptok.site/sportslive/stream.m3u8?id=745
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://faptok.site/sportslive/stream.m3u8?id=328
 
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="NBA League Pass",NBA League Pass
+#EXTVLCOPT:http-referrer=https://faptok.site/sportslive/pl1.php?play=4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://faptok.site/sportslive/stream.m3u8?id=4
+
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="NBA TV USA",NBA TV USA
 #EXTVLCOPT:http-referrer=https://faptok.site/sportslive/pl1.php?play=404
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
