@@ -2,7 +2,20 @@ name: Fetch NBA
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # This runs every 2 hours
+    - cron: '15 16 * * *'  # 12:15 AM PHT
+    - cron: '15 17 * * *'  # 1:15 AM PHT
+    - cron: '15 18 * * *'  # 2:15 AM PHT
+    - cron: '15 19 * * *'  # 3:15 AM PHT
+    - cron: '15 20 * * *'  # 4:15 AM PHT
+    - cron: '15 21 * * *'  # 5:15 AM PHT
+    - cron: '15 22 * * *'  # 6:15 AM PHT
+    - cron: '15 23 * * *'  # 7:15 AM PHT
+    - cron: '15 0 * * *'   # 8:15 AM PHT
+    - cron: '15 1 * * *'   # 9:15 AM PHT
+    - cron: '15 2 * * *'   # 10:15 AM PHT
+    - cron: '15 3 * * *'   # 11:15 AM PHT
+    - cron: '15 4 * * *'   # 12:15 PM PHT
+    - cron: '15 5 * * *'   # 1:15 PM PHT
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
