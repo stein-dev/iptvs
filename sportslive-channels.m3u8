@@ -3520,6 +3520,11 @@ https://faptok.site/sportslive/stream.m3u8?id=128
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://faptok.site/sportslive/stream.m3u8?id=746
 
+#EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="UFC Fight Pass",UFC Fight Pass
+#EXTVLCOPT:http-referrer=https://faptok.site/sportslive/pl1.php?play=153
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://faptok.site/sportslive/stream.m3u8?id=153
+
 #EXTINF:-1 tvg-logo="https://sportslive.me/wp-content/uploads/2024/09/favicon.png" tvg-id="Unimas",Unimas
 #EXTVLCOPT:http-referrer=https://faptok.site/sportslive/pl1.php?play=133
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
