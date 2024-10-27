@@ -366,13 +366,17 @@ https://848b3516657c-usatv.baby-beamup.club/public/m3u/308.m3u8
 
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" tvg-id="ESPN.us",ESPN Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://streamsy.online:2999/live/juanv/04bodwaga0/133.m3u8
+http://fl5.moveonjoy.com/LONGHORN_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" tvg-id="ESPN.us",ESPN Server 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
+http://streamsy.online:2999/live/juanv/04bodwaga0/133.m3u8
 
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" tvg-id="ESPN.us",ESPN Server 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19156/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" tvg-id="ESPN.us",ESPN Server 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://848b3516657c-usatv.baby-beamup.club/public/m3u/44.m3u8
 
@@ -560,10 +564,6 @@ http://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://streamsy.online:2999/live/juanv/04bodwaga0/244.m3u8
 
-#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/ufcfightpass.png" tvg-id="UFCFightPass.us",UFC Fight Pass
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://streamsy.online:2999/live/juanv/04bodwaga0/631.m3u8
-
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/yesnetwork.png" tvg-id="YesNetwork.us",YES Network Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
@@ -571,6 +571,10 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/yesnetwork.png" tvg-id="YesNetwork.us",YES Network Server 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://streamsy.online:2999/live/juanv/04bodwaga0/245.m3u8
+
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/willow.png" tvg-id="Willow.us",Willow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://tx2.nexgen.bz:443/WILLOW/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/wwenetwork.png" tvg-id="WWENetwork.us",WWE Network Server 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
