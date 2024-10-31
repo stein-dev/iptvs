@@ -1,58 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="1STREAM",Los Angeles Clippers - Portland Trail Blazers (10:30 AM 10/31/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27187/load-playlist
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="1STREAM",Golden State Warriors - New Orleans Pelicans (10:00 AM 10/31/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27180/load-playlist
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="1STREAM",Oklahoma City Thunder - San Antonio Spurs (09:30 AM 10/31/24) [1STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="1STREAM",Los Angeles Clippers - Portland Trail Blazers (10:30 AM 10/31/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27179/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="BESTSOLARIS",Golden State Warriors - New Orleans Pelicans (10:00 AM 10/31/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://gstapb76wi.azureedge.net/live/n10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="METHSTREAMS",Los Angeles Clippers - Portland Trail Blazers (10:30 AM 10/31/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://eyqihn56ms.azureedge.net/live/NBA11/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="SONS-STREAM",Golden State Warriors - New Orleans Pelicans (10:00 AM 10/31/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mgoldenstatewarriors.m3u8?md5=0Y-qffIuVGfTqr04AdHhkg&expires=1730356346
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="SONS-STREAM",Los Angeles Clippers - Portland Trail Blazers (10:30 AM 10/31/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mlosangelesclippers.m3u8?md5=dot1AG_afhNGCKB8gT3YNg&expires=1730356346
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="STREAMBTW",Oklahoma City Thunder - San Antonio Spurs (09:30 AM 10/31/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="STREAMBTW",Los Angeles Clippers - Portland Trail Blazers (10:30 AM 10/31/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba10.m3u8
+https://init.clmbosean.space/playlist/27187/load-playlist
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="STREAMBTW",Golden State Warriors - New Orleans Pelicans (10:00 AM 10/31/24) [STREAMBTW]
 #EXTVLCOPT:http-origin=https://streambtw.com
@@ -60,23 +18,11 @@ https://allfreeshoping.online/live/stream_nba10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://allfreeshoping.online/live/stream_nba9.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="BESTSOLARIS",Los Angeles Clippers - Portland Trail Blazers (10:30 AM 10/31/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="STREAMBTW",Los Angeles Clippers - Portland Trail Blazers (10:30 AM 10/31/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://gstapb76wi.azureedge.net/live/n11/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="METHSTREAMS",Golden State Warriors - New Orleans Pelicans (10:00 AM 10/31/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://eyqihn56ms.azureedge.net/live/NBA10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-san-antonio-spurs-logo.png" group-title="CRACKSTREAMS",San Antonio Spurs - Oklahoma City Thunder (09:30 AM 10/31/24) [CRACKSTREAMS]
-#EXTVLCOPT:http-origin=https://thecrackstreams.to
-#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://klsvzp39po.azureedge.net/streams/Thunder/playlist.m3u8
+https://allfreeshoping.online/live/stream_nba10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="CRACKSTREAMS",New Orleans Pelicans - Golden State Warriors (10:00 AM 10/31/24) [CRACKSTREAMS]
 #EXTVLCOPT:http-origin=https://thecrackstreams.to
@@ -90,21 +36,15 @@ https://klsvzp39po.azureedge.net/streams/Warriors/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://klsvzp39po.azureedge.net/streams/Clippers/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="MARKKYSTREAMS",Pelicans - Warriors (10:00 AM 10/31/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://ycrqvj39pc.azureedge.net/live/NBA10/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="MARKKYSTREAMS",Trail Blazers - Clippers (10:30 AM 10/31/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://ycrqvj39pc.azureedge.net/live/NBA11/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-san-antonio-spurs-logo.png" group-title="MARKKYSTREAMS",Spurs - Thunder (09:30 AM 10/31/24) [MARKKYSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="MARKKYSTREAMS",Pelicans - Warriors (10:00 AM 10/31/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://ycrqvj39pc.azureedge.net/live/NBA9/playlist.m3u8
+https://ycrqvj39pc.azureedge.net/live/NBA10/playlist.m3u8
 
