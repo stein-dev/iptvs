@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/alien-4-icon.png" group-title="PPV EVENTS",2024 World Cup Finals (10:00PM Friday Nov 01th) [FLORACING]
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://xyzdddd.mizhls.ru/lb/premium162/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/alien-4-icon.png" group-title="PPV EVENTS",2024 Pan IBJJF Jiu-Jitsu No-Gi Championship (10:30PM Friday Nov 01th) [FLOTV]
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://xyzdddd.mizhls.ru/lb/premium163/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/tv-logo.png" group-title="TV SHOWS",Los 50 Season 2, Episode 16 (07:00AM Saturday Nov 02th) [TELEMUNDO USA]
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
