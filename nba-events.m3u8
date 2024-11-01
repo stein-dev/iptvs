@@ -1,28 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-toronto-raptors-logo.png" group-title="1STREAM",Toronto Raptors - Los Angeles Lakers (07:30 AM 11/02/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27227/load-playlist
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="1STREAM",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27225/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="1STREAM",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27230/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="1STREAM",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27226/load-playlist
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="1STREAM",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
@@ -30,17 +12,29 @@ https://init.clmbosean.space/playlist/27226/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27222/load-playlist
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="SONS-STREAM",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d12.jisdeshmaiganga.com:999/hls/mcharlottehornets.m3u8?md5=26Gk6H1EzMb_juGWgPc5BA&expires=1730503520
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="1STREAM",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27226/load-playlist
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="1STREAM",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27229/load-playlist
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="SONS-STREAM",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="1STREAM",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/mclevelandcavaliers.m3u8?md5=pD--ThnJbonknEZMGKM4Xg&expires=1730500166
+https://init.clmbosean.space/playlist/27230/load-playlist
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="1STREAM",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
@@ -48,113 +42,71 @@ https://d12.jisdeshmaiganga.com:999/hls/mclevelandcavaliers.m3u8?md5=pD--ThnJbon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27223/load-playlist
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="SONS-STREAM",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d13.jisdeshmaiganga.com:999/hls/mportlandtrailblazers.m3u8?md5=D3Lzuzmj_1iyWgcIIgukvw&expires=1730503521
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-toronto-raptors-logo.png" group-title="1STREAM",Toronto Raptors - Los Angeles Lakers (07:30 AM 11/02/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27227/load-playlist
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="SONS-STREAM",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d12.jisdeshmaiganga.com:999/hls/matlantahawks.m3u8?md5=IxxJ6_hZ9yRD8KClvaGMmw&expires=1730503521
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="SONS-STREAM",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d12.jisdeshmaiganga.com:999/hls/mclevelandcavaliers.m3u8?md5=72iIvXivWDFW4JtpwDEF5g&expires=1730503521
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-toronto-raptors-logo.png" group-title="SONS-STREAM",Toronto Raptors - Los Angeles Lakers (07:30 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d13.jisdeshmaiganga.com:999/hls/mtorontoraptors.m3u8?md5=BENUAPCe_VedEbGpv0or4g&expires=1730503521
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="SONS-STREAM",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d11.jisdeshmaiganga.com:999/hls/mdetroitpistons.m3u8?md5=OpVYkLFZFdkSzvisxXImrw&expires=1730503521
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="SONS-STREAM",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d13.jisdeshmaiganga.com:999/hls/mminneapolistimberwolves.m3u8?md5=w0Mpub0V17kJbqI7ieXEgA&expires=1730503521
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="SONS-STREAM",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d11.jisdeshmaiganga.com:999/hls/mneworleanspelicans.m3u8?md5=8hRp4HBJtW2OlLoM1yTapg&expires=1730503521
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="1STREAM",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27228/load-playlist
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="1STREAM",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27224/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="SONS-STREAM",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [SONS-STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="SONS-STREAM",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mminneapolistimberwolves.m3u8?md5=J-YllHQYAcb75dPhub6PYg&expires=1730500166
+https://d11.jisdeshmaiganga.com:999/hls/mcharlottehornets.m3u8?md5=JQuCe4IS9GjN9ZfXvqiAYA&expires=1730503521
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="SONS-STREAM",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/mbrooklynnets.m3u8?md5=8FDCx8VJgWEkjZqJR1Kiug&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="SONS-STREAM",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/matlantahawks.m3u8?md5=LEyEl7_ar3itHKZyw8Nipw&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="SONS-STREAM",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mcharlottehornets.m3u8?md5=yDqDJ4VWFWRuLmjxbbeZSw&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="SONS-STREAM",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mcharlottehornets.m3u8?md5=yDqDJ4VWFWRuLmjxbbeZSw&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="SONS-STREAM",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mportlandtrailblazers.m3u8?md5=ma4UI4epwqAzwf2kr7_bgA&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-toronto-raptors-logo.png" group-title="SONS-STREAM",Toronto Raptors - Los Angeles Lakers (07:30 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mtorontoraptors.m3u8?md5=M0nzQGGLeXEFDTdSp3LHfg&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="SONS-STREAM",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mneworleanspelicans.m3u8?md5=r7QMAwUcEIklgqnRFvOvBA&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="SONS-STREAM",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/mdetroitpistons.m3u8?md5=ZKhJA9GE3FgOneQ0bS5pLQ&expires=1730500166
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="STREAMBTW",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="STREAMBTW",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="STREAMBTW",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba7.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="STREAMBTW",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="STREAMBTW",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="STREAMBTW",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba8.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="STREAMBTW",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba5.m3u8
+https://d11.jisdeshmaiganga.com:999/hls/mbrooklynnets.m3u8?md5=RW9H06kaKLsCvSpnJpSBIg&expires=1730503521
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="STREAMBTW",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [STREAMBTW]
 #EXTVLCOPT:http-origin=https://streambtw.com
@@ -168,41 +120,107 @@ https://allfreeshoping.online/live/stream_nba2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://allfreeshoping.online/live/stream_nba6.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="BESTSOLARIS",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="METHSTREAMS",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jscats.shop/live/n9/n9.html
+https://qmzvrj18hr.azureedge.net/live/NBA6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="BESTSOLARIS",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-toronto-raptors-logo.png" group-title="METHSTREAMS",Toronto Raptors - Los Angeles Lakers (07:30 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n2/n2.html
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="BESTSOLARIS",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="METHSTREAMS",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n3/n3.html
+https://qmzvrj18hr.azureedge.net/live/NBA7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="BESTSOLARIS",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="METHSTREAMS",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n7/n7.html
+https://qmzvrj18hr.azureedge.net/live/NBA9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="BESTSOLARIS",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="METHSTREAMS",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n6/n6.html
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="BESTSOLARIS",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="METHSTREAMS",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jscats.shop/live/n5/n5.html
+https://qmzvrj18hr.azureedge.net/live/NBA1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="METHSTREAMS",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://qmzvrj18hr.azureedge.net/live/NBA3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="1STREAM",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27224/load-playlist
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="METHSTREAMS",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="METHSTREAMS",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://qmzvrj18hr.azureedge.net/live/NBA5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="STREAMBTW",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://allfreeshoping.online/live/stream_nba1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="STREAMBTW",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://allfreeshoping.online/live/stream_nba7.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="STREAMBTW",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://allfreeshoping.online/live/stream_nba1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="STREAMBTW",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://allfreeshoping.online/live/stream_nba1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="STREAMBTW",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://allfreeshoping.online/live/stream_nba5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="STREAMBTW",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://allfreeshoping.online/live/stream_nba8.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="STREAMBTW",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [STREAMBTW]
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://allfreeshoping.online/live/stream_nba4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="CRACKSTREAMS",Los Angeles Lakers - Toronto Raptors (07:30 AM 11/02/24) [CRACKSTREAMS]
 #EXTVLCOPT:http-origin=https://thecrackstreams.to
@@ -210,11 +228,77 @@ https://js1.jscats.shop/live/n5/n5.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://beafxd67zp.azureedge.net/streams/Raptors/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="BESTSOLARIS",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jscats.shop/live/n7/n7.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="CRACKSTREAMS",Boston Celtics - Charlotte Hornets (07:00 AM 11/02/24) [CRACKSTREAMS]
+#EXTVLCOPT:http-origin=https://thecrackstreams.to
+#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://beafxd67zp.azureedge.net/streams/Hornets/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="BESTSOLARIS",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jscats.shop/live/n3/n3.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="BESTSOLARIS",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/n9/n9.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="BESTSOLARIS",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jscats.shop/live/n5/n5.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="CRACKSTREAMS",Oklahoma City Thunder - Portland Trail Blazers (10:00 AM 11/02/24) [CRACKSTREAMS]
+#EXTVLCOPT:http-origin=https://thecrackstreams.to
+#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://beafxd67zp.azureedge.net/streams/Blazers/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-toronto-raptors-logo.png" group-title="BESTSOLARIS",Toronto Raptors - Los Angeles Lakers (07:30 AM 11/02/24) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jstigger.shop/live/n4/n4.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-chicago-bulls-logo.png" group-title="CRACKSTREAMS",Chicago Bulls - Brooklyn Nets (07:30 AM 11/02/24) [CRACKSTREAMS]
+#EXTVLCOPT:http-origin=https://thecrackstreams.to
+#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://beafxd67zp.azureedge.net/streams/Nets/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="CRACKSTREAMS",New York Knicks - Detroit Pistons (07:00 AM 11/02/24) [CRACKSTREAMS]
+#EXTVLCOPT:http-origin=https://thecrackstreams.to
+#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://beafxd67zp.azureedge.net/streams/Pistons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="BESTSOLARIS",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jscats.shop/live/n2/n2.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="BESTSOLARIS",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jscats.shop/live/n6/n6.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="BESTSOLARIS",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jscats.shop/live/n8/n8.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="CRACKSTREAMS",Orlando Magic - Cleveland Cavaliers (07:00 AM 11/02/24) [CRACKSTREAMS]
 #EXTVLCOPT:http-origin=https://thecrackstreams.to
@@ -226,55 +310,7 @@ https://beafxd67zp.azureedge.net/streams/Cavaliers/playlist.m3u8
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jscats.shop/live/n1/n1.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="BESTSOLARIS",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n8/n8.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="CRACKSTREAMS",Boston Celtics - Charlotte Hornets (07:00 AM 11/02/24) [CRACKSTREAMS]
-#EXTVLCOPT:http-origin=https://thecrackstreams.to
-#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://beafxd67zp.azureedge.net/streams/Hornets/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="CRACKSTREAMS",New York Knicks - Detroit Pistons (07:00 AM 11/02/24) [CRACKSTREAMS]
-#EXTVLCOPT:http-origin=https://thecrackstreams.to
-#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://beafxd67zp.azureedge.net/streams/Pistons/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-chicago-bulls-logo.png" group-title="CRACKSTREAMS",Chicago Bulls - Brooklyn Nets (07:30 AM 11/02/24) [CRACKSTREAMS]
-#EXTVLCOPT:http-origin=https://thecrackstreams.to
-#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://beafxd67zp.azureedge.net/streams/Nets/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="CRACKSTREAMS",Oklahoma City Thunder - Portland Trail Blazers (10:00 AM 11/02/24) [CRACKSTREAMS]
-#EXTVLCOPT:http-origin=https://thecrackstreams.to
-#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://beafxd67zp.azureedge.net/streams/Blazers/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="METHSTREAMS",Charlotte Hornets - Boston Celtics (07:00 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://qmzvrj18hr.azureedge.net/live/NBA1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="METHSTREAMS",Detroit Pistons - New York Knicks (07:00 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://qmzvrj18hr.azureedge.net/live/NBA2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="CRACKSTREAMS",Sacramento Kings - Atlanta Hawks (07:30 AM 11/02/24) [CRACKSTREAMS]
-#EXTVLCOPT:http-origin=https://thecrackstreams.to
-#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://beafxd67zp.azureedge.net/streams/Hawks/playlist.m3u8
+https://js1.jstigger.shop/live/n1/n1.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="CRACKSTREAMS",Denver Nuggets - Minnesota Timberwolves (09:30 AM 11/02/24) [CRACKSTREAMS]
 #EXTVLCOPT:http-origin=https://thecrackstreams.to
@@ -282,11 +318,11 @@ https://beafxd67zp.azureedge.net/streams/Hawks/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://beafxd67zp.azureedge.net/streams/Timberwolves/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="METHSTREAMS",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="CRACKSTREAMS",Sacramento Kings - Atlanta Hawks (07:30 AM 11/02/24) [CRACKSTREAMS]
+#EXTVLCOPT:http-origin=https://thecrackstreams.to
+#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://qmzvrj18hr.azureedge.net/live/NBA9/playlist.m3u8
+https://beafxd67zp.azureedge.net/streams/Hawks/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="CRACKSTREAMS",Indiana Pacers - New Orleans Pelicans (08:00 AM 11/02/24) [CRACKSTREAMS]
 #EXTVLCOPT:http-origin=https://thecrackstreams.to
@@ -294,119 +330,47 @@ https://qmzvrj18hr.azureedge.net/live/NBA9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://beafxd67zp.azureedge.net/streams/Pelicans/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="METHSTREAMS",Brooklyn Nets - Chicago Bulls (07:30 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="NIZARSTREAM",Los Angeles Lakers - Toronto Raptors (07:30 AM 11/02/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://qmzvrj18hr.azureedge.net/live/NBA5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="METHSTREAMS",Cleveland Cavaliers - Orlando Magic (07:00 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="METHSTREAMS",Atlanta Hawks - Sacramento Kings (07:30 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://qmzvrj18hr.azureedge.net/live/NBA6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="METHSTREAMS",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://qmzvrj18hr.azureedge.net/live/NBA8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="METHSTREAMS",New Orleans Pelicans - Indiana Pacers (08:00 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+https://off8.jismhaitokia.com:999/hls/do41.m3u8?md5=0kTskivbt9jQS81UV7KCAg&expires=1730503523
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="NIZARSTREAM",Orlando Magic - Cleveland Cavaliers (07:00 AM 11/02/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off2.jismhaitokia.com:999/hls/do32.m3u8?md5=NmpTdh3zUHbgjHr_qDxzCw&expires=1730500169
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="NIZARSTREAM",Los Angeles Lakers - Toronto Raptors (07:30 AM 11/02/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off6.jismhaitokia.com:999/hls/do41.m3u8?md5=BHHmmZ0RVpH6PT7AAIVDXg&expires=1730500169
+https://off5.jismhaitokia.com:999/hls/do32.m3u8?md5=XmKTWOgoc3w-EdU7iZ8yTw&expires=1730503524
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="NIZARSTREAM",Boston Celtics - Charlotte Hornets (07:00 AM 11/02/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off8.jismhaitokia.com:999/hls/do31.m3u8?md5=NZlVGPh6gwYAziYPmh82rQ&expires=1730500169
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-toronto-raptors-logo.png" group-title="METHSTREAMS",Toronto Raptors - Los Angeles Lakers (07:30 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://qmzvrj18hr.azureedge.net/live/NBA79/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="NIZARSTREAM",Denver Nuggets - Minnesota Timberwolves (09:30 AM 11/02/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off2.jismhaitokia.com:999/hls/do32.m3u8?md5=NmpTdh3zUHbgjHr_qDxzCw&expires=1730500169
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="NIZARSTREAM",Indiana Pacers - New Orleans Pelicans (08:00 AM 11/02/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off4.jismhaitokia.com:999/hls/do44.m3u8?md5=dCLNk2bgRpQ706-KCiwtXQ&expires=1730500169
+https://off2.jismhaitokia.com:999/hls/do31.m3u8?md5=MSGlZNzTL6qKbUSUVxAmXA&expires=1730503524
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="NIZARSTREAM",Sacramento Kings - Atlanta Hawks (07:30 AM 11/02/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off7.jismhaitokia.com:999/hls/do34.m3u8?md5=2g1_oU_7y3pfJzn8oAWX8g&expires=1730500169
+https://off7.jismhaitokia.com:999/hls/do34.m3u8?md5=3AXAcONIkZqWLfI0uFKltg&expires=1730503524
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="NIZARSTREAM",Indiana Pacers - New Orleans Pelicans (08:00 AM 11/02/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://off8.jismhaitokia.com:999/hls/do44.m3u8?md5=JStZD0NJ9H8MChFhZDOO8w&expires=1730503524
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="NIZARSTREAM",Oklahoma City Thunder - Portland Trail Blazers (10:00 AM 11/02/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off6.jismhaitokia.com:999/hls/do41.m3u8?md5=BHHmmZ0RVpH6PT7AAIVDXg&expires=1730500169
+https://off8.jismhaitokia.com:999/hls/do41.m3u8?md5=0kTskivbt9jQS81UV7KCAg&expires=1730503523
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="MARKKYSTREAMS",Magic - Cavaliers (07:00 AM 11/02/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="NIZARSTREAM",Denver Nuggets - Minnesota Timberwolves (09:30 AM 11/02/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://msodcl92yw.azureedge.net/live/NBA2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-chicago-bulls-logo.png" group-title="MARKKYSTREAMS",Bulls - Nets (07:30 AM 11/02/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://msodcl92yw.azureedge.net/live/NBA5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="MARKKYSTREAMS",Thunder - Trail Blazers (10:00 AM 11/02/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://msodcl92yw.azureedge.net/live/NBA9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="MARKKYSTREAMS",Pacers - Pelicans (08:00 AM 11/02/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://msodcl92yw.azureedge.net/live/NBA7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="MARKKYSTREAMS",Knicks - Pistons (07:00 AM 11/02/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://msodcl92yw.azureedge.net/live/NBA3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="MARKKYSTREAMS",Kings - Hawks (07:30 AM 11/02/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://msodcl92yw.azureedge.net/live/NBA6/playlist.m3u8
+https://off5.jismhaitokia.com:999/hls/do32.m3u8?md5=XmKTWOgoc3w-EdU7iZ8yTw&expires=1730503524
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="MARKKYSTREAMS",Celtics - Hornets (07:00 AM 11/02/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
@@ -414,15 +378,51 @@ https://msodcl92yw.azureedge.net/live/NBA6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://msodcl92yw.azureedge.net/live/NBA1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="MARKKYSTREAMS",Nuggets - Timberwolves (09:30 AM 11/02/24) [MARKKYSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="MARKKYSTREAMS",Pacers - Pelicans (08:00 AM 11/02/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://msodcl92yw.azureedge.net/live/NBA8/playlist.m3u8
+https://msodcl92yw.azureedge.net/live/NBA7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="MARKKYSTREAMS",Kings - Hawks (07:30 AM 11/02/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://msodcl92yw.azureedge.net/live/NBA6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="MARKKYSTREAMS",Knicks - Pistons (07:00 AM 11/02/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://msodcl92yw.azureedge.net/live/NBA3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="MARKKYSTREAMS",Lakers - Raptors (07:30 AM 11/02/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://msodcl92yw.azureedge.net/live/NBA4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="MARKKYSTREAMS",Nuggets - Timberwolves (09:30 AM 11/02/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://msodcl92yw.azureedge.net/live/NBA8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-chicago-bulls-logo.png" group-title="MARKKYSTREAMS",Bulls - Nets (07:30 AM 11/02/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://msodcl92yw.azureedge.net/live/NBA5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="MARKKYSTREAMS",Magic - Cavaliers (07:00 AM 11/02/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://msodcl92yw.azureedge.net/live/NBA2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="MARKKYSTREAMS",Thunder - Trail Blazers (10:00 AM 11/02/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://msodcl92yw.azureedge.net/live/NBA9/playlist.m3u8
 
