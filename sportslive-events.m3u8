@@ -2475,6 +2475,11 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=194
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=195
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/wwe-logo.png" group-title="PPV EVENTS",WWE Crown Jewel 2024 (02:00 AM 11/03/24) [WWE NETWORK]
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=376
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=376
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/alien-4-icon.png" group-title="PPV EVENTS",Fury Pro Grappling 11 (03:00 AM 11/03/24) [UFC FIGHT PASS]
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=196
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -7180,7 +7185,7 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=496
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=118
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/horse-logo.png" group-title="HORSE RACING",Live racing from Newmarket, Wetherby, Ayr and Down Royal (01:08 AM 11/03/24) [RACING TV UK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/horse-logo.png" group-title="HORSE RACING",Live racing from Newmarket, Wetherby, Ayr and Down Royal (01:23 AM 11/03/24) [RACING TV UK]
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=555
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=555
