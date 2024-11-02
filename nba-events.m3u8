@@ -1,40 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="METHSTREAMS",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cfhxtv43oz.azureedge.net/live/NBA8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="METHSTREAMS",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cfhxtv43oz.azureedge.net/live/NBA9/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="1STREAM",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27229/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="SONS-STREAM",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/mportlandtrailblazers.m3u8?md5=hQn7Xv4CBAmABJk9blOmhw&expires=1730529097
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="1STREAM",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27223/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="STREAMBTW",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [STREAMBTW]
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://allfreeshoping.online/live/stream_nba1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="STREAMBTW",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [STREAMBTW]
 #EXTVLCOPT:http-origin=https://streambtw.com
@@ -42,35 +12,11 @@ https://allfreeshoping.online/live/stream_nba1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://allfreeshoping.online/live/stream_nba8.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="BESTSOLARIS",Minnesota Timberwolves - Denver Nuggets (09:30 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://tvwnpx87xfq.azureedge.net/live/n8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="BESTSOLARIS",Portland Trail Blazers - Oklahoma City Thunder (10:00 AM 11/02/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://tvwnpx87xfq.azureedge.net/live/n9/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="CRACKSTREAMS",Oklahoma City Thunder - Portland Trail Blazers (10:00 AM 11/02/24) [CRACKSTREAMS]
 #EXTVLCOPT:http-origin=https://thecrackstreams.to
 #EXTVLCOPT:http-referrer=https://thecrackstreams.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://hpqzrk18mz.azureedge.net/streams/Blazers/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="CRACKSTREAMS",Denver Nuggets - Minnesota Timberwolves (09:30 AM 11/02/24) [CRACKSTREAMS]
-#EXTVLCOPT:http-origin=https://thecrackstreams.to
-#EXTVLCOPT:http-referrer=https://thecrackstreams.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://hpqzrk18mz.azureedge.net/streams/Timberwolves/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="MARKKYSTREAMS",Nuggets - Timberwolves (09:30 AM 11/02/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://vagkfb19gv.azureedge.net/live/NBA8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="MARKKYSTREAMS",Thunder - Trail Blazers (10:00 AM 11/02/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
