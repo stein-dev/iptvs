@@ -2215,6 +2215,11 @@ https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=474
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=158
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/alien-4-icon.png" group-title="PPV EVENTS",Fury FC 98: Khera vs Dixon (08:00 AM 11/04/24) [UFC FIGHT PASS]
+#EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sportslive.me/wp-content/themes/astra/sportslive/stream.m3u8?id=59
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/tv-logo.png" group-title="TV SHOWS",Los 50 Season 2, Episode 17 (08:00 AM 11/04/24) [TELEMUNDO USA]
 #EXTVLCOPT:http-referrer=https://sportslive.me/wp-content/themes/astra/sportslive/pl.php?play=131
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
