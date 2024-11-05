@@ -132,23 +132,23 @@ https://sports.tv247us.com/hls/204f1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/oxygen.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Animal-Planet.png?fit=240%2C160" group-title="CHANNELS",Animal Planet
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/07/VH1.png?fit=240%2C160" group-title="CHANNELS",VH1
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/animalplanet.m3u8
+https://live.tv247us.com/hls/vh1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Sec-network.png?fit=240%2C160" group-title="CHANNELS",SEC Network
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/FS1.png?fit=240%2C160" group-title="CHANNELS",Fox Sports 1
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/sec.m3u8
+https://live.tv247us.com/hls/fs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/TNT-US.png?fit=240%2C160" group-title="CHANNELS",TNT
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN.png?fit=240%2C160" group-title="CHANNELS",ESPN US
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/tnt.m3u8
+https://live.tv247us.com/hls/e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png?fit=240%2C160" group-title="CHANNELS",AMC
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -156,29 +156,17 @@ https://live.tv247us.com/hls/tnt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/amc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/Cartoon-Network.png?fit=240%2C160" group-title="CHANNELS",Cartoon Network
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/cn.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/07/VH1.png?fit=240%2C160" group-title="CHANNELS",VH1
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/vh1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Junior.png?fit=240%2C160" group-title="CHANNELS",Disney Junior
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/disneyjunior.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/12/CNN.png?fit=240%2C160" group-title="CHANNELS",CNN
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/cnn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/Cartoon-Network.png?fit=240%2C160" group-title="CHANNELS",Cartoon Network
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/cn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Channel.png?fit=240%2C160" group-title="CHANNELS",Disney Channel
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -186,17 +174,11 @@ https://live.tv247us.com/hls/cnn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/disney.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NFL-network.png?fit=240%2C160" group-title="CHANNELS",NFL Network
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Junior.png?fit=240%2C160" group-title="CHANNELS",Disney Junior
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/nfl.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/FS1.png?fit=240%2C160" group-title="CHANNELS",Fox Sports 1
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/fs1.m3u8
+https://live.tv247us.com/hls/disneyjunior.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/travel-channel-free-live-stream-1.png?fit=240%2C160" group-title="CHANNELS",Travel Channel
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -210,29 +192,17 @@ https://live.tv247us.com/hls/travel.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NHL-network.png?fit=240%2C160" group-title="CHANNELS",NHL Network
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/accn.png?fit=240%2C160" group-title="CHANNELS",ACC Network
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/nhl.m3u8
+https://live.tv247us.com/hls/acc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TLC-Free-Stream-Online.png?fit=240%2C160" group-title="CHANNELS",TLC
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/TNT-US.png?fit=240%2C160" group-title="CHANNELS",TNT
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/tlc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/FreeForm.png?fit=240%2C160" group-title="CHANNELS",Freeform
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/freeform.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/THE-CW-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",The CW
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/cw.m3u8
+https://live.tv247us.com/hls/tnt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png?fit=240%2C160" group-title="CHANNELS",Disney XD
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -240,29 +210,23 @@ https://live.tv247us.com/hls/cw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/disneyxd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-2.png?fit=240%2C160" group-title="CHANNELS",ESPN 2
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/e2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Sec-network.png?fit=240%2C160" group-title="CHANNELS",SEC Network
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/sec.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/MTV.png?fit=240%2C160" group-title="CHANNELS",MTV
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/mtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/ABC.png?fit=240%2C160" group-title="CHANNELS",ABC
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/abc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/accn.png?fit=240%2C160" group-title="CHANNELS",ACC Network
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/acc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Bravo
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/bravo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/History.png?fit=240%2C160" group-title="CHANNELS",History (American TV network)
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -270,11 +234,23 @@ https://live.tv247us.com/hls/bravo.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/history.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN.png?fit=240%2C160" group-title="CHANNELS",ESPN US
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/espnU.png?fit=240%2C160" group-title="CHANNELS",ESPN U
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/e1.m3u8
+https://live.tv247us.com/hls/espnu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Bravo
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/bravo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/CBS.png?fit=240%2C160" group-title="CHANNELS",CBS
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/cbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/ESPNEWS.png?fit=240%2C160" group-title="CHANNELS",ESPNews
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -288,71 +264,23 @@ https://live.tv247us.com/hls/esnews.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/national.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/foot-network-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Food Network
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NHL-network.png?fit=240%2C160" group-title="CHANNELS",NHL Network
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/footnw.m3u8
+https://live.tv247us.com/hls/nhl.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/espnU.png?fit=240%2C160" group-title="CHANNELS",ESPN U
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NFL-network.png?fit=240%2C160" group-title="CHANNELS",NFL Network
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/espnu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/BBC.png?fit=240%2C160" group-title="CHANNELS",BBC America
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/bbca.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/FS2.png?fit=240%2C160" group-title="CHANNELS",Fox Sports 2
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/fs2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-2.png?fit=240%2C160" group-title="CHANNELS",ESPN 2
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/e2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/CBS.png?fit=240%2C160" group-title="CHANNELS",CBS
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/cbs.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/Fox-1.png?fit=240%2C160" group-title="CHANNELS",FOX
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/fox.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/NBC.png?fit=240%2C160" group-title="CHANNELS",NBC
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/nbc.m3u8
+https://live.tv247us.com/hls/nfl.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/MSNBC.png?fit=240%2C160" group-title="CHANNELS",MSNBC
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/msnbc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/NICKTOONS.png?fit=240%2C160" group-title="CHANNELS",Nicktoons
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/nicktoons.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/HBO-1.png?fit=240%2C160" group-title="CHANNELS",HBO
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2020/07/MLB-Network.png?fit=240%2C160" group-title="CHANNELS",MLB Network
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -366,17 +294,59 @@ https://live.tv247us.com/hls/mlb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/showtime.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png?fit=240%2C160" group-title="CHANNELS",HGTV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/FS2.png?fit=240%2C160" group-title="CHANNELS",Fox Sports 2
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/hgtv.m3u8
+https://live.tv247us.com/hls/fs2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/USA-NETWORK-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Usa Network
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/THE-CW-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",The CW
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/usanw.m3u8
+https://live.tv247us.com/hls/cw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/BBC.png?fit=240%2C160" group-title="CHANNELS",BBC America
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/bbca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TLC-Free-Stream-Online.png?fit=240%2C160" group-title="CHANNELS",TLC
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/Fox-1.png?fit=240%2C160" group-title="CHANNELS",FOX
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/fox.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Fox-news.png?fit=240%2C160" group-title="CHANNELS",Fox News
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/fn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/NICKTOONS.png?fit=240%2C160" group-title="CHANNELS",Nicktoons
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/nicktoons.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/ABC.png?fit=240%2C160" group-title="CHANNELS",ABC
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/abc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/foot-network-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Food Network
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/footnw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/cinemax-movie-max.png?fit=240%2C160" group-title="CHANNELS",Cinemax
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -384,11 +354,11 @@ https://live.tv247us.com/hls/usanw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/cinemaxus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/btn.png?fit=240%2C160" group-title="CHANNELS",Big Ten Network
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Animal-Planet.png?fit=240%2C160" group-title="CHANNELS",Animal Planet
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/btn.m3u8
+https://live.tv247us.com/hls/animalplanet.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/NBATV-2.png?fit=240%2C160" group-title="CHANNELS",NBA TV
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -396,11 +366,41 @@ https://live.tv247us.com/hls/btn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/nba.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/01/HGTV.png?fit=240%2C160" group-title="CHANNELS",HGTV
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/hgtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/btn.png?fit=240%2C160" group-title="CHANNELS",Big Ten Network
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/btn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/USA-NETWORK-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Usa Network
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/usanw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/NBC.png?fit=240%2C160" group-title="CHANNELS",NBC
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/nbc.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/09/NFL-REDZONE-From-NFL-NW.png?fit=240%2C160" group-title="CHANNELS",NFL Redzone
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/redzone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/HBO-1.png?fit=240%2C160" group-title="CHANNELS",HBO
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/Syfy.png?fit=240%2C160" group-title="CHANNELS",Syfy
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -408,11 +408,11 @@ https://live.tv247us.com/hls/redzone.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/syfy.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Fox-news.png?fit=240%2C160" group-title="CHANNELS",Fox News
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/FreeForm.png?fit=240%2C160" group-title="CHANNELS",Freeform
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/fn.m3u8
+https://live.tv247us.com/hls/freeform.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-3.png?fit=240%2C160" group-title="CHANNELS",ESPN3
 #EXTVLCOPT:http-origin=https://tv247.us
