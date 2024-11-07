@@ -1,230 +1,254 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/327.png" group-title="UEFA EUROPA LEAGUE",Bodo/Glimt - Qarabag [Stream 1 - TNT10 HD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/495.png" group-title="SERIE A",Genoa - Como [Stream 1 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts10/index.m3u8
+https://liveua.score806.cc/paramount8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/327.png" group-title="UEFA EUROPA LEAGUE",Bodo/Glimt - Qarabag [Stream 2 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/495.png" group-title="SERIE A",Genoa - Como [Stream 2 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount10/index.m3u8
+https://live2-tv.vipcdn.live/paramount8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/327.png" group-title="UEFA EUROPA LEAGUE",Bodo/Glimt - Qarabag [Stream 3 - TNT10 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts10/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/327.png" group-title="UEFA EUROPA LEAGUE",Bodo/Glimt - Qarabag [Stream 4 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount10/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/559.png" group-title="UEFA EUROPA LEAGUE",FCSB - FC Midtjylland [Stream 1 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/559.png" group-title="UEFA EUROPA LEAGUE",FCSB - FC Midtjylland [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png" group-title="UEFA EUROPA LEAGUE",Nice - Twente [Stream 1 - TNT7 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png" group-title="UEFA EUROPA LEAGUE",Nice - Twente [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png" group-title="UEFA EUROPA LEAGUE",Nice - Twente [Stream 3 - TNT7 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png" group-title="UEFA EUROPA LEAGUE",Nice - Twente [Stream 4 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/169.png" group-title="UEFA EUROPA LEAGUE",Eintracht Frankfurt - Slavia Praha [Stream 1 - TNT6 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/169.png" group-title="UEFA EUROPA LEAGUE",Eintracht Frankfurt - Slavia Praha [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/169.png" group-title="UEFA EUROPA LEAGUE",Eintracht Frankfurt - Slavia Praha [Stream 3 - TNT6 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/169.png" group-title="UEFA EUROPA LEAGUE",Eintracht Frankfurt - Slavia Praha [Stream 4 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1393.png" group-title="UEFA EUROPA LEAGUE",Union St. Gilloise - AS Roma [Stream 1 - TNT5 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1393.png" group-title="UEFA EUROPA LEAGUE",Union St. Gilloise - AS Roma [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1393.png" group-title="UEFA EUROPA LEAGUE",Union St. Gilloise - AS Roma [Stream 3 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1393.png" group-title="UEFA EUROPA LEAGUE",Union St. Gilloise - AS Roma [Stream 4 - TNT5 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1393.png" group-title="UEFA EUROPA LEAGUE",Union St. Gilloise - AS Roma [Stream 5 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/372.png" group-title="UEFA EUROPA LEAGUE",IF elfsborg - SC Braga [Stream 1 - TNT9 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/372.png" group-title="UEFA EUROPA LEAGUE",IF elfsborg - SC Braga [Stream 2 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/572.png" group-title="UEFA EUROPA LEAGUE",Dynamo Kyiv - Ferencvarosi TC [Stream 1 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/paramount2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/372.png" group-title="UEFA EUROPA LEAGUE",IF elfsborg - SC Braga [Stream 3 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/372.png" group-title="UEFA EUROPA LEAGUE",IF elfsborg - SC Braga [Stream 4 - TNT9 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts9/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/372.png" group-title="UEFA EUROPA LEAGUE",IF elfsborg - SC Braga [Stream 5 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/572.png" group-title="UEFA EUROPA LEAGUE",Dynamo Kyiv - Ferencvarosi TC [Stream 2 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://live2-tv.vipcdn.live/paramount2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/553.png" group-title="UEFA EUROPA LEAGUE",Olympiakos Piraeus - Rangers [Stream 1 - TNT3 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/201.png" group-title="UEFA EUROPA LEAGUE",AZ Alkmaar - Fenerbahce [Stream 1 - TNT7 HD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts3/index.m3u8
+https://live2-tv.vipcdn.live/uk_bts7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/553.png" group-title="UEFA EUROPA LEAGUE",Olympiakos Piraeus - Rangers [Stream 2 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/201.png" group-title="UEFA EUROPA LEAGUE",AZ Alkmaar - Fenerbahce [Stream 2 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount6/index.m3u8
+https://liveua.score806.cc/paramount1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/553.png" group-title="UEFA EUROPA LEAGUE",Olympiakos Piraeus - Rangers [Stream 3 - Portuguese]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/201.png" group-title="UEFA EUROPA LEAGUE",AZ Alkmaar - Fenerbahce [Stream 3 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/pt_elevensport4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/553.png" group-title="UEFA EUROPA LEAGUE",Olympiakos Piraeus - Rangers [Stream 4 - TNT3 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/201.png" group-title="UEFA EUROPA LEAGUE",AZ Alkmaar - Fenerbahce [Stream 4 - TNT7 HD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts3/index.m3u8
+https://live2-tv.vipcdn.live/uk_bts7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/553.png" group-title="UEFA EUROPA LEAGUE",Olympiakos Piraeus - Rangers [Stream 5 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/201.png" group-title="UEFA EUROPA LEAGUE",AZ Alkmaar - Fenerbahce [Stream 5 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2247.png" group-title="EUROPA CONFERENCE LEAGUE",Apoel Nicosia - Fiorentina [Stream 1 - TNT10 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_bts10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2247.png" group-title="EUROPA CONFERENCE LEAGUE",Apoel Nicosia - Fiorentina [Stream 2 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2247.png" group-title="EUROPA CONFERENCE LEAGUE",Apoel Nicosia - Fiorentina [Stream 3 - TNT10 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2247.png" group-title="EUROPA CONFERENCE LEAGUE",Apoel Nicosia - Fiorentina [Stream 4 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://live2-tv.vipcdn.live/paramount6/index.m3u86
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/566.png" group-title="UEFA EUROPA LEAGUE",Ludogorets - Athletic Club [Stream 1 - TNT8 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/566.png" group-title="UEFA EUROPA LEAGUE",Ludogorets - Athletic Club [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/566.png" group-title="UEFA EUROPA LEAGUE",Ludogorets - Athletic Club [Stream 3 - TNT8 HD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/566.png" group-title="UEFA EUROPA LEAGUE",Ludogorets - Athletic Club [Stream 4 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/645.png" group-title="UEFA EUROPA LEAGUE",Galatasaray - Tottenham [Stream 1 - Premier1 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/33.png" group-title="UEFA EUROPA LEAGUE",Manchester United - PAOK [Stream 1 - Premier1 FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/uk_premiersports1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/645.png" group-title="UEFA EUROPA LEAGUE",Galatasaray - Tottenham [Stream 2 - TNT1 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/33.png" group-title="UEFA EUROPA LEAGUE",Manchester United - PAOK [Stream 2 - TNT2 FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts1/index.m3u8
+https://liveua.score806.cc/uk_bts2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/645.png" group-title="UEFA EUROPA LEAGUE",Galatasaray - Tottenham [Stream 3 - Portuguese]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/33.png" group-title="UEFA EUROPA LEAGUE",Manchester United - PAOK [Stream 3 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/pt_elevensport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/645.png" group-title="UEFA EUROPA LEAGUE",Galatasaray - Tottenham [Stream 4 - Premier1 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/33.png" group-title="UEFA EUROPA LEAGUE",Manchester United - PAOK [Stream 4 - Premier1 FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://live2-tv.vipcdn.live/uk_premiersports1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/645.png" group-title="UEFA EUROPA LEAGUE",Galatasaray - Tottenham [Stream 5 - TNT1 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/33.png" group-title="UEFA EUROPA LEAGUE",Manchester United - PAOK [Stream 5 - TNT2 FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/4160.png" group-title="UEFA EUROPA LEAGUE",Rīgas FS - Anderlecht [Stream 1 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/4160.png" group-title="UEFA EUROPA LEAGUE",Rīgas FS - Anderlecht [Stream 2 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/487.png" group-title="UEFA EUROPA LEAGUE",Lazio - FC Porto [Stream 1 - CBS Network]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/487.png" group-title="UEFA EUROPA LEAGUE",Lazio - FC Porto [Stream 2 - TUDN]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/us_tudn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/487.png" group-title="UEFA EUROPA LEAGUE",Lazio - FC Porto [Stream 3 - CBS Network]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/567.png" group-title="UEFA EUROPA LEAGUE",Plzen - Real Sociedad [Stream 1 - TNT9 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_bts9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/567.png" group-title="UEFA EUROPA LEAGUE",Plzen - Real Sociedad [Stream 2 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/567.png" group-title="UEFA EUROPA LEAGUE",Plzen - Real Sociedad [Stream 3 - TNT9 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/567.png" group-title="UEFA EUROPA LEAGUE",Plzen - Real Sociedad [Stream 4 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/60.png" group-title="CHAMPIONSHIP",West Brom - Burnley [Stream 1 - SKY Football FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/60.png" group-title="CHAMPIONSHIP",West Brom - Burnley [Stream 2 - SKY Football FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/167.png" group-title="UEFA EUROPA LEAGUE",1899 Hoffenheim - Lyon [Stream 1 - TNT6 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/167.png" group-title="UEFA EUROPA LEAGUE",1899 Hoffenheim - Lyon [Stream 2 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/167.png" group-title="UEFA EUROPA LEAGUE",1899 Hoffenheim - Lyon [Stream 3 - TNT6 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/167.png" group-title="UEFA EUROPA LEAGUE",1899 Hoffenheim - Lyon [Stream 4 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="EUROPA CONFERENCE LEAGUE",Chelsea - Artsakh [Stream 1 - TNT1 FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="EUROPA CONFERENCE LEAGUE",Chelsea - Artsakh [Stream 2 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="EUROPA CONFERENCE LEAGUE",Chelsea - Artsakh [Stream 3 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="EUROPA CONFERENCE LEAGUE",Chelsea - Artsakh [Stream 4 - TNT1 FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://live2-tv.vipcdn.live/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="EUROPA CONFERENCE LEAGUE",Chelsea - Artsakh [Stream 5 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/194.png" group-title="UEFA EUROPA LEAGUE",Ajax - Maccabi Tel Aviv [Stream 1 - TNT8 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/194.png" group-title="UEFA EUROPA LEAGUE",Ajax - Maccabi Tel Aviv [Stream 2 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/194.png" group-title="UEFA EUROPA LEAGUE",Ajax - Maccabi Tel Aviv [Stream 3 - TNT8 HD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_bts8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/194.png" group-title="UEFA EUROPA LEAGUE",Ajax - Maccabi Tel Aviv [Stream 4 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount9/index.m3u8
 
