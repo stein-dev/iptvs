@@ -1,38 +1,86 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/171.png" group-title="2. BUNDESLIGA",FC Nurnberg - FC Kaiserslautern [Stream 1 - Sky Bundes 3]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/182.png" group-title="BUNDESLIGA",Union Berlin - SC Freiburg [Stream 1 - ESPN+]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes3/index.m3u8
+https://liveua.score806.cc/espn0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/171.png" group-title="2. BUNDESLIGA",FC Nurnberg - FC Kaiserslautern [Stream 2 - Sky Bundesl 3]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/182.png" group-title="BUNDESLIGA",Union Berlin - SC Freiburg [Stream 2 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/de_skybundes3/index.m3u8
+https://liveua.score806.cc/pt_elevensport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Al Riyadh.png" group-title="SAUDI ARABIA - PRO LEAGUE",Al Riyadh - Al Nassr [Stream 1 - Fox Plus]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/182.png" group-title="BUNDESLIGA",Union Berlin - SC Freiburg [Stream 3 - ESPN+]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_foxsplus/index.m3u8
+https://live2-tv.vipcdn.live/espn0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Al Riyadh.png" group-title="SAUDI ARABIA - PRO LEAGUE",Al Riyadh - Al Nassr [Stream 2 - Portuguese]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/38.png" group-title="CHAMPIONSHIP",Watford - Oxford United [Stream 1 - SKY Football FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv1/index.m3u8
+https://liveua.score806.cc/uk_ssfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/744.png" group-title="2. BUNDESLIGA",Eintracht Braunschweig - Hamburger SV [Stream 1 - Sky Bundes 2]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/38.png" group-title="CHAMPIONSHIP",Watford - Oxford United [Stream 2 - SKY Football FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes2/index.m3u8
+https://live2-tv.vipcdn.live/uk_ssfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/744.png" group-title="2. BUNDESLIGA",Eintracht Braunschweig - Hamburger SV [Stream 2 - Sky Bundesl 2]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png" group-title="LIGUE 1",Marseille - Auxerre [Stream 1 - French]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/de_skybundes2/index.m3u8
+https://liveua.score806.cc/fr_dazn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/81.png" group-title="LIGUE 1",Marseille - Auxerre [Stream 2 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/867.png" group-title="SERIE A",Lecce - Empoli [Stream 1 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/867.png" group-title="SERIE A",Lecce - Empoli [Stream 2 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/728.png" group-title="LA LIGA",Rayo Vallecano - Las Palmas [Stream 1 - Premier1 FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/728.png" group-title="LA LIGA",Rayo Vallecano - Las Palmas [Stream 2 - ESPN+]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/espn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/728.png" group-title="LA LIGA",Rayo Vallecano - Las Palmas [Stream 3 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/728.png" group-title="LA LIGA",Rayo Vallecano - Las Palmas [Stream 4 - Premier1 FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/728.png" group-title="LA LIGA",Rayo Vallecano - Las Palmas [Stream 5 - ESPN+]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/espn1/index.m3u8
 
