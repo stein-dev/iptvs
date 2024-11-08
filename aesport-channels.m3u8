@@ -1,2 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/171.png" group-title="2. BUNDESLIGA",FC Nurnberg - FC Kaiserslautern [Stream 1 - Sky Bundes 3]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/de_skybundes3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/171.png" group-title="2. BUNDESLIGA",FC Nurnberg - FC Kaiserslautern [Stream 2 - Sky Bundesl 3]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/de_skybundes3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Al Riyadh.png" group-title="SAUDI ARABIA - PRO LEAGUE",Al Riyadh - Al Nassr [Stream 1 - Fox Plus]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/us_foxsplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Al Riyadh.png" group-title="SAUDI ARABIA - PRO LEAGUE",Al Riyadh - Al Nassr [Stream 2 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/744.png" group-title="2. BUNDESLIGA",Eintracht Braunschweig - Hamburger SV [Stream 1 - Sky Bundes 2]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/de_skybundes2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/744.png" group-title="2. BUNDESLIGA",Eintracht Braunschweig - Hamburger SV [Stream 2 - Sky Bundesl 2]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/de_skybundes2/index.m3u8
+
