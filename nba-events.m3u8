@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="1STREAM",Cleveland Cavaliers - Golden State Warriors (08:30 AM 11/09/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27506/load-playlist
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="1STREAM",Oklahoma City Thunder - Houston Rockets (09:00 AM 11/09/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27509/load-playlist
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-memphis-grizzlies-logo.png" group-title="1STREAM",Memphis Grizzlies - Washington Wizards (09:00 AM 11/09/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27510/load-playlist
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-dallas-mavericks-logo.png" group-title="1STREAM",Dallas Mavericks - Phoenix Suns (08:30 AM 11/09/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27504/load-playlist
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="DLHD",Charlotte Hornets - Indiana Pacers (08:00 AM 11/09/24) [NBA LEAGUE PASS]
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -480,23 +504,11 @@ https://xyzdddd.mizhls.ru/lb/bet6928246/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27521/load-playlist
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="STREAMED",Golden State Warriors - Cleveland Cavaliers (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/golden-state-warriors-vs-cleveland-cavaliers/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="STREAMED",Golden State Warriors - Cleveland Cavaliers (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/golden-state-warriors-vs-cleveland-cavaliers/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="1STREAM",Minnesota Timberwolves - Portland Trail Blazers (10:00 AM 11/09/24) [1STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="1STREAM",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27524/load-playlist
+https://init.clmbosean.space/playlist/27522/load-playlist
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="1STREAM",Detroit Pistons - Atlanta Hawks (08:00 AM 11/09/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
@@ -504,89 +516,11 @@ https://init.clmbosean.space/playlist/27524/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27523/load-playlist
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="STREAMED",Indiana Pacers - Charlotte Hornets (08:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/indiana-pacers-vs-charlotte-hornets/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="STREAMED",Indiana Pacers - Charlotte Hornets (08:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/indiana-pacers-vs-charlotte-hornets/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="STREAMED",New Orleans Pelicans - Orlando Magic (08:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/new-orleans-pelicans-vs-orlando-magic/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="STREAMED",New Orleans Pelicans - Orlando Magic (08:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/new-orleans-pelicans-vs-orlando-magic/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="STREAMED",Houston Rockets - Oklahoma City Thunder (09:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/houston-rockets-vs-oklahoma-city-thunder/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="STREAMED",Houston Rockets - Oklahoma City Thunder (09:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/houston-rockets-vs-oklahoma-city-thunder/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-miami-heat-logo.png" group-title="STREAMED",Miami Heat - Denver Nuggets (10:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/miami-heat-vs-denver-nuggets/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-miami-heat-logo.png" group-title="STREAMED",Miami Heat - Denver Nuggets (10:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/miami-heat-vs-denver-nuggets/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="METHSTREAMS",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NBA2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-washington-wizards-logo.png" group-title="STREAMED",Washington Wizards - Memphis Grizzlies (09:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/washington-wizards-vs-memphis-grizzlies/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-washington-wizards-logo.png" group-title="STREAMED",Washington Wizards - Memphis Grizzlies (09:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/washington-wizards-vs-memphis-grizzlies/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="STREAMED",Brooklyn Nets - Boston Celtics (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/brooklyn-nets-vs-boston-celtics/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="STREAMED",Brooklyn Nets - Boston Celtics (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/brooklyn-nets-vs-boston-celtics/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="1STREAM",Oklahoma City Thunder - Houston Rockets (09:00 AM 11/09/24) [1STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="1STREAM",Minnesota Timberwolves - Portland Trail Blazers (10:00 AM 11/09/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27509/load-playlist
+https://init.clmbosean.space/playlist/27524/load-playlist
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="1STREAM",New York Knicks - Milwaukee Bucks (08:30 AM 11/09/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
@@ -600,59 +534,23 @@ https://init.clmbosean.space/playlist/27507/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://init.clmbosean.space/playlist/27512/load-playlist
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-milwaukee-bucks-logo.png" group-title="STREAMED",Milwaukee Bucks - New York Knicks (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/rugby-logo.png" group-title="RUGBY",Ireland - New Zealand Stream #1 (04:00 AM 11/09/24)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/milwaukee-bucks-vs-new-york-knicks/1/playlist.m3u8
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/15/index.m3u8&token=6c8d53d38f9787e90de07a07717bb9771c29d950&is_vip=false&verify=1731088800-0j8Fg/dqFS/Sq2dN7FowuFiPyOduBdwXI89GWJZiUsw%3D
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-milwaukee-bucks-logo.png" group-title="STREAMED",Milwaukee Bucks - New York Knicks (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="SONS-STREAM",Charlotte Hornets - Indiana Pacers (08:00 AM 11/09/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/milwaukee-bucks-vs-new-york-knicks/2/playlist.m3u8
+https://d13.jisdeshmaiganga.com:999/hls/mcharlottehornets.m3u8?md5=7_a-00u2WJB_LxxnI5dOlg&expires=1731104903
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="STREAMED",Portland Trail Blazers - Minnesota Timberwolves (10:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/portland-trail-blazers-vs-minnesota-timberwolves/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="STREAMED",Portland Trail Blazers - Minnesota Timberwolves (10:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/portland-trail-blazers-vs-minnesota-timberwolves/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="STREAMED",Phoenix Suns - Dallas Mavericks (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/phoenix-suns-vs-dallas-mavericks/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="STREAMED",Phoenix Suns - Dallas Mavericks (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/phoenix-suns-vs-dallas-mavericks/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="STREAMED",Los Angeles Clippers - Sacramento Kings (11:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/los-angeles-clippers-vs-sacramento-kings/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="STREAMED",Los Angeles Clippers - Sacramento Kings (11:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
-#EXTVLCOPT:http-origin=https://embedme.top
-#EXTVLCOPT:http-referrer=https://embedme.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://rr.vipstreams.in/charlie/js/los-angeles-clippers-vs-sacramento-kings/2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="1STREAM",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [1STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="1STREAM",Denver Nuggets - Miami Heat (10:00 AM 11/09/24) [1STREAM]
 #EXTVLCOPT:http-origin=https://1stream.eu
 #EXTVLCOPT:http-referrer=https://1stream.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27505/load-playlist
+https://init.clmbosean.space/playlist/27511/load-playlist
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="STREAMED",Atlanta Hawks - Detroit Pistons (08:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
 #EXTVLCOPT:http-origin=https://embedme.top
@@ -666,6 +564,126 @@ https://rr.vipstreams.in/charlie/js/atlanta-hawks-vs-detroit-pistons/1/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/atlanta-hawks-vs-detroit-pistons/2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="1STREAM",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27505/load-playlist
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="1STREAM",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [1STREAM]
+#EXTVLCOPT:http-origin=https://1stream.eu
+#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://init.clmbosean.space/playlist/27508/load-playlist
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="SONS-STREAM",Oklahoma City Thunder - Houston Rockets (09:00 AM 11/09/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d12.jisdeshmaiganga.com:999/hls/moklahomacitythunder.m3u8?md5=p_2YbVv8mlqWLAeKV4Cn_A&expires=1731104903
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="SONS-STREAM",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d11.jisdeshmaiganga.com:999/hls/mbostonceltics.m3u8?md5=4RnH0ZHK9fGlXRHNBiTXNw&expires=1731104903
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="SONS-STREAM",Sacramento Kings - Los Angeles Clippers (11:00 AM 11/09/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d13.jisdeshmaiganga.com:999/hls/msacramentokings.m3u8?md5=oIbfjQ1lIpeuMjXub4Cu4g&expires=1731104903
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-dallas-mavericks-logo.png" group-title="SONS-STREAM",Dallas Mavericks - Phoenix Suns (08:30 AM 11/09/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d12.jisdeshmaiganga.com:999/hls/mdallasmavericks.m3u8?md5=Ez_pc9xT0LZAmVQavpRd_g&expires=1731104903
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="STREAMED",Houston Rockets - Oklahoma City Thunder (09:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/houston-rockets-vs-oklahoma-city-thunder/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="STREAMED",Houston Rockets - Oklahoma City Thunder (09:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/houston-rockets-vs-oklahoma-city-thunder/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-washington-wizards-logo.png" group-title="STREAMED",Washington Wizards - Memphis Grizzlies (09:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/washington-wizards-vs-memphis-grizzlies/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-washington-wizards-logo.png" group-title="STREAMED",Washington Wizards - Memphis Grizzlies (09:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/washington-wizards-vs-memphis-grizzlies/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="STREAMED",New Orleans Pelicans - Orlando Magic (08:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/new-orleans-pelicans-vs-orlando-magic/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="STREAMED",New Orleans Pelicans - Orlando Magic (08:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/new-orleans-pelicans-vs-orlando-magic/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-milwaukee-bucks-logo.png" group-title="STREAMED",Milwaukee Bucks - New York Knicks (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/milwaukee-bucks-vs-new-york-knicks/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-milwaukee-bucks-logo.png" group-title="STREAMED",Milwaukee Bucks - New York Knicks (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/milwaukee-bucks-vs-new-york-knicks/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="STREAMED",Indiana Pacers - Charlotte Hornets (08:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/indiana-pacers-vs-charlotte-hornets/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="STREAMED",Indiana Pacers - Charlotte Hornets (08:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/indiana-pacers-vs-charlotte-hornets/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="STREAMED",Phoenix Suns - Dallas Mavericks (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/phoenix-suns-vs-dallas-mavericks/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="STREAMED",Phoenix Suns - Dallas Mavericks (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/phoenix-suns-vs-dallas-mavericks/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="STREAMED",Golden State Warriors - Cleveland Cavaliers (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/golden-state-warriors-vs-cleveland-cavaliers/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="STREAMED",Golden State Warriors - Cleveland Cavaliers (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/golden-state-warriors-vs-cleveland-cavaliers/2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-philadelphia-76ers-logo.png" group-title="STREAMED",Philadelphia 76ers - Los Angeles Lakers (11:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-referrer=https://embedme.top/
@@ -678,121 +696,175 @@ https://rr.vipstreams.in/charlie/js/philadelphia-76ers-vs-los-angeles-lakers/1/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://rr.vipstreams.in/charlie/js/philadelphia-76ers-vs-los-angeles-lakers/2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="1STREAM",Denver Nuggets - Miami Heat (10:00 AM 11/09/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="STREAMED",Brooklyn Nets - Boston Celtics (08:30 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27511/load-playlist
+https://rr.vipstreams.in/charlie/js/brooklyn-nets-vs-boston-celtics/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-dallas-mavericks-logo.png" group-title="1STREAM",Dallas Mavericks - Phoenix Suns (08:30 AM 11/09/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="STREAMED",Brooklyn Nets - Boston Celtics (08:30 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27504/load-playlist
+https://rr.vipstreams.in/charlie/js/brooklyn-nets-vs-boston-celtics/2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="1STREAM",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27508/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="SONS-STREAM",Charlotte Hornets - Indiana Pacers (08:00 AM 11/09/24) [SONS-STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="SONS-STREAM",New York Knicks - Milwaukee Bucks (08:30 AM 11/09/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mcharlottehornets.m3u8?md5=c0uhlyx8-_Nn2-JUFtV5MQ&expires=1731100854
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Memphis Tigers - Rice Owls (6 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="1STREAM",Cleveland Cavaliers - Golden State Warriors (08:30 AM 11/09/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27506/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/basketball-logo.png" group-title="BASKETBALL",Panathinaikos AKTOR Athens - Olympiacos Piraeus Stream #1 (03:15 AM 11/09/24)
-#EXTVLCOPT:http-origin=https://live-streamfootball.com
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/8/index.m3u8&token=0796156c468786a1268384addca023e9abb8af65&is_vip=false&verify=1731088800-tW90fK0mhYEKWcW2hrhDGxNDbCG/F/C9k%2BlJ5P3G7kk%3D
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-memphis-grizzlies-logo.png" group-title="1STREAM",Memphis Grizzlies - Washington Wizards (09:00 AM 11/09/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27510/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="1STREAM",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [1STREAM]
-#EXTVLCOPT:http-origin=https://1stream.eu
-#EXTVLCOPT:http-referrer=https://1stream.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://init.clmbosean.space/playlist/27522/load-playlist
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="SONS-STREAM",Detroit Pistons - Atlanta Hawks (08:00 AM 11/09/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mdetroitpistons.m3u8?md5=eCNgYsBYruDOmX06LJFREw&expires=1731100854
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Olympique de Marseille - Auxerre (39 minutes from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Real Madrid - Osasuna (17 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="SONS-STREAM",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/morlandomagic.m3u8?md5=xX6ZG7cbxCiWbi77ig_xCg&expires=1731100854
+https://d13.jisdeshmaiganga.com:999/hls/mnewyorkknicks.m3u8?md5=13TfqbxrLpMXitMsAfQ0cQ&expires=1731104903
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="SONS-STREAM",Cleveland Cavaliers - Golden State Warriors (08:30 AM 11/09/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mclevelandcavaliers.m3u8?md5=2Rj_D6SABY2ooz278i0vEQ&expires=1731100854
+https://d11.jisdeshmaiganga.com:999/hls/mclevelandcavaliers.m3u8?md5=xepzBkm-EsUDSIEQ7s3IcQ&expires=1731104903
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="SONS-STREAM",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="STREAMED",Los Angeles Clippers - Sacramento Kings (11:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/mbostonceltics.m3u8?md5=PNGvXtwOhjj4GEOR1GGiuw&expires=1731100854
+https://rr.vipstreams.in/charlie/js/los-angeles-clippers-vs-sacramento-kings/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-dallas-mavericks-logo.png" group-title="SONS-STREAM",Dallas Mavericks - Phoenix Suns (08:30 AM 11/09/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="STREAMED",Los Angeles Clippers - Sacramento Kings (11:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mdallasmavericks.m3u8?md5=8TffwXAbzFLaEKBrgf2thg&expires=1731100854
+https://rr.vipstreams.in/charlie/js/los-angeles-clippers-vs-sacramento-kings/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-miami-heat-logo.png" group-title="STREAMED",Miami Heat - Denver Nuggets (10:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/miami-heat-vs-denver-nuggets/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-miami-heat-logo.png" group-title="STREAMED",Miami Heat - Denver Nuggets (10:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/miami-heat-vs-denver-nuggets/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="STREAMED",Portland Trail Blazers - Minnesota Timberwolves (10:00 AM 11/09/24) [CHARLIE 1 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/portland-trail-blazers-vs-minnesota-timberwolves/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="STREAMED",Portland Trail Blazers - Minnesota Timberwolves (10:00 AM 11/09/24) [CHARLIE 2 | ENGLISH | HD]
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://rr.vipstreams.in/charlie/js/portland-trail-blazers-vs-minnesota-timberwolves/2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Rayo Vallecano - Las Palmas (LIVE) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Anaheim Ducks - Minnesota Wild (6 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-memphis-grizzlies-logo.png" group-title="SONS-STREAM",Memphis Grizzlies - Washington Wizards (09:00 AM 11/09/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/mmemphisgrizzlies.m3u8?md5=AkwZo_Z5GAdmBP3gQyBj7g&expires=1731100854
+https://d13.jisdeshmaiganga.com:999/hls/mmemphisgrizzlies.m3u8?md5=o-WZny8-3tUs1KkGnHX6uA&expires=1731104904
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="SONS-STREAM",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d12.jisdeshmaiganga.com:999/hls/mlosangeleslakers.m3u8?md5=IXadnuUkWu3WALoLs16yeg&expires=1731104904
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nfl-logo.png" group-title="NFL",NFL Redzone [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Cincinnati Bearcats - West Virginia Mountaineers (20 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="METHSTREAMS",Detroit Pistons - Atlanta Hawks (08:00 AM 11/09/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Crystal Palace - Fulham (18 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Wolverhampton - Southampton (18 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/f1-logo.png" group-title="F1",F1 Streams [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/F1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Memphis Tigers - Rice Owls (5 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/ESPN2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="SONS-STREAM",Denver Nuggets - Miami Heat (10:00 AM 11/09/24) [SONS-STREAM]
+#EXTVLCOPT:http-origin=https://anarchy-stream.com
+#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://d13.jisdeshmaiganga.com:999/hls/mdenvernuggets.m3u8?md5=Uv96PN3PRuN25CwDNnv1Xg&expires=1731104904
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="SONS-STREAM",Minnesota Timberwolves - Portland Trail Blazers (10:00 AM 11/09/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d13.jisdeshmaiganga.com:999/hls/mminneapolistimberwolves.m3u8?md5=wlOmuxLJSrwkzgpUy0jOyg&expires=1731100854
+https://d13.jisdeshmaiganga.com:999/hls/mminneapolistimberwolves.m3u8?md5=W18JNT-NvqkOvm0w__ZJCg&expires=1731104904
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="SONS-STREAM",Sacramento Kings - Los Angeles Clippers (11:00 AM 11/09/24) [SONS-STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Olympique de Marseille - Auxerre (LIVE) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="SONS-STREAM",Detroit Pistons - Atlanta Hawks (08:00 AM 11/09/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/msacramentokings.m3u8?md5=2VoycoeXI-LYWyOkJZVKxw&expires=1731100854
+https://d12.jisdeshmaiganga.com:999/hls/mdetroitpistons.m3u8?md5=oXwUQs3u64s-kwWg7FOOFA&expires=1731104904
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nfl-logo.png" group-title="NFL",NFL Redzone [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="METHSTREAMS",Cleveland Cavaliers - Golden State Warriors (08:30 AM 11/09/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FC Union Berlin - SC Freiburg (LIVE) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",UCLA Bruins - Iowa Hawkeyes (5 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/FOX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Lecce - Empoli (LIVE) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -804,145 +876,55 @@ https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://jckbzv87fw.azureedge.net/live/NBA1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Lecce - Empoli (39 minutes from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FSV Mainz 05 - Borussia Dortmund (18 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FC Union Berlin - SC Freiburg (24 minutes from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="METHSTREAMS",Denver Nuggets - Miami Heat (10:00 AM 11/09/24) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="SONS-STREAM",New York Knicks - Milwaukee Bucks (08:30 AM 11/09/24) [SONS-STREAM]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Villarreal - Deportivo Alavés (19 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Washington Capitals - Pittsburgh Penguins (4 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/NHL2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="METHSTREAMS",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/NBA2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Wake Forest Demon Deacons - California Golden Bears (4 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/ACCN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",West Ham United - Everton (18 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="SONS-STREAM",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [SONS-STREAM]
 #EXTVLCOPT:http-origin=https://anarchy-stream.com
 #EXTVLCOPT:http-referrer=https://anarchy-stream.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mnewyorkknicks.m3u8?md5=7NXx10fES9JUiMyVLEk_OQ&expires=1731100855
+https://d12.jisdeshmaiganga.com:999/hls/morlandomagic.m3u8?md5=iSXKGkv0HxdvfBrJ0WbJzw&expires=1731104904
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",UCLA Bruins - Iowa Hawkeyes (6 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Seattle Kraken - Vegas Golden Knights (7 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NHL3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Crystal Palace - Fulham (19 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Rayo Vallecano - Las Palmas (54 minutes from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",San Diego State Aztecs - New Mexico Lobos (8 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-dallas-mavericks-logo.png" group-title="METHSTREAMS",Dallas Mavericks - Phoenix Suns (08:30 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NBA6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/f1-logo.png" group-title="F1",F1 Streams [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Venezia - Parma (18 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",West Ham United - Everton (19 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="METHSTREAMS",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="METHSTREAMS",Minnesota Timberwolves - Portland Trail Blazers (10:00 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="SONS-STREAM",Oklahoma City Thunder - Houston Rockets (09:00 AM 11/09/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d12.jisdeshmaiganga.com:999/hls/moklahomacitythunder.m3u8?md5=ntggeekd0VrKMi1zWZJNxA&expires=1731100855
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Anaheim Ducks - Minnesota Wild (7 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NHL4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RB Leipzig - Borussia M'gladbach (22 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="METHSTREAMS",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NBA12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="METHSTREAMS",Cleveland Cavaliers - Golden State Warriors (08:30 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NBA79/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Louisiana-Monroe Warhawks - Texas State Bobcats (21 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FSV Mainz 05 - Borussia Dortmund (19 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Cincinnati Bearcats - West Virginia Mountaineers (21 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="METHSTREAMS",Detroit Pistons - Atlanta Hawks (08:00 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NBA3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Toronto Maple Leafs - Detroit Red Wings (4 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brighton & Hove Albion - Manchester City (21 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -954,37 +936,25 @@ https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://jckbzv87fw.azureedge.net/live/NBA8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Washington Capitals - Pittsburgh Penguins (5 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Seattle Kraken - Vegas Golden Knights (6 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NHL2/playlist.m3u8
+https://jckbzv87fw.azureedge.net/live/NHL3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="SONS-STREAM",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Toronto Maple Leafs - Detroit Red Wings (3 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mlosangeleslakers.m3u8?md5=cIFMAJuuBOz8h5OHOL41gw&expires=1731100855
+https://jckbzv87fw.azureedge.net/live/NHL1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="SONS-STREAM",Denver Nuggets - Miami Heat (10:00 AM 11/09/24) [SONS-STREAM]
-#EXTVLCOPT:http-origin=https://anarchy-stream.com
-#EXTVLCOPT:http-referrer=https://anarchy-stream.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://d11.jisdeshmaiganga.com:999/hls/mdenvernuggets.m3u8?md5=MG7QspnYnhrfOIk--HwMKg&expires=1731100855
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brentford - Bournemouth (19 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",East Tennessee State Buccaneers - Western Carolina Catamounts (20 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",FC St. Pauli - FC Bayern München (19 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",SV Werder Bremen - Holstein Kiel (19 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",FC St. Pauli - FC Bayern München (18 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -994,31 +964,13 @@ https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Delaware State Hornets - Morgan State Bears (21 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+https://jckbzv87fw.azureedge.net/live/NBA7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="METHSTREAMS",Sacramento Kings - Los Angeles Clippers (11:00 AM 11/09/24) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",East Tennessee State Buccaneers - Western Carolina Catamounts (21 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="METHSTREAMS",Denver Nuggets - Miami Heat (10:00 AM 11/09/24) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/NBA10/playlist.m3u8
+https://jckbzv87fw.azureedge.net/live/NBA13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-memphis-grizzlies-logo.png" group-title="METHSTREAMS",Memphis Grizzlies - Washington Wizards (09:00 AM 11/09/24) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
@@ -1026,55 +978,49 @@ https://jckbzv87fw.azureedge.net/live/NBA10/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://jckbzv87fw.azureedge.net/live/NBA9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Texas Longhorns - Florida Gators (21 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",San Diego State Aztecs - New Mexico Lobos (7 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/FS1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Holy Cross Crusaders - Lehigh Mountain Hawks (20 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Holy Cross Crusaders - Lehigh Mountain Hawks (21 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Real Madrid - Osasuna (16 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brighton & Hove Albion - Manchester City (22 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="METHSTREAMS",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/NBA12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Cagliari - Milan (20 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Villarreal - Deportivo Alavés (20 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",South Florida Bulls - Navy Midshipmen (20 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Wolverhampton - Southampton (19 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brentford - Bournemouth (18 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Duquesne Dukes - Robert Morris Colonials (21 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",VfL Bochum 1848 - Bayer 04 Leverkusen (19 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Wake Forest Demon Deacons - California Golden Bears (5 hours from now) [METHSTREAMS]
-#EXTVLCOPT:http-origin=https://methstreams.to/
-#EXTVLCOPT:http-referrer=https://methstreams.to//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://jckbzv87fw.azureedge.net/live/ACCN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RC Strasbourg - AS Monaco (20 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Duquesne Dukes - Robert Morris Colonials (20 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1084,49 +1030,103 @@ https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/6/index.m3u8&token=0796156c468786a1268384addca023e9abb8af65&is_vip=false&verify=1731088800-tW90fK0mhYEKWcW2hrhDGxNDbCG/F/C9k%2BlJ5P3G7kk%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/6/index.m3u8&token=6c8d53d38f9787e90de07a07717bb9771c29d950&is_vip=false&verify=1731088800-0j8Fg/dqFS/Sq2dN7FowuFiPyOduBdwXI89GWJZiUsw%3D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/darts-logo.png" group-title="DARTS",2024 PDC Europe Super League Day Four Stream #2 (02:00 AM 11/09/24)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn-iptv001.rumsport.com/livetv/114414_hd/index.m3u8&token=0796156c468786a1268384addca023e9abb8af65&is_vip=false&verify=1731088800-tW90fK0mhYEKWcW2hrhDGxNDbCG/F/C9k%2BlJ5P3G7kk%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn-iptv001.rumsport.com/livetv/114414_hd/index.m3u8&token=6c8d53d38f9787e90de07a07717bb9771c29d950&is_vip=false&verify=1731088800-0j8Fg/dqFS/Sq2dN7FowuFiPyOduBdwXI89GWJZiUsw%3D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/darts-logo.png" group-title="DARTS",2024 PDC Europe Super League Day Four Stream #3 (02:00 AM 11/09/24)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn-iptv001.rumsport.com/livetv/114414/index.m3u8&token=0796156c468786a1268384addca023e9abb8af65&is_vip=false&verify=1731088800-tW90fK0mhYEKWcW2hrhDGxNDbCG/F/C9k%2BlJ5P3G7kk%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn-iptv001.rumsport.com/livetv/114414/index.m3u8&token=6c8d53d38f9787e90de07a07717bb9771c29d950&is_vip=false&verify=1731088800-0j8Fg/dqFS/Sq2dN7FowuFiPyOduBdwXI89GWJZiUsw%3D
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",South Florida Bulls - Navy Midshipmen (21 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Louisiana-Monroe Warhawks - Texas State Bobcats (20 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Cagliari - Milan (21 hours from now) [METHSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",SV Werder Bremen - Holstein Kiel (18 hours from now) [METHSTREAMS]
 #EXTVLCOPT:http-origin=https://methstreams.to/
 #EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/basketball-logo.png" group-title="BASKETBALL",LDLC ASVEL Villeurbanne - Fenerbahce Beko Istanbul Stream #1 (03:00 AM 11/09/24)
-#EXTVLCOPT:http-origin=https://live-streamfootball.com
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="METHSTREAMS",Minnesota Timberwolves - Portland Trail Blazers (10:00 AM 11/09/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/10/index.m3u8&token=0796156c468786a1268384addca023e9abb8af65&is_vip=false&verify=1731088800-tW90fK0mhYEKWcW2hrhDGxNDbCG/F/C9k%2BlJ5P3G7kk%3D
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/basketball-logo.png" group-title="BASKETBALL",FC Barcelona -  Stream #1 (03:30 AM 11/09/24)
-#EXTVLCOPT:http-origin=https://live-streamfootball.com
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/32/index.m3u8&token=0796156c468786a1268384addca023e9abb8af65&is_vip=false&verify=1731088800-tW90fK0mhYEKWcW2hrhDGxNDbCG/F/C9k%2BlJ5P3G7kk%3D
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/basketball-logo.png" group-title="BASKETBALL",Virtus Segafredo Bologna - Maccabi Playtika Tel Aviv Stream #1 (03:30 AM 11/09/24)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/17/index.m3u8&token=0796156c468786a1268384addca023e9abb8af65&is_vip=false&verify=1731088800-tW90fK0mhYEKWcW2hrhDGxNDbCG/F/C9k%2BlJ5P3G7kk%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/17/index.m3u8&token=6c8d53d38f9787e90de07a07717bb9771c29d950&is_vip=false&verify=1731088800-0j8Fg/dqFS/Sq2dN7FowuFiPyOduBdwXI89GWJZiUsw%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Texas Longhorns - Florida Gators (20 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/basketball-logo.png" group-title="BASKETBALL",Panathinaikos AKTOR Athens - Olympiacos Piraeus Stream #1 (03:15 AM 11/09/24)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/8/index.m3u8&token=6c8d53d38f9787e90de07a07717bb9771c29d950&is_vip=false&verify=1731088800-0j8Fg/dqFS/Sq2dN7FowuFiPyOduBdwXI89GWJZiUsw%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/basketball-logo.png" group-title="BASKETBALL",LDLC ASVEL Villeurbanne - Fenerbahce Beko Istanbul Stream #1 (03:00 AM 11/09/24)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/stream/10/index.m3u8&token=6c8d53d38f9787e90de07a07717bb9771c29d950&is_vip=false&verify=1731088800-0j8Fg/dqFS/Sq2dN7FowuFiPyOduBdwXI89GWJZiUsw%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Delaware State Hornets - Morgan State Bears (20 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RB Leipzig - Borussia M'gladbach (21 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="METHSTREAMS",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",VfL Bochum 1848 - Bayer 04 Leverkusen (18 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Venezia - Parma (17 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-dallas-mavericks-logo.png" group-title="METHSTREAMS",Dallas Mavericks - Phoenix Suns (08:30 AM 11/09/24) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://jckbzv87fw.azureedge.net/live/NBA6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RC Strasbourg - AS Monaco (19 hours from now) [METHSTREAMS]
+#EXTVLCOPT:http-origin=https://methstreams.to/
+#EXTVLCOPT:http-referrer=https://methstreams.to//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://cdn.weakcdn.com/live/WeakStreams/weak.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nfl-logo.png" group-title="NFL",Cincinnati Bengals - Baltimore Ravens (09:15 PM 11/08/24) [CRACKSTREAMS]
 #EXTVLCOPT:http-origin=https://thecrackstreams.to
@@ -1134,191 +1134,65 @@ https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A//livecdn.rumsport.com/strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://wfysnh52ng.azureedge.net/streams/Ravens/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FC Union Berlin - SC Freiburg (9 minutes from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Louisiana-Monroe Warhawks - Texas State Bobcats (21 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FC Union Berlin - SC Freiburg (LIVE) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jstigger.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Rayo Vallecano - Las Palmas (39 minutes from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Toronto Maple Leafs - Detroit Red Wings (4 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/f1/f1.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Memphis Tigers - Rice Owls (6 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/ESPN2/ESPN2.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="BESTSOLARIS",Oklahoma City Thunder - Houston Rockets (09:00 AM 11/09/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n8/n8.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="BESTSOLARIS",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/n5/n5.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Duquesne Dukes - Robert Morris Colonials (21 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",San Diego State Aztecs - New Mexico Lobos (8 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/FS1/FS1.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="BESTSOLARIS",Charlotte Hornets - Indiana Pacers (08:00 AM 11/09/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n1/n1.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",East Tennessee State Buccaneers - Western Carolina Catamounts (21 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Delaware State Hornets - Morgan State Bears (20 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jstigger.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FSV Mainz 05 - Borussia Dortmund (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Wolverhampton - Southampton (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Villarreal - Deportivo Alavés (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Seattle Kraken - Vegas Golden Knights (7 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/f3/f3.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Delaware State Hornets - Morgan State Bears (21 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RC Strasbourg - AS Monaco (20 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brentford - Bournemouth (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-cleveland-cavaliers-logo.png" group-title="BESTSOLARIS",Cleveland Cavaliers - Golden State Warriors (08:30 AM 11/09/24) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/n4/n4.html
+https://js1.jstigger.shop/live/n4/n4.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Wake Forest Demon Deacons - California Golden Bears (5 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Toronto Maple Leafs - Detroit Red Wings (3 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/ACCN/ACCN.html
+https://js1.jspanther.shop/live/f1/f1.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Washington Capitals - Pittsburgh Penguins (5 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/f2/f2.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Crystal Palace - Fulham (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",West Ham United - Everton (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="BESTSOLARIS",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n12/n12.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="BESTSOLARIS",Minnesota Timberwolves - Portland Trail Blazers (10:00 AM 11/09/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n11/n11.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",South Florida Bulls - Navy Midshipmen (21 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Cagliari - Milan (21 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brighton & Hove Albion - Manchester City (22 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Real Madrid - Osasuna (16 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jspanther.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Lecce - Empoli (24 minutes from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brentford - Bournemouth (18 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/best/best.html
+https://js1.jslion.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="BESTSOLARIS",New York Knicks - Milwaukee Bucks (08:30 AM 11/09/24) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Olympique de Marseille - Auxerre (LIVE) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n7/n7.html
+https://js1.jslion.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Anaheim Ducks - Minnesota Wild (7 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="BESTSOLARIS",Sacramento Kings - Los Angeles Clippers (11:00 AM 11/09/24) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/f4/f4.html
+https://js1.jslion.shop/live/n13/n13.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Anaheim Ducks - Minnesota Wild (6 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/f4/f4.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",San Diego State Aztecs - New Mexico Lobos (7 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/FS1/FS1.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-denver-nuggets-logo.png" group-title="BESTSOLARIS",Denver Nuggets - Miami Heat (10:00 AM 11/09/24) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
@@ -1326,37 +1200,25 @@ https://js1.jstigger.shop/live/f4/f4.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jstigger.shop/live/n10/n10.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-sacramento-kings-logo.png" group-title="BESTSOLARIS",Sacramento Kings - Los Angeles Clippers (11:00 AM 11/09/24) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/n13/n13.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Texas Longhorns - Florida Gators (21 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",VfL Bochum 1848 - Bayer 04 Leverkusen (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Cincinnati Bearcats - West Virginia Mountaineers (21 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",1. FSV Mainz 05 - Borussia Dortmund (18 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jslion.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Venezia - Parma (18 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",SV Werder Bremen - Holstein Kiel (18 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jstigger.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Holy Cross Crusaders - Lehigh Mountain Hawks (21 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Washington Capitals - Pittsburgh Penguins (4 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/f2/f2.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Rayo Vallecano - Las Palmas (LIVE) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -1368,155 +1230,275 @@ https://js1.jslion.shop/live/best/best.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jslion.shop/live/n9/n9.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="BESTSOLARIS",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-york-knicks-logo.png" group-title="BESTSOLARIS",New York Knicks - Milwaukee Bucks (08:30 AM 11/09/24) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/n2/n2.html
+https://js1.jslion.shop/live/n7/n7.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",UCLA Bruins - Iowa Hawkeyes (6 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-oklahoma-city-thunder-logo.png" group-title="BESTSOLARIS",Oklahoma City Thunder - Houston Rockets (09:00 AM 11/09/24) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/FOX/FOX.html
+https://js1.jslion.shop/live/n8/n8.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",FC St. Pauli - FC Bayern München (19 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Cincinnati Bearcats - West Virginia Mountaineers (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",FC St. Pauli - FC Bayern München (18 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jslion.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="BESTSOLARIS",Detroit Pistons - Atlanta Hawks (08:00 AM 11/09/24) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Lecce - Empoli (LIVE) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/n3/n3.html
+https://js1.jslion.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Olympique de Marseille - Auxerre (24 minutes from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Wake Forest Demon Deacons - California Golden Bears (4 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/ACCN/ACCN.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RC Strasbourg - AS Monaco (19 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://js1.jspanther.shop/live/best/best.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Real Madrid - Osasuna (17 hours from now) [BESTSOLARIS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Memphis Tigers - Rice Owls (5 hours from now) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jspanther.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",SV Werder Bremen - Holstein Kiel (19 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/best/best.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RB Leipzig - Borussia M'gladbach (22 hours from now) [BESTSOLARIS]
-#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
-#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jslion.shop/live/best/best.html
+https://js1.jslion.shop/live/ESPN2/ESPN2.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-dallas-mavericks-logo.png" group-title="BESTSOLARIS",Dallas Mavericks - Phoenix Suns (08:30 AM 11/09/24) [BESTSOLARIS]
 #EXTVLCOPT:http-origin=https://v1.bestsolaris.com
 #EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://js1.jstigger.shop/live/n6/n6.html
+https://js1.jspanther.shop/live/n6/n6.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-miami-heat-logo.png" group-title="NIZARSTREAM",Miami Heat - Denver Nuggets (10:00 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-detroit-pistons-logo.png" group-title="BESTSOLARIS",Detroit Pistons - Atlanta Hawks (08:00 AM 11/09/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off1.jismhaitokia.com:999/hls/do42.m3u8?md5=z11rg84LBUgdENMSBKi0SA&expires=1731100858
+https://js1.jslion.shop/live/n3/n3.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-milwaukee-bucks-logo.png" group-title="NIZARSTREAM",Milwaukee Bucks - New York Knicks (08:30 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-minnesota-timberwolves-logo.png" group-title="BESTSOLARIS",Minnesota Timberwolves - Portland Trail Blazers (10:00 AM 11/09/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off6.jismhaitokia.com:999/hls/do37.m3u8?md5=wsGyvE4eTpAm7F04tKx9Lw&expires=1731100858
+https://js1.jstigger.shop/live/n11/n11.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Louisiana-Monroe Warhawks - Texas State Bobcats (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",VfL Bochum 1848 - Bayer 04 Leverkusen (18 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",UCLA Bruins - Iowa Hawkeyes (5 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/FOX/FOX.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Seattle Kraken - Vegas Golden Knights (6 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/f3/f3.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-lakers-logo.png" group-title="BESTSOLARIS",Los Angeles Lakers - Philadelphia 76ers (11:00 AM 11/09/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/n12/n12.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",East Tennessee State Buccaneers - Western Carolina Catamounts (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Wolverhampton - Southampton (18 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Brighton & Hove Albion - Manchester City (21 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Crystal Palace - Fulham (18 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Venezia - Parma (17 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-charlotte-hornets-logo.png" group-title="BESTSOLARIS",Charlotte Hornets - Indiana Pacers (08:00 AM 11/09/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/n1/n1.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Holy Cross Crusaders - Lehigh Mountain Hawks (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-boston-celtics-logo.png" group-title="BESTSOLARIS",Boston Celtics - Brooklyn Nets (08:30 AM 11/09/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/n5/n5.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Villarreal - Deportivo Alavés (18 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Duquesne Dukes - Robert Morris Colonials (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",RB Leipzig - Borussia M'gladbach (21 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",West Ham United - Everton (18 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",South Florida Bulls - Navy Midshipmen (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jspanther.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCER",Cagliari - Milan (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Texas Longhorns - Florida Gators (20 hours from now) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jstigger.shop/live/best/best.html
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-orlando-magic-logo.png" group-title="BESTSOLARIS",Orlando Magic - New Orleans Pelicans (08:00 AM 11/09/24) [BESTSOLARIS]
+#EXTVLCOPT:http-origin=https://v1.bestsolaris.com
+#EXTVLCOPT:http-referrer=https://v1.bestsolaris.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://js1.jslion.shop/live/n2/n2.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="NIZARSTREAM",Los Angeles Clippers - Sacramento Kings (11:00 AM 11/09/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off3.jismhaitokia.com:999/hls/do43.m3u8?md5=VBeu_W2Z7tGiZ1pGZUNU-A&expires=1731100858
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="NIZARSTREAM",Brooklyn Nets - Boston Celtics (08:30 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off8.jismhaitokia.com:999/hls/do35.m3u8?md5=wXCDNXDHgOaf_BToKLg4rA&expires=1731100858
+https://off4.jismhaitokia.com:999/hls/do43.m3u8?md5=XeKVZd_N3SGi6Bbd8vmh6A&expires=1731104907
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-washington-wizards-logo.png" group-title="NIZARSTREAM",Washington Wizards - Memphis Grizzlies (09:00 AM 11/09/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off2.jismhaitokia.com:999/hls/do38.m3u8?md5=c158AdqGV_xQy6qTREBFAQ&expires=1731100858
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="NIZARSTREAM",Golden State Warriors - Cleveland Cavaliers (08:30 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off8.jismhaitokia.com:999/hls/do36.m3u8?md5=b4BpnWkqkrxDLmAwWGgD1Q&expires=1731100858
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="NIZARSTREAM",Portland Trail Blazers - Minnesota Timberwolves (10:00 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off1.jismhaitokia.com:999/hls/do41.m3u8?md5=P7xSAggW7pl0LG_GcZpzSA&expires=1731100858
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-philadelphia-76ers-logo.png" group-title="NIZARSTREAM",Philadelphia 76ers - Los Angeles Lakers (11:00 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off7.jismhaitokia.com:999/hls/do2.m3u8?md5=kxsVBawAqxuIc-ZmViYe9w&expires=1731100858
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="NIZARSTREAM",Atlanta Hawks - Detroit Pistons (08:00 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off5.jismhaitokia.com:999/hls/do31.m3u8?md5=0DE8qLfNxL7dnJrFj1PL1w&expires=1731100858
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="NIZARSTREAM",Houston Rockets - Oklahoma City Thunder (09:00 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off7.jismhaitokia.com:999/hls/do39.m3u8?md5=RpvAck-Njk1MTljx_RSd1w&expires=1731100858
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="NIZARSTREAM",Phoenix Suns - Dallas Mavericks (08:30 AM 11/09/24) [NIZARSTREAM]
-#EXTVLCOPT:http-origin=https://locatedinfain.com
-#EXTVLCOPT:http-referrer=https://locatedinfain.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off7.jismhaitokia.com:999/hls/do2.m3u8?md5=kxsVBawAqxuIc-ZmViYe9w&expires=1731100858
+https://off7.jismhaitokia.com:999/hls/do38.m3u8?md5=pIesUY4G_Y8B8n3WrfVFFg&expires=1731104907
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="NIZARSTREAM",New Orleans Pelicans - Orlando Magic (08:00 AM 11/09/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off7.jismhaitokia.com:999/hls/do34.m3u8?md5=oyipQHmBIG1-j4s2Vf_D6w&expires=1731100858
+https://off5.jismhaitokia.com:999/hls/do34.m3u8?md5=ibGUkzEAj9rCqtVyebIETw&expires=1731104907
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="NIZARSTREAM",Golden State Warriors - Cleveland Cavaliers (08:30 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://off4.jismhaitokia.com:999/hls/do36.m3u8?md5=kb2ye-6c3nB5X28Fw5a-hg&expires=1731104907
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-miami-heat-logo.png" group-title="NIZARSTREAM",Miami Heat - Denver Nuggets (10:00 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://off4.jismhaitokia.com:999/hls/do42.m3u8?md5=MQNEmVf_6Ohbs6enKL2sew&expires=1731104907
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-milwaukee-bucks-logo.png" group-title="NIZARSTREAM",Milwaukee Bucks - New York Knicks (08:30 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://off5.jismhaitokia.com:999/hls/do37.m3u8?md5=wKUJE1unMevM-7HMMbi1Dw&expires=1731104907
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="NIZARSTREAM",Atlanta Hawks - Detroit Pistons (08:00 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://off8.jismhaitokia.com:999/hls/do31.m3u8?md5=v7Z6dqwxQHP1OkpheRhk9w&expires=1731104907
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="NIZARSTREAM",Houston Rockets - Oklahoma City Thunder (09:00 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://off7.jismhaitokia.com:999/hls/do39.m3u8?md5=wgG1sgsU3nATAMyML1hnoA&expires=1731104898
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="NIZARSTREAM",Brooklyn Nets - Boston Celtics (08:30 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://off5.jismhaitokia.com:999/hls/do35.m3u8?md5=J_02Uj18NPzcPxFui25s2Q&expires=1731104907
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="NIZARSTREAM",Indiana Pacers - Charlotte Hornets (08:00 AM 11/09/24) [NIZARSTREAM]
 #EXTVLCOPT:http-origin=https://locatedinfain.com
 #EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://off4.jismhaitokia.com:999/hls/do32.m3u8?md5=ytumT_cDbTGFwYr35NJMig&expires=1731100858
+https://off4.jismhaitokia.com:999/hls/do32.m3u8?md5=zHtHn9JBiXjGW7hN4FLxgg&expires=1731104907
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nfl-logo.png" group-title="NFL",Baltimore Ravens - Cincinnati Bengals 8:15 pm.ET [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="NIZARSTREAM",Phoenix Suns - Dallas Mavericks (08:30 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NFL1/playlist.m3u8
+https://off8.jismhaitokia.com:999/hls/do2.m3u8?md5=xYvgWUJeTe-m8fR7rj51Lw&expires=1731104907
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/f1-logo.png" group-title="F1",Brazil GP [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-philadelphia-76ers-logo.png" group-title="NIZARSTREAM",Philadelphia 76ers - Los Angeles Lakers (11:00 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/F1/playlist.m3u8
+https://off1.jismhaitokia.com:999/hls/do2.m3u8?md5=xYvgWUJeTe-m8fR7rj51Lw&expires=1731104907
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",CNN News [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="NIZARSTREAM",Portland Trail Blazers - Minnesota Timberwolves (10:00 AM 11/09/24) [NIZARSTREAM]
+#EXTVLCOPT:http-origin=https://locatedinfain.com
+#EXTVLCOPT:http-referrer=https://locatedinfain.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NHL1/playlist.m3u8
+https://off5.jismhaitokia.com:999/hls/do41.m3u8?md5=8sKfULJjH4iBnuvj_R2NOg&expires=1731104907
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/mlb-logo.png" group-title="MLB",Los Angeles Dodgers - New York Yankees [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
@@ -1524,23 +1506,17 @@ https://aw.gonesa.us/live/NHL1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://aw.gonesa.us/live/MLB1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nfl-logo.png" group-title="NFL",Baltimore Ravens - Cincinnati Bengals 8:15 pm.ET [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NFL1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCERS",Argentina - Colombia [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://aw.gonesa.us/live/S1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/boxing-logo.png" group-title="BOXING",William Scull -. Vladimir Shishkin [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://c.cdnbrow1.shop/live/box2/box2.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCERS",Manchester United - Liverpool [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://clould.cdnbrow1.shop/live/S1/S1.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/boxing-logo.png" group-title="BOXING",Bakhram Murtazaliev -. Tim Tszyu [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
@@ -1548,65 +1524,11 @@ https://clould.cdnbrow1.shop/live/S1/S1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/mma-logo.png" group-title="MMA",UFC Fight Night: Magny -. Prates [MARKKYSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/boxing-logo.png" group-title="BOXING",William Scull -. Vladimir Shishkin [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://f.cdnbrow1.shop/live/MMA/MMA.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Vegas - Seattle [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NHL4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/mma-logo.png" group-title="MMA",UFC Fight Night: Magny -. Prates [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://f.cdnbrow1.shop/live/MMA/MMA.html
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Detroit - Toronto [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NHL1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="MARKKYSTREAMS",Portland Trail Blazers - Minnesota Timberwolves 9:00 pm.ET (10:00 AM 11/09/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA10/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Rice   -    Memphis [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/E2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="MARKKYSTREAMS",Houston Rockets - Oklahoma City Thunder  8:00 pm.ET (09:00 AM 11/09/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",New Mexico   -    San Diego State [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/FS1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Minnesota - Anaheim [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NHL3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="MARKKYSTREAMS",Atlanta Hawks - Detroit Pistons 7:00 pm.ET (08:00 AM 11/09/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA2/playlist.m3u8
+https://c.cdnbrow1.shop/live/box2/box2.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/f1-logo.png" group-title="F1",Brazil GP [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
@@ -1614,17 +1536,23 @@ https://aw.gonesa.us/live/NBA2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://aw.gonesa.us/live/F1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="MARKKYSTREAMS",Brooklyn Nets - Boston Celtics  7:30 pm.ET (08:30 AM 11/09/24) [MARKKYSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/mma-logo.png" group-title="MMA",UFC Fight Night: Magny -. Prates [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA4/playlist.m3u8
+https://f.cdnbrow1.shop/live/MMA/MMA.html
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="MARKKYSTREAMS",Golden State Warriors - Cleveland Cavaliers 7:30 pm.ET (08:30 AM 11/09/24) [MARKKYSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/f1-logo.png" group-title="F1",Brazil GP [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA5/playlist.m3u8
+https://aw.gonesa.us/live/F1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/mma-logo.png" group-title="MMA",UFC Fight Night: Magny -. Prates [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://f.cdnbrow1.shop/live/MMA/MMA.html
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-los-angeles-clippers-logo.png" group-title="MARKKYSTREAMS",LA Clippers - Sacramento Kings 10:00 pm.ET (11:00 AM 11/09/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
@@ -1638,53 +1566,53 @@ https://aw.gonesa.us/live/NBA13/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://aw.gonesa.us/live/NBA12/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Detroit - Toronto [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NHL1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-portland-trail-blazers-logo.png" group-title="MARKKYSTREAMS",Portland Trail Blazers - Minnesota Timberwolves 9:00 pm.ET (10:00 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-golden-state-warriors-logo.png" group-title="MARKKYSTREAMS",Golden State Warriors - Cleveland Cavaliers 7:30 pm.ET (08:30 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Rice   -    Memphis [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/E2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",California   -    Wake Forest [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/ACC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/soccer-logo.png" group-title="SOCCERS",Manchester United - Liverpool [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://clould.cdnbrow1.shop/live/S1/S1.html
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-miami-heat-logo.png" group-title="MARKKYSTREAMS",Miami Heat - Denver Nuggets 9:00 pm.ET (10:00 AM 11/09/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://aw.gonesa.us/live/NBA11/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Pittsburgh - Washington [MARKKYSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",New Mexico   -    San Diego State [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NHL2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="MARKKYSTREAMS",Indiana Pacers - Charlotte Hornets 7:00 pm.ET (08:00 AM 11/09/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="MARKKYSTREAMS",New Orleans Pelicans - Orlando Magic 7:00 pm.ET (08:00 AM 11/09/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE: Wrestlemania 40 [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/W/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Iowa   -    UCLA [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/FOX/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="MARKKYSTREAMS",Phoenix Suns - Dallas Mavericks 7:30 pm.ET (08:30 AM 11/09/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-washington-wizards-logo.png" group-title="MARKKYSTREAMS",Washington Wizards - Memphis Grizzlies 8:00 pm.ET (09:00 AM 11/09/24) [MARKKYSTREAMS]
-#EXTVLCOPT:http-origin=https://v.markkystreams.com
-#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/NBA8/playlist.m3u8
+https://aw.gonesa.us/live/FS1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-milwaukee-bucks-logo.png" group-title="MARKKYSTREAMS",Milwaukee Bucks - New York Knicks 7:30 pm.ET (08:30 AM 11/09/24) [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
@@ -1692,9 +1620,81 @@ https://aw.gonesa.us/live/NBA8/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://aw.gonesa.us/live/NBA6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",California   -    Wake Forest [MARKKYSTREAMS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Pittsburgh - Washington [MARKKYSTREAMS]
 #EXTVLCOPT:http-origin=https://v.markkystreams.com
 #EXTVLCOPT:http-referrer=https://v.markkystreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://aw.gonesa.us/live/ACC/playlist.m3u8
+https://aw.gonesa.us/live/NHL2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-brooklyn-nets-logo.png" group-title="MARKKYSTREAMS",Brooklyn Nets - Boston Celtics  7:30 pm.ET (08:30 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Minnesota - Anaheim [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NHL3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Vegas - Seattle [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NHL4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-indiana-pacers-logo.png" group-title="MARKKYSTREAMS",Indiana Pacers - Charlotte Hornets 7:00 pm.ET (08:00 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-atlanta-hawks-logo.png" group-title="MARKKYSTREAMS",Atlanta Hawks - Detroit Pistons 7:00 pm.ET (08:00 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-new-orleans-pelicans-logo.png" group-title="MARKKYSTREAMS",New Orleans Pelicans - Orlando Magic 7:00 pm.ET (08:00 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-houston-rockets-logo.png" group-title="MARKKYSTREAMS",Houston Rockets - Oklahoma City Thunder  8:00 pm.ET (09:00 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-washington-wizards-logo.png" group-title="MARKKYSTREAMS",Washington Wizards - Memphis Grizzlies 8:00 pm.ET (09:00 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/refs/heads/main/imgs/nba-phoenix-suns-logo.png" group-title="MARKKYSTREAMS",Phoenix Suns - Dallas Mavericks 7:30 pm.ET (08:30 AM 11/09/24) [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NBA7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/cfb-logo.png" group-title="CFB",Iowa   -    UCLA [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/FOX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/wwe-logo.png" group-title="WWE",WWE: Wrestlemania 40 [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/W/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",CNN News [MARKKYSTREAMS]
+#EXTVLCOPT:http-origin=https://v.markkystreams.com
+#EXTVLCOPT:http-referrer=https://v.markkystreams.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://aw.gonesa.us/live/NHL1/playlist.m3u8
 
