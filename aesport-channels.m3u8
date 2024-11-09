@@ -1,254 +1,98 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/162.png" group-title="BUNDESLIGA",Werder Bremen - Holstein Kiel [Stream 1 - ESPN+]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/51.png" group-title="PREMIER LEAGUE",Brighton - Manchester City [Stream 1 - Sky EPL]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/espn1/index.m3u8
+https://liveua.score806.cc/uk_ssepl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/162.png" group-title="BUNDESLIGA",Werder Bremen - Holstein Kiel [Stream 2 - Sky Bundes 5]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/51.png" group-title="PREMIER LEAGUE",Brighton - Manchester City [Stream 2 - EPL Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes5/index.m3u8
+https://liveua.score806.cc/epl_bra/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/162.png" group-title="BUNDESLIGA",Werder Bremen - Holstein Kiel [Stream 3 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/espn1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/95.png" group-title="LIGUE 1",Strasbourg - Monaco [Stream 1 - French]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_beinsports1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/95.png" group-title="LIGUE 1",Strasbourg - Monaco [Stream 2 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png" group-title="PREMIER LEAGUE",West Ham - Everton [Stream 1 - EPL Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/epl_whu/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png" group-title="PREMIER LEAGUE",West Ham - Everton [Stream 2 - Optus Sport 2]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/au_optus2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png" group-title="PREMIER LEAGUE",West Ham - Everton [Stream 3 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png" group-title="PREMIER LEAGUE",West Ham - Everton [Stream 4 - EPL Sport]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/epl_whu/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/48.png" group-title="PREMIER LEAGUE",West Ham - Everton [Stream 5 - Optus Sport 2]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/au_optus2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/71.png" group-title="CHAMPIONSHIP",Norwich - Bristol City [Stream 1 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/71.png" group-title="CHAMPIONSHIP",Norwich - Bristol City [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/186.png" group-title="BUNDESLIGA",FC St. Pauli - Bayern Munich [Stream 1 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/espn4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/186.png" group-title="BUNDESLIGA",FC St. Pauli - Bayern Munich [Stream 2 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/186.png" group-title="BUNDESLIGA",FC St. Pauli - Bayern Munich [Stream 3 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/espn4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/533.png" group-title="LA LIGA",Villarreal - Alaves [Stream 1 - ESPN +]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/espn5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/533.png" group-title="LA LIGA",Villarreal - Alaves [Stream 2 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/espn5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/230.png" group-title="PRIMEIRA LIGA",Estoril - AVS [Stream 1 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/176.png" group-title="BUNDESLIGA",VfL BOCHUM - Bayer Leverkusen [Stream 1 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/espn3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/176.png" group-title="BUNDESLIGA",VfL BOCHUM - Bayer Leverkusen [Stream 2 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/176.png" group-title="BUNDESLIGA",VfL BOCHUM - Bayer Leverkusen [Stream 3 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/espn3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/746.png" group-title="CHAMPIONSHIP",Sunderland - Coventry [Stream 1 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/746.png" group-title="CHAMPIONSHIP",Sunderland - Coventry [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/164.png" group-title="BUNDESLIGA",FSV Mainz 05 - Borussia Dortmund [Stream 1 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/espn2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/164.png" group-title="BUNDESLIGA",FSV Mainz 05 - Borussia Dortmund [Stream 2 - Sky Bundes 3]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/164.png" group-title="BUNDESLIGA",FSV Mainz 05 - Borussia Dortmund [Stream 3 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/espn2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/63.png" group-title="CHAMPIONSHIP",Leeds - QPR [Stream 1 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/63.png" group-title="CHAMPIONSHIP",Leeds - QPR [Stream 2 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/39.png" group-title="PREMIER LEAGUE",Wolves - Southampton [Stream 1 - EPL Sport]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/epl_wol/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/39.png" group-title="PREMIER LEAGUE",Wolves - Southampton [Stream 2 - Optus Sport 6]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/au_optus6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/39.png" group-title="PREMIER LEAGUE",Wolves - Southampton [Stream 3 - EPL Sport]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/epl_wol/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/39.png" group-title="PREMIER LEAGUE",Wolves - Southampton [Stream 4 - Optus Sport 6]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/au_optus6/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/4716.png" group-title="PRIMEIRA LIGA",Casa Pia - Farense [Stream 1 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/55.png" group-title="PREMIER LEAGUE",Brentford - Bournemouth [Stream 1 - EPL Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/epl_bre/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/55.png" group-title="PREMIER LEAGUE",Brentford - Bournemouth [Stream 2 - Optus Sport 5]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/au_optus5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/55.png" group-title="PREMIER LEAGUE",Brentford - Bournemouth [Stream 3 - EPL Sport]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/epl_bre/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/55.png" group-title="PREMIER LEAGUE",Brentford - Bournemouth [Stream 4 - Optus Sport 5]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/au_optus5/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png" group-title="PREMIER LEAGUE",Crystal Palace - Fulham [Stream 1 - EPL Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/epl_ful/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png" group-title="PREMIER LEAGUE",Crystal Palace - Fulham [Stream 2 - USA Network]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_usa/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png" group-title="PREMIER LEAGUE",Crystal Palace - Fulham [Stream 3 - Portuguese]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/51.png" group-title="PREMIER LEAGUE",Brighton - Manchester City [Stream 3 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/pt_elevensport1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png" group-title="PREMIER LEAGUE",Crystal Palace - Fulham [Stream 4 - EPL Sport]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/51.png" group-title="PREMIER LEAGUE",Brighton - Manchester City [Stream 4 - SKY EPL]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/epl_ful/index.m3u8
+https://live2-tv.vipcdn.live/uk_ssepl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/52.png" group-title="PREMIER LEAGUE",Crystal Palace - Fulham [Stream 5 - Optus Sport 3]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/51.png" group-title="PREMIER LEAGUE",Brighton - Manchester City [Stream 5 - EPL Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/au_optus3/index.m3u8
+https://live2-tv.vipcdn.live/epl_bra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/173.png" group-title="BUNDESLIGA",RB Leipzig - Borussia Monchengladbach [Stream 1 - ESPN+]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/espn6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/173.png" group-title="BUNDESLIGA",RB Leipzig - Borussia Monchengladbach [Stream 2 - SKY Football FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/173.png" group-title="BUNDESLIGA",RB Leipzig - Borussia Monchengladbach [Stream 3 - ESPN+]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/espn6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/173.png" group-title="BUNDESLIGA",RB Leipzig - Borussia Monchengladbach [Stream 4 - SKY Football FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/116.png" group-title="LIGUE 1",Lens - Nantes [Stream 1 - French]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/fr_dazn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/116.png" group-title="LIGUE 1",Lens - Nantes [Stream 2 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png" group-title="SERIE A",Cagliari - AC Milan [Stream 1 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png" group-title="SERIE A",Cagliari - AC Milan [Stream 2 - Fox Depo]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/us_foxdeport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png" group-title="SERIE A",Cagliari - AC Milan [Stream 3 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_sporttv4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/490.png" group-title="SERIE A",Cagliari - AC Milan [Stream 4 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/paramount6/index.m3u86
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/242.png" group-title="PRIMEIRA LIGA",Famalicao - Arouca [Stream 1 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_sporttv1/index.m3u8
 
