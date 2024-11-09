@@ -1,38 +1,68 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/192.png" group-title="2. BUNDESLIGA",FC Koln - SpVgg Greuther Furth [Stream 1 - Sky Bundes 3]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/43.png" group-title="CHAMPIONSHIP",Cardiff - Blackburn [Stream 1 - SKY Football FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes3/index.m3u8
+https://liveua.score806.cc/uk_ssfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/192.png" group-title="2. BUNDESLIGA",FC Koln - SpVgg Greuther Furth [Stream 2 - Sky Bundesl 3]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/43.png" group-title="CHAMPIONSHIP",Cardiff - Blackburn [Stream 2 - SKY Football FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/de_skybundes3/index.m3u8
+https://live2-tv.vipcdn.live/uk_ssfb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/179.png" group-title="2. BUNDESLIGA",FC Magdeburg - SSV ULM 1846 [Stream 1 - Sky Bundes 5]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/70.png" group-title="CHAMPIONSHIP",Middlesbrough - Luton [Stream 1 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes5/index.m3u8
+https://liveua.score806.cc/paramount1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/179.png" group-title="2. BUNDESLIGA",FC Magdeburg - SSV ULM 1846 [Stream 2 - Sky Bundesl 5]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/70.png" group-title="CHAMPIONSHIP",Middlesbrough - Luton [Stream 2 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/de_skybundes5/index.m3u8
+https://live2-tv.vipcdn.live/paramount1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Darmstadt 98.png" group-title="2. BUNDESLIGA",SV Darmstadt 98 - Hertha Berlin [Stream 1 - Sky Bundes 4]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/517.png" group-title="SERIE A",Venezia - Parma [Stream 1 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes4/index.m3u8
+https://liveua.score806.cc/paramount2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Darmstadt 98.png" group-title="2. BUNDESLIGA",SV Darmstadt 98 - Hertha Berlin [Stream 2 - Sky Bundesl 4]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/517.png" group-title="SERIE A",Venezia - Parma [Stream 2 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/de_skybundes4/index.m3u8
+https://live2-tv.vipcdn.live/paramount2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/541.png" group-title="LA LIGA",Real Madrid - Osasuna [Stream 1 - Premier1 FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/541.png" group-title="LA LIGA",Real Madrid - Osasuna [Stream 2 - ESPN+]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/espn0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/541.png" group-title="LA LIGA",Real Madrid - Osasuna [Stream 3 - Portuguese]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/541.png" group-title="LA LIGA",Real Madrid - Osasuna [Stream 4 - Premier1 FHD]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/541.png" group-title="LA LIGA",Real Madrid - Osasuna [Stream 5 - ESPN+]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/espn0/index.m3u8
 
