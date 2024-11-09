@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/158.png" group-title="2. BUNDESLIGA",Fortuna Dusseldorf - SC Paderborn 07 [Stream 1 - Sky Bundes 2]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/de_skybundes2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/158.png" group-title="2. BUNDESLIGA",Fortuna Dusseldorf - SC Paderborn 07 [Stream 2 - Sky Bundesl 2]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/de_skybundes2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.azencode.com/teams/537.png" group-title="LA LIGA",Leganes - Sevilla [Stream 1 - Premier1 FHD]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -36,69 +24,15 @@ https://live2-tv.vipcdn.live/uk_premiersports1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://live2-tv.vipcdn.live/espn7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/40.png" group-title="PREMIER LEAGUE",Liverpool - Aston Villa [Stream 1 - TNT1 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/222.png" group-title="PRIMEIRA LIGA",Boavista - Rio Ave [Stream 1 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts1/index.m3u8
+https://liveua.score806.cc/pt_sporttv1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/40.png" group-title="PREMIER LEAGUE",Liverpool - Aston Villa [Stream 2 - EPL Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2242.png" group-title="MAJOR LEAGUE SOCCER",FC Cincinnati - New York City FC [Stream 1 - MLS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/epl_liv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/40.png" group-title="PREMIER LEAGUE",Liverpool - Aston Villa [Stream 3 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_elevensport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/40.png" group-title="PREMIER LEAGUE",Liverpool - Aston Villa [Stream 4 - TNT1 FHD]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/40.png" group-title="PREMIER LEAGUE",Liverpool - Aston Villa [Stream 5 - EPL Sport]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/epl_liv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/77.png" group-title="LIGUE 1",Angers - Paris Saint Germain [Stream 1 - French]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_dazn1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/77.png" group-title="LIGUE 1",Angers - Paris Saint Germain [Stream 2 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png" group-title="SERIE A",Juventus - Torino [Stream 1 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png" group-title="SERIE A",Juventus - Torino [Stream 2 - Fox Depo]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_foxdeport/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png" group-title="SERIE A",Juventus - Torino [Stream 3 - Portuguese]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/496.png" group-title="SERIE A",Juventus - Torino [Stream 4 - CBS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount7/index.m3u8
+https://liveua.score806.cc/mls_cincinnati/index.m3u8
 
