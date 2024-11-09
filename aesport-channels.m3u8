@@ -1,2 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/192.png" group-title="2. BUNDESLIGA",FC Koln - SpVgg Greuther Furth [Stream 1 - Sky Bundes 3]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/de_skybundes3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/192.png" group-title="2. BUNDESLIGA",FC Koln - SpVgg Greuther Furth [Stream 2 - Sky Bundesl 3]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/de_skybundes3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/179.png" group-title="2. BUNDESLIGA",FC Magdeburg - SSV ULM 1846 [Stream 1 - Sky Bundes 5]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/de_skybundes5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/179.png" group-title="2. BUNDESLIGA",FC Magdeburg - SSV ULM 1846 [Stream 2 - Sky Bundesl 5]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/de_skybundes5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Darmstadt 98.png" group-title="2. BUNDESLIGA",SV Darmstadt 98 - Hertha Berlin [Stream 1 - Sky Bundes 4]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/de_skybundes4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/Darmstadt 98.png" group-title="2. BUNDESLIGA",SV Darmstadt 98 - Hertha Berlin [Stream 2 - Sky Bundesl 4]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/de_skybundes4/index.m3u8
+
