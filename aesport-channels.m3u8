@@ -1,104 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/2384.png" group-title="PRIMEIRA LIGA",Estrela - Nacional [Stream 1 - Portuguese]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/227.png" group-title="PRIMEIRA LIGA",Santa Clara - Guimaraes [Stream 1 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/pt_sporttv1/index.m3u8
+https://liveua.score806.cc/pt_sporttv4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/798.png" group-title="LA LIGA",Mallorca - Atletico Madrid [Stream 1 - Premier2 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/VfB Stuttgart.jpg" group-title="BUNDESLIGA",VfB Stuttgart - Eintracht Frankfurt [Stream 1 - ESPN+]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_premiersports2/index.m3u8
+https://liveua.score806.cc/espn3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/798.png" group-title="LA LIGA",Mallorca - Atletico Madrid [Stream 2 - ESPN+]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/VfB Stuttgart.jpg" group-title="BUNDESLIGA",VfB Stuttgart - Eintracht Frankfurt [Stream 2 - ESPN+]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/espn2/index.m3u8
+https://live2-tv.vipcdn.live/espn3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/798.png" group-title="LA LIGA",Mallorca - Atletico Madrid [Stream 3 - Premier2 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="PREMIER LEAGUE",Chelsea - Arsenal [Stream 1 - Sky EPL]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_premiersports2/index.m3u8
+https://liveua.score806.cc/uk_ssepl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/798.png" group-title="LA LIGA",Mallorca - Atletico Madrid [Stream 4 - ESPN+]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="PREMIER LEAGUE",Chelsea - Arsenal [Stream 2 - EPL Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/espn2/index.m3u8
+https://liveua.score806.cc/epl_che/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png" group-title="SERIE A",AS Roma - Bologna [Stream 1 - TNT2 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="PREMIER LEAGUE",Chelsea - Arsenal [Stream 3 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/uk_bts2/index.m3u8
+https://liveua.score806.cc/pt_elevensport1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png" group-title="SERIE A",AS Roma - Bologna [Stream 2 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="PREMIER LEAGUE",Chelsea - Arsenal [Stream 4 - SKY EPL]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount4/index.m3u8
+https://live2-tv.vipcdn.live/uk_ssepl/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png" group-title="SERIE A",AS Roma - Bologna [Stream 3 - Portuguese]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="PREMIER LEAGUE",Chelsea - Arsenal [Stream 5 - Live Event 1]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/live03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/49.png" group-title="PREMIER LEAGUE",Chelsea - Arsenal [Stream 6 - EPL Sport]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://live2-tv.vipcdn.live/epl_che/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1579.png" group-title="SERIE A",Monza - Lazio [Stream 1 - CBS Sports]
+#EXTVLCOPT:http-origin=https://aesport.tv
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://liveua.score806.cc/paramount6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1579.png" group-title="SERIE A",Monza - Lazio [Stream 2 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/pt_sporttv3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png" group-title="SERIE A",AS Roma - Bologna [Stream 4 - TNT2 FHD]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1579.png" group-title="SERIE A",Monza - Lazio [Stream 3 - CBS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/uk_bts2/index.m3u8
+https://live2-tv.vipcdn.live/paramount6/index.m3u86
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/497.png" group-title="SERIE A",AS Roma - Bologna [Stream 5 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/720.png" group-title="LA LIGA",Valladolid - Athletic Club [Stream 1 - ESPN +]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount4/index.m3u8
+https://liveua.score806.cc/espn5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/502.png" group-title="SERIE A",Fiorentina - Verona [Stream 1 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/720.png" group-title="LA LIGA",Valladolid - Athletic Club [Stream 2 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount3/index.m3u8
+https://liveua.score806.cc/pt_elevensport4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/502.png" group-title="SERIE A",Fiorentina - Verona [Stream 2 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/720.png" group-title="LA LIGA",Valladolid - Athletic Club [Stream 3 - ESPN+]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount3/index.m3u8
+https://live2-tv.vipcdn.live/espn5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/44.png" group-title="CHAMPIONSHIP",Burnley - Swansea [Stream 1 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/546.png" group-title="LA LIGA",Getafe - Girona [Stream 1 - ESPN+]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/paramount5/index.m3u8
+https://liveua.score806.cc/espn4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/44.png" group-title="CHAMPIONSHIP",Burnley - Swansea [Stream 2 - CBS Sports]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/546.png" group-title="LA LIGA",Getafe - Girona [Stream 2 - Portuguese]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/paramount5/index.m3u8
+https://liveua.score806.cc/pt_elevensport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/170.png" group-title="BUNDESLIGA",FC Augsburg - 1899 Hoffenheim [Stream 1 - ESPN+]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/546.png" group-title="LA LIGA",Getafe - Girona [Stream 3 - ESPN+]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/espn1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/170.png" group-title="BUNDESLIGA",FC Augsburg - 1899 Hoffenheim [Stream 2 - ESPN+]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://live2-tv.vipcdn.live/espn1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Football/OGC Nice.png" group-title="LIGUE 1",Nice - Lille [Stream 1 - French]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/fr_dazn1/index.m3u8
+https://live2-tv.vipcdn.live/espn4/index.m3u8
 
