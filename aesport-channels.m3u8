@@ -1,26 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1598.png" group-title="MAJOR LEAGUE SOCCER",Orlando City SC - Charlotte [Stream 1 - MLS Sports]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/mls_orlando/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/basketball/132.png" group-title="NBA",Atlanta Hawks - Chicago Bulls [Stream 1 - English]
-#EXTVLCOPT:http-origin=https://aesport.tv
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://livevn.notebulk.xyz/9hLhLuIkSQFS9XWQoXlpSg/1731220688/nba1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/basketball/158.png" group-title="NBA",San Antonio Spurs - Utah Jazz [Stream 1 - NBA TV]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/basketball/144.png" group-title="NBA",Los Angeles Clippers - Toronto Raptors [Stream 1 - NBA TV]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://liveua.score806.cc/us_nbatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/basketball/137.png" group-title="NBA",Cleveland Cavaliers - Brooklyn Nets [Stream 1 - NBA TV]
+#EXTINF:-1 tvg-logo="https://image.azencode.com/teams/1605.png" group-title="MAJOR LEAGUE SOCCER",Los Angeles Galaxy - Colorado Rapids [Stream 1 - MLS Sports]
 #EXTVLCOPT:http-origin=https://aesport.tv
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://liveua.score806.cc/us_nbatv/index.m3u8
+https://liveua.score806.cc/mls_losangeles/index.m3u8
 
