@@ -1,286 +1,436 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nfl-logo.png" group-title="NFL",Miami Dolphins vs. Los Angeles Rams
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Atlanta Hawks vs. Boston Celtics
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/07056.m3u8
+https://sports.tv247us.com/hls/0e23e.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Brooklyn Nets vs. New Orleans Pelicans
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Charlotte Hornets vs. Orlando Magic
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/b7e8a.m3u8
+https://sports.tv247us.com/hls/70837.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Cleveland Cavaliers vs. Chicago Bulls
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Miami Heat vs. Detroit Pistons
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/171cc.m3u8
+https://sports.tv247us.com/hls/96a8b.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Washington Wizards vs. Houston Rockets
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",New York Knicks vs. Philadelphia 76ers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/206a3.m3u8
+https://sports.tv247us.com/hls/4e9fc.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Los Angeles Clippers vs. Oklahoma City Thunder
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Toronto Raptors vs. Milwaukee Bucks
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/dab22.m3u8
+https://sports.tv247us.com/hls/123fe.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Sacramento Kings vs. San Antonio Spurs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Phoenix Suns vs. Utah Jazz
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/2efe3.m3u8
+https://sports.tv247us.com/hls/ecaa1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Montréal Canadiens vs. Buffalo Sabres
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Dallas Mavericks vs. Golden State Warriors
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/0dc29.m3u8
+https://sports.tv247us.com/hls/b1796.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Dallas Stars vs. Pittsburgh Penguins
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nba-logo.png" group-title="NBA",Minnesota Timberwolves vs. Portland Trail Blazers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/b63a7.m3u8
+https://sports.tv247us.com/hls/941cc.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",San Jose Sharks vs. Philadelphia Flyers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Winnipeg Jets vs. New York Rangers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/46b69.m3u8
+https://sports.tv247us.com/hls/39f05.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Los Angeles Kings vs. Calgary Flames
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Ottawa Senators vs. Toronto Maple Leafs
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/68395.m3u8
+https://sports.tv247us.com/hls/a5ceb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Nashville Predators vs. Colorado Avalanche
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",New Jersey Devils vs. Florida Panthers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/03240.m3u8
+https://sports.tv247us.com/hls/8efc5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Carolina Hurricanes vs. Vegas Golden Knights
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Boston Bruins vs. St Louis Blues
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/cc916.m3u8
+https://sports.tv247us.com/hls/a645c.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",LIU Sharks vs. Air Force Falcons
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",New York Islanders vs. Edmonton Oilers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/43ab7.m3u8
+https://sports.tv247us.com/hls/09c2b.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Youngstown St Penguins vs. Ohio State Buckeyes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Calgary Flames vs. Vancouver Canucks
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/08966.m3u8
+https://sports.tv247us.com/hls/25cd1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Stetson Hatters vs. The Citadel Bulldogs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/nhl-logo.png" group-title="NHL",Columbus Blue Jackets vs. Seattle Kraken
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/c324d.m3u8
+https://sports.tv247us.com/hls/5f92b.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Tenn-Martin Skyhawks vs. North Alabama Lions
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/ncaaf-logo.png" group-title="NCAAF",Ball State Cardinals vs. Buffalo Bulls
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/8f9a9.m3u8
+https://sports.tv247us.com/hls/15148.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Winthrop Eagles vs. Virginia Tech Hokies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/ncaaf-logo.png" group-title="NCAAF",Western Michigan Broncos vs. Bowling Green Falcons
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/3175e.m3u8
+https://sports.tv247us.com/hls/dbab5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Saint Peter's Peacocks vs. Rutgers Scarlet Knights
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/ncaaf-logo.png" group-title="NCAAF",Central Michigan Chippewas vs. Toledo Rockets
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/066a9.m3u8
+https://sports.tv247us.com/hls/1a7b9.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Southern Indiana Screaming Eagles vs. Marshall Thundering Herd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Villanova Wildcats vs. Saint Joseph's Hawks
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/30ec4.m3u8
+https://sports.tv247us.com/hls/01f20.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Stony Brook Seawolves vs. George Mason Patriots
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Cornell Big Red vs. La Salle Explorers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/71642.m3u8
+https://sports.tv247us.com/hls/a9c81.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Gardner-Webb Bulldogs vs. Pittsburgh Panthers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Hampton Pirates vs. Providence Friars
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/5a758.m3u8
+https://sports.tv247us.com/hls/b6bae.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Jacksonville Dolphins vs. Furman Paladins
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Kansas Jayhawks vs. Michigan St Spartans
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/e12a2.m3u8
+https://sports.tv247us.com/hls/a21fc.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Florida A&M Rattlers vs. Maryland Terrapins
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",North Florida Ospreys vs. Georgia Bulldogs
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/5e368.m3u8
+https://sports.tv247us.com/hls/900fa.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Eastern Washington Eagles vs. Missouri Tigers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",UIC Flames vs. Northwestern Wildcats
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/40d1f.m3u8
+https://sports.tv247us.com/hls/0809d.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Coppin St Eagles vs. Virginia Cavaliers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",North Carolina Central Eagles vs. High Point Panthers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/f5c7a.m3u8
+https://sports.tv247us.com/hls/81205.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Western Michigan Broncos vs. Butler Bulldogs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",SIU-Edwardsville Cougars vs. Indiana St Sycamores
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/16d26.m3u8
+https://sports.tv247us.com/hls/51f08.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Buffalo Bulls vs. Notre Dame Fighting Irish
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Pennsylvania Quakers vs. Lafayette Leopards
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/4ab02.m3u8
+https://sports.tv247us.com/hls/99440.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",McNeese Cowboys vs. Alabama Crimson Tide
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Loyola (MD) Greyhounds vs. NJIT Highlanders
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/310a3.m3u8
+https://sports.tv247us.com/hls/342e6.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Grambling St Tigers vs. Florida Gators
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Maryland-Eastern Shore Hawks vs. Miami (OH) RedHawks
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/7de25.m3u8
+https://sports.tv247us.com/hls/bae72.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Alcorn St Braves vs. Tulane Green Wave
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Monmouth Hawks vs. Northern Illinois Huskies
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/d71bf.m3u8
+https://sports.tv247us.com/hls/34698.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",UMKC Kangaroos vs. Iowa State Cyclones
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Rider Broncs vs. Navy Midshipmen
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/55a21.m3u8
+https://sports.tv247us.com/hls/e9020.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",UNC Greensboro Spartans vs. SMU Mustangs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Norfolk St Spartans vs. William & Mary Tribe
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/72e5c.m3u8
+https://sports.tv247us.com/hls/2125a.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Yale Bulldogs vs. Purdue Boilermakers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Old Dominion Monarchs vs. Radford Highlanders
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/5d7a8.m3u8
+https://sports.tv247us.com/hls/ac126.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Northwestern St Demons vs. Oklahoma Sooners
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Towson Tigers vs. South Carolina Gamecocks
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/e2e92.m3u8
+https://sports.tv247us.com/hls/8a80a.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Lamar Cardinals vs. Texas A&M Aggies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",West Georgia Wolves vs. Tennessee Tech Golden Eagles
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/10294.m3u8
+https://sports.tv247us.com/hls/5a813.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Chattanooga Mocs vs. Austin Peay Governors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Tarleton State Texans vs. Florida St Seminoles
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/b1ec7.m3u8
+https://sports.tv247us.com/hls/5d804.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Central Michigan Chippewas vs. Marquette Golden Eagles
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",North Carolina A&T Aggies vs. GW Revolutionaries
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/8e45e.m3u8
+https://sports.tv247us.com/hls/81639.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Mercer Bears vs. DePaul Blue Demons
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",American Eagles vs. Siena Saints
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/66229.m3u8
+https://sports.tv247us.com/hls/37871.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",North Dakota St Bison vs. CSU Bakersfield Roadrunners
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Arkansas-Pine Bluff Golden Lions vs. South Florida Bulls
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/53f91.m3u8
+https://sports.tv247us.com/hls/c3347.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Idaho Vandals vs. Washington St Cougars
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Bethune-Cookman Wildcats vs. Fort Wayne Mastodons
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/65499.m3u8
+https://sports.tv247us.com/hls/975a7.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Boston Univ. Terriers vs. UCLA Bruins
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Binghamton Bearcats vs. Fordham Rams
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://sports.tv247us.com/hls/5a27e.m3u8
+https://sports.tv247us.com/hls/eb408.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TBS-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",TBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Eastern Kentucky Colonels vs. Clemson Tigers
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/tbs.m3u8
+https://sports.tv247us.com/hls/431cb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/bet.png?fit=240%2C160" group-title="CHANNELS",BET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Colgate Raiders vs. Syracuse Orange
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/bet.m3u8
+https://sports.tv247us.com/hls/fb096.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/06/Tennis-channel.png?fit=240%2C160" group-title="CHANNELS",Tennis Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Lehigh Mountain Hawks vs. Columbia Lions
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/tenis.m3u8
+https://sports.tv247us.com/hls/c690b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Sec-network.png?fit=240%2C160" group-title="CHANNELS",SEC Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Delaware Blue Hens vs. Iona Gaels
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/sec.m3u8
+https://sports.tv247us.com/hls/68596.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/07/VH1.png?fit=240%2C160" group-title="CHANNELS",VH1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Drexel Dragons vs. Temple Owls
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/vh1.m3u8
+https://sports.tv247us.com/hls/2bde0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/eqanuc-1.png?fit=320%2C240" group-title="CHANNELS",PBS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Fairfield Stags vs. New Hampshire Wildcats
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/pbs.m3u8
+https://sports.tv247us.com/hls/fded2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Florida Atlantic Owls vs. UCF Knights
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/6b198.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Texas Southern Tigers vs. Georgia Tech Yellow Jackets
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/6b221.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",SE Louisiana Lions vs. Mississippi St Bulldogs
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/3e00c.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Texas State Bobcats vs. TCU Horned Frogs
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/c6b67.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",UL Monroe Warhawks vs. Rice Owls
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/ddd9d.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",South Alabama Jaguars vs. Ole Miss Rebels
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/acbf1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",UTSA Roadrunners vs. Bradley Braves
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/b9b28.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Prairie View Panthers vs. Incarnate Word Cardinals
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/f5d5a.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Ohio Bobcats vs. Illinois St Redbirds
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/83acc.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Cleveland St Vikings vs. Valparaiso Beacons
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/91711.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Chicago St Cougars vs. Texas Longhorns
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/b1dcf.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Belmont Bruins vs. Lipscomb Bisons
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/1279d.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Sam Houston St Bearkats vs. Baylor Bears
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/24189.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Arkansas-Little Rock Trojans vs. Arkansas St Red Wolves
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/054c7.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Jackson St Tigers vs. Xavier Musketeers
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/6e320.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",South Dakota Coyotes vs. Iowa Hawkeyes
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/9c393.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Queens University Royals vs. Utah Utes
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/f7a07.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Kentucky Wildcats vs. Duke Blue Devils
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/97da1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Akron Zips vs. Saint Mary's Gaels
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/a02f7.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",UC Riverside Highlanders vs. Cal Baptist Lancers
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/4189c.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Northern Arizona Lumberjacks vs. Stanford Cardinal
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/b0c3c.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Portland St Vikings vs. San Diego Toreros
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/d887a.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Sacramento St Hornets vs. UC San Diego Tritons
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/48f59.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/steinxborg/iptvs/main/imgs/unknown-logo.png" group-title="NCAAB",Portland Pilots vs. Oregon Ducks
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sports.tv247us.com/hls/19cd0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/AE-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",A&E
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/ae.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/Hallmark-Channel-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Hallmark
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -288,107 +438,11 @@ https://live.tv247us.com/hls/pbs.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/hallmark.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/TNT-US.png?fit=240%2C160" group-title="CHANNELS",TNT
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/06/Tennis-channel.png?fit=240%2C160" group-title="CHANNELS",Tennis Channel
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/tnt.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Oxygen-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Oxygen
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/oxygen.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/NASA-TV-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Nasa
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/nasa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2020/07/xdqukd.png?fit=320%2C240" group-title="CHANNELS",MAVTV
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/mavtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/Cartoon-Network.png?fit=240%2C160" group-title="CHANNELS",Cartoon Network
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/cn.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/travel-channel-free-live-stream-1.png?fit=240%2C160" group-title="CHANNELS",Travel Channel
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/travel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/History.png?fit=240%2C160" group-title="CHANNELS",History (American TV network)
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/history.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/discovery-channel.png?fit=240%2C160" group-title="CHANNELS",Discovery Channel
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/discovery.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN.png?fit=240%2C160" group-title="CHANNELS",ESPN US
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/e1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/Comedy-Central-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Comedy Central
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/comedy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Animal-Planet.png?fit=240%2C160" group-title="CHANNELS",Animal Planet
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/animalplanet.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/FS1.png?fit=240%2C160" group-title="CHANNELS",Fox Sports 1
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/fs1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/accn.png?fit=240%2C160" group-title="CHANNELS",ACC Network
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/acc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/MTV.png?fit=240%2C160" group-title="CHANNELS",MTV
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/mtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Bravo
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/bravo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png?fit=240%2C160" group-title="CHANNELS",Disney XD
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/disneyxd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Univision-free-live-stream-tv274_us.png?fit=240%2C160" group-title="CHANNELS",Univision
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/univision.m3u8
+https://live.tv247us.com/hls/tenis.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/12/amc-free-online.png?fit=240%2C160" group-title="CHANNELS",AMC
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -396,23 +450,83 @@ https://live.tv247us.com/hls/univision.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/amc.m3u8
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2024/10/The_Weather_Channel_logo_2005-present.svg_.png?fit=150%2C151" group-title="CHANNELS",The Weather Channel
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/weather.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2023/02/trutv-free-live-stream-tv247-us.png?fit=240%2C160" group-title="CHANNELS",TruTV
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/trutv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/eqanuc-1.png?fit=320%2C240" group-title="CHANNELS",PBS
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/pbs.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/HALLMARK-MOVIES-MYSTERIES-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Hallmark Movies & Mysteries TV
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/hallmarkmm.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/BBC.png?fit=240%2C160" group-title="CHANNELS",BBC America
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/TNT-US.png?fit=240%2C160" group-title="CHANNELS",TNT
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/bbca.m3u8
+https://live.tv247us.com/hls/tnt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/espnU.png?fit=240%2C160" group-title="CHANNELS",ESPN U
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/NASA-TV-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Nasa
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/espnu.m3u8
+https://live.tv247us.com/hls/nasa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/History.png?fit=240%2C160" group-title="CHANNELS",History (American TV network)
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/history.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Univision-free-live-stream-tv274_us.png?fit=240%2C160" group-title="CHANNELS",Univision
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/univision.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/Oxygen-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Oxygen
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/oxygen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Channel.png?fit=240%2C160" group-title="CHANNELS",Disney Channel
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/disney.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/Comedy-Central-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Comedy Central
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/comedy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/07/VH1.png?fit=240%2C160" group-title="CHANNELS",VH1
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/vh1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/MTV.png?fit=240%2C160" group-title="CHANNELS",MTV
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/mtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/12/CNN.png?fit=240%2C160" group-title="CHANNELS",CNN
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -420,17 +534,113 @@ https://live.tv247us.com/hls/espnu.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/cnn.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NHL-network.png?fit=240%2C160" group-title="CHANNELS",NHL Network
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/07/Cartoon-Network.png?fit=240%2C160" group-title="CHANNELS",Cartoon Network
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/nhl.m3u8
+https://live.tv247us.com/hls/cn.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/National-Geographic.png?fit=240%2C160" group-title="CHANNELS",National Geographic
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/bet.png?fit=240%2C160" group-title="CHANNELS",BET
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/national.m3u8
+https://live.tv247us.com/hls/bet.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2020/07/xdqukd.png?fit=320%2C240" group-title="CHANNELS",MAVTV
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/mavtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/Bravo-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Bravo
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/bravo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/MSNBC.png?fit=240%2C160" group-title="CHANNELS",MSNBC
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/msnbc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/discovery-channel.png?fit=240%2C160" group-title="CHANNELS",Discovery Channel
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/espnU.png?fit=240%2C160" group-title="CHANNELS",ESPN U
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/espnu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/ESPNEWS.png?fit=240%2C160" group-title="CHANNELS",ESPNews
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/esnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/07/FS1.png?fit=240%2C160" group-title="CHANNELS",Fox Sports 1
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/fs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-2.png?fit=240%2C160" group-title="CHANNELS",ESPN 2
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/e2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/CBS.png?fit=240%2C160" group-title="CHANNELS",CBS
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/cbs.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/accn.png?fit=240%2C160" group-title="CHANNELS",ACC Network
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/acc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN.png?fit=240%2C160" group-title="CHANNELS",ESPN US
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-XD.png?fit=240%2C160" group-title="CHANNELS",Disney XD
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/disneyxd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TLC-Free-Stream-Online.png?fit=240%2C160" group-title="CHANNELS",TLC
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Junior.png?fit=240%2C160" group-title="CHANNELS",Disney Junior
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/BBC.png?fit=240%2C160" group-title="CHANNELS",BBC America
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/bbca.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Fox-news.png?fit=240%2C160" group-title="CHANNELS",Fox News
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/fn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2021/02/foot-network-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",Food Network
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -444,59 +654,23 @@ https://live.tv247us.com/hls/footnw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/abc.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Fox-news.png?fit=240%2C160" group-title="CHANNELS",Fox News
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/Syfy.png?fit=240%2C160" group-title="CHANNELS",Syfy
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/fn.m3u8
+https://live.tv247us.com/hls/syfy.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TLC-Free-Stream-Online.png?fit=240%2C160" group-title="CHANNELS",TLC
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/Animal-Planet.png?fit=240%2C160" group-title="CHANNELS",Animal Planet
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/tlc.m3u8
+https://live.tv247us.com/hls/animalplanet.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Channel.png?fit=240%2C160" group-title="CHANNELS",Disney Channel
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NHL-network.png?fit=240%2C160" group-title="CHANNELS",NHL Network
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/disney.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/ESPNEWS.png?fit=240%2C160" group-title="CHANNELS",ESPNews
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/esnews.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Disney-Junior.png?fit=240%2C160" group-title="CHANNELS",Disney Junior
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/disneyjunior.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/FreeForm.png?fit=240%2C160" group-title="CHANNELS",Freeform
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/freeform.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/MSNBC.png?fit=240%2C160" group-title="CHANNELS",MSNBC
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/msnbc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2023/02/trutv-free-live-stream-tv247-us.png?fit=240%2C160" group-title="CHANNELS",TruTV
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/trutv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-2.png?fit=240%2C160" group-title="CHANNELS",ESPN 2
-#EXTVLCOPT:http-origin=https://tv247.us
-#EXTVLCOPT:http-referrer=https://tv247.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/e2.m3u8
+https://live.tv247us.com/hls/nhl.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/USA-NETWORK-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",Usa Network
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -504,11 +678,11 @@ https://live.tv247us.com/hls/e2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/usanw.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/THE-CW-FREE-LIVE-STREAM-TV247-US.png?fit=240%2C160" group-title="CHANNELS",The CW
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2020/01/National-Geographic.png?fit=240%2C160" group-title="CHANNELS",National Geographic
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/cw.m3u8
+https://live.tv247us.com/hls/national.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/08/NFL-network.png?fit=240%2C160" group-title="CHANNELS",NFL Network
 #EXTVLCOPT:http-origin=https://tv247.us
@@ -516,17 +690,23 @@ https://live.tv247us.com/hls/cw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://live.tv247us.com/hls/nfl.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2020/01/Syfy.png?fit=240%2C160" group-title="CHANNELS",Syfy
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2021/02/travel-channel-free-live-stream-1.png?fit=240%2C160" group-title="CHANNELS",Travel Channel
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/syfy.m3u8
+https://live.tv247us.com/hls/travel.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2020/01/CBS.png?fit=240%2C160" group-title="CHANNELS",CBS
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tv247.us/wp-content/uploads/2019/11/Sec-network.png?fit=240%2C160" group-title="CHANNELS",SEC Network
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://live.tv247us.com/hls/cbs.m3u8
+https://live.tv247us.com/hls/sec.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tv247.us/wp-content/uploads/2021/02/TBS-free-live-stream.png?fit=240%2C160" group-title="CHANNELS",TBS
+#EXTVLCOPT:http-origin=https://tv247.us
+#EXTVLCOPT:http-referrer=https://tv247.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://live.tv247us.com/hls/tbs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tv247.us/wp-content/uploads/2019/11/ESPN-3.png?fit=240%2C160" group-title="CHANNELS",ESPN3
 #EXTVLCOPT:http-origin=https://tv247.us
