@@ -1590,7 +1590,13 @@ https://xyzdddd.mizhls.ru/lb/premium2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://xyzdddd.mizhls.ru/lb/premium754/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Atlanta Hawks (08:00AM Tuesday Nov 12th) [BALLY SPORTS SOUTHEAST (CH-904) } ARENA SPORT 1 CROATIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Atlanta Hawks (08:00AM Tuesday Nov 12th) [BALLY SPORTS SOUTHEAST]
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://xyzdddd.mizhls.ru/lb/premium904/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/main/imgs/nba-logo.png" group-title="BASKETBALL",NBA : Boston Celtics vs Atlanta Hawks (08:00AM Tuesday Nov 12th) [ARENA SPORT 1 CROATIA]
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
