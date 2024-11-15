@@ -72,4 +72,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/nhk-world-japan.png" ,NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/562b0413f28e57899e3542b71ae5443a/rokuFeed/assets/ad49a8fd5eef57ecbaa2ef6a17ab9de1.png/magic/fit-in/440x480",Alfred Hitchcock Presents
+http://178.128.71.163:9595/stream/testing/alfredhitchcockpresents/master.m3u8
+
 
