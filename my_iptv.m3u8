@@ -130,4 +130,93 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/562b0413f28e57899e3542b71ae5443a/rokuFeed/assets/ad49a8fd5eef57ecbaa2ef6a17ab9de1.png/magic/fit-in/440x480",Alfred Hitchcock Presents
 http://178.128.71.163:9595/stream/testing/alfredhitchcockpresents/master.m3u8
 
+#EXTINF:-1,AMERICAN DAD (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44260
+
+#EXTINF:-1,SIMPSONS (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44449
+
+#EXTINF:-1,FAMILY GUY (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44321
+
+#EXTINF:-1,LOONEY TUNES (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44387
+
+#EXTINF:-1,FUTURAMA (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44332
+
+#EXTINF:-1,IMPRACTICAL JOKERS (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44363
+
+#EXTINF:-1,BOBS BURGERS (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44280
+
+#EXTINF:-1,FLINTSTONES (Stream 1)
+http://vp-txpro.com:80/247-line/bhMp8EmJYASG/44325
+
+#EXTINF:-1,FAMILY GUY (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/familyguy.m3u8
+
+#EXTINF:-1,SOUTHPARK (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/southpark.m3u8
+
+#EXTINF:-1,BOB BURGERS (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/bobsburgers.m3u8
+
+#EXTINF:-1,KING OF THE HILL (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/kinghillhxd.m3u8
+
+#EXTINF:-1,FUTURAMA (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/xfuturama.m3u8
+
+#EXTINF:-1,AMERICAN DAD (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/americanxxx.m3u8
+
+#EXTINF:-1,SIMPSONS (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/simpsons.m3u8
+
+#EXTINF:-1,ARCHER (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/archerxhd.m3u8
+
+#EXTINF:-1,THE CLEVELAND SHOW (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/xxcleveland.m3u8
+
+#EXTINF:-1,AQUA TEEN (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/aquasx.m3u8
+
+#EXTINF:-1,ADVENTURE TIME (Stream 2)
+#EXTVLCOPT:http-origin=https://www.stream4free.tv
+#EXTVLCOPT:http-referrer=https://www.stream4free.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sv0.data-stream.top/2de70ca028234dcab69967b919f4a8f41921d245b968113af8dbbdb8b08d063c/hls/adventure.m3u8
 
