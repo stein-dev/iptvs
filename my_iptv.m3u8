@@ -30,14 +30,51 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="Myx" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/myx.png" ,MYX Philippines
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Live TV (MoveOnJoy)" streamId="81" channel-number="81",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/boomerang.png" tvg-id="Boomerang.us",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/4f7260990c11b3910c2b43a7dc1a7694.png" group-title="UK",Boomerang (Stream 1)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/353/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/4f7260990c11b3910c2b43a7dc1a7694.png" group-title="UK",Boomerang (Stream 4)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1467/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/325.png" group-title="US",HBO SIGNATURE (Stream 1)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1301/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/324.png" group-title="US",HBO FAMILY EAST (Stream 1)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1305/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/322.png" group-title="CA",HBO 2 (Stream 2)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1309/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cartoon-network.png" ,Cartoon Network SEA
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cartoonnetwork.png", Cartoon Network USA
 http://streamsy.online:2999/live/juanv/04bodwaga0/199.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/f4ee880efecc2432d67c1ac8fccf1b71.png" group-title="CA",Cartoon Network (Stream 5)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/1463/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nickelodeon.png", Nickelodeon 
 http://streamsy.online:2999/live/juanv/04bodwaga0/327.m3u8
@@ -56,6 +93,24 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cnn.png" ,CNN FHD
 http://fl2.moveonjoy.com/CNN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/iptv/light/2295.png" group-title="UK",CNBC (Stream 1)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/11505/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/83bf834db701aa889037e44f76e7fbcb.png" group-title="UK",TNT Sport 2 (Stream 1)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/556/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/b563dabda8ca27a999190ce8cf570535.png" group-title="UK",Channel 4 (Stream 1)
+#EXTVLCOPT:http-origin=https://live-streamfootball.com
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://livecdn-iptv001.rumsport.com/livetv2/550/index.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/bloomberg.png" ,Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
