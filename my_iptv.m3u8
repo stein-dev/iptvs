@@ -20,31 +20,31 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/4f7260990c11b3910c2b43a7dc1a7694.png" group-title="UK",Boomerang (Stream 1)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/4f7260990c11b3910c2b43a7dc1a7694.png",Boomerang (Stream 1)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://livecdn-iptv001.rumsport.com/livetv2/353/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/4f7260990c11b3910c2b43a7dc1a7694.png" group-title="UK",Boomerang (Stream 4)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/4f7260990c11b3910c2b43a7dc1a7694.png",Boomerang (Stream 4)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://livecdn-iptv001.rumsport.com/livetv2/1467/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/325.png" group-title="US",HBO SIGNATURE (Stream 1)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/325.png",HBO SIGNATURE (Stream 1)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://livecdn-iptv001.rumsport.com/livetv2/1301/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/324.png" group-title="US",HBO FAMILY EAST (Stream 1)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/324.png",HBO FAMILY EAST (Stream 1)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://livecdn-iptv001.rumsport.com/livetv2/1305/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/322.png" group-title="CA",HBO 2 (Stream 2)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/light/322.png",HBO 2 (Stream 2)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -56,7 +56,7 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cartoonnetwork.png", Cartoon Network USA
 http://streamsy.online:2999/live/juanv/04bodwaga0/199.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/f4ee880efecc2432d67c1ac8fccf1b71.png" group-title="CA",Cartoon Network (Stream 5)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/f4ee880efecc2432d67c1ac8fccf1b71.png",Cartoon Network (Stream 5)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -95,19 +95,19 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cnn.png" ,CNN FHD
 http://fl2.moveonjoy.com/CNN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/iptv/light/2295.png" group-title="UK",CNBC (Stream 1)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/iptv/light/2295.png",CNBC (Stream 1)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://livecdn-iptv001.rumsport.com/livetv2/11505/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/83bf834db701aa889037e44f76e7fbcb.png" group-title="UK",TNT Sport 2 (Stream 1)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/83bf834db701aa889037e44f76e7fbcb.png",TNT Sport 2 (Stream 1)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://livecdn-iptv001.rumsport.com/livetv2/556/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/b563dabda8ca27a999190ce8cf570535.png" group-title="UK",Channel 4 (Stream 1)
+#EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/b563dabda8ca27a999190ce8cf570535.png",Channel 4 (Stream 1)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -715,7 +715,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",ASTRO AXN HD
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",ASTRO AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-origin=https://astrogo.astro.com.my
@@ -723,7 +723,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="Entertainment",ASTRO AXN_B
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",ASTRO AXN_B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
 #EXTVLCOPT:http-origin=https://astrogo.astro.com.my
@@ -970,31 +970,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 # TNT   # 
 #########
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 1 UK
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 1 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 2 UK
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 2 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 3 UK
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 3 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 4 UK
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 4 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="Sport Europe",TNT Sports 5 UK
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 5 UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
@@ -1029,19 +1029,19 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png" group-title="MPD SPORT", ~GO3 Sport OPEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png",GO3 Sport OPEN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fQSmk0y/go3sport1.png", ~GO3 Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fQSmk0y/go3sport1.png",GO3 Sport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vZ3pSq8/go3sport2.png" group-title="MPD SPORT",GO3 Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vZ3pSq8/go3sport2.png",GO3 Sport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
@@ -1078,11 +1078,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/4zkafrcxji/o
 # indihometv     # 
 ##################
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD_B
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="Sports" tvg-id="SPOTV2" tvg-name="SPOTV2",SPOTV2 HD_B
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",SPOTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
