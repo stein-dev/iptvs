@@ -1,14 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="ANC" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/anc-logo.png",ANC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/anc-logo.png",ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/teleradyo.png" ,TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cinemo-logo.png" ,CINEMO!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cinemo-logo.png" ,CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cinemo-logo.png",CINEMO! Global
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
 
 #EXTINF:-1 tvg-id="CINEMA ONE" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cinema-one-logo.png" ,CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
