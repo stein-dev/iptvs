@@ -129,6 +129,18 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
+############
+# IWANTTFC # 
+############
+
+#EXTINF:-1 tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/hRNc5Vh437Zf83AyK3rq0w.jpg",IWANTTFC Kapamilya Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
+#EXTVLCOPT:http-origin=https://www.iwanttfc.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+
 ########## 
 # CIGNAL # 
 ##########
