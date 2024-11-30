@@ -141,6 +141,23 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
+#EXTINF:-1 tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/26GsMctP5Go6kCWc-0IZ1Q.jpg",IWANTTFC Teleradyo Serbisyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
+#EXTVLCOPT:http-origin=https://www.iwanttfc.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-logo="https://absprod-static.iwanttfc.com/c/6/images/INWqpxufn2fd3NS2v1aBdg.jpg",IWANTTFC MYX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
+#EXTVLCOPT:http-origin=https://www.iwanttfc.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
+https://absvod.akamaized.net/c/2/m/d285c95e-5922-11ee-8b19-f2c3760fffee.ism/manifest.1920x1080.mpd
+
+
 ########## 
 # CIGNAL # 
 ##########
