@@ -95,6 +95,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/stein-dev/iptvs/refs/heads/main/imgs/cnn.png" ,CNN FHD
 http://fl2.moveonjoy.com/CNN/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yahoo%21_Finance_logo_2021.png/800px-Yahoo%21_Finance_logo_2021.png",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.balo.live/static/common/img/tv-channel/iptv/light/2295.png",CNBC (Stream 1)
 #EXTVLCOPT:http-origin=https://live-streamfootball.com
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
