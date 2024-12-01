@@ -465,20 +465,355 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 
-
-
+##################
+# ngslbs         # 
+##################
 
 #EXTINF:-1,TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/L9jF0ln.png",TNT Sports 2
+#EXTINF:-1,TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://gcp-dash.ngslbs.com/TVD002/index.mpd
 
-#EXTINF:-1 tvg-logo="https://imgur.com/L9jF0ln.png",Boomerang
+#EXTINF:-1,TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD003/index.mpd
+
+#EXTINF:-1,TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD004/index.mpd
+
+#EXTINF:-1,E4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD013/index.mpd
+
+#EXTINF:-1,Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD014/index.mpd
+
+#EXTINF:-1,SkySp Action HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD015/index.mpd
+
+#EXTINF:-1,SkySp Golf HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD016/index.mpd
+
+#EXTINF:-1,SkySp F&apos;ball HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD017/index.mpd
+
+#EXTINF:-1,SkySp News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD018/index.mpd
+
+#EXTINF:-1,Sky Nature HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD019/index.mpd
+
+#EXTINF:-1,SkyShowcaseHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD020/index.mpd
+
+#EXTINF:-1,Sky News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD021/index.mpd
+
+#EXTINF:-1,SkySp Mix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD022/index.mpd
+
+#EXTINF:-1,SkySp F1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD023/index.mpd
+
+#EXTINF:-1,SkySpCricket HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD024/index.mpd
+
+#EXTINF:-1,Sky Comedy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD025/index.mpd
+
+#EXTINF:-1,Sky Crime HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD026/index.mpd
+
+#EXTINF:-1,Sky Documentaries HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD027/index.mpd
+
+#EXTINF:-1,U&amp;Dave HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD029/index.mpd
+
+#EXTINF:-1,Utsav Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD030/index.mpd
+
+#EXTINF:-1,W HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD033/index.mpd
+
+#EXTINF:-1,Cartoon Net HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD035/index.mpd
+
+#EXTINF:-1,Boomerang HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://gcp-dash.ngslbs.com/TVD037/index.mpd
+
+#EXTINF:-1,Sky Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD039/index.mpd
+
+#EXTINF:-1,Sky Witness HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD040/index.mpd
+
+#EXTINF:-1,SkySp Racing HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD041/index.mpd
+
+#EXTINF:-1,Sky Arts HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD042/index.mpd
+
+#EXTINF:-1,SkySp MainEv HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD043/index.mpd
+
+#EXTINF:-1,Utsav Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD044/index.mpd
+
+#EXTINF:-1,NatGeoWild HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD045/index.mpd
+
+#EXTINF:-1,Sky HistoryHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD046/index.mpd
+
+#EXTINF:-1,Crime+Inv HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD047/index.mpd
+
+#EXTINF:-1,SONY TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD048/index.mpd
+
+#EXTINF:-1,YESTERDAY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD050/index.mpd
+
+#EXTINF:-1,More4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD051/index.mpd
+
+#EXTINF:-1,Film4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD052/index.mpd
+
+#EXTINF:-1,SkySp PL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD053/index.mpd
+
+#EXTINF:-1,Discovery HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD054/index.mpd
+
+#EXTINF:-1,Sky Greats HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD056/index.mpd
+
+#EXTINF:-1,SkyChristmasHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD057/index.mpd
+
+#EXTINF:-1,Sky Action HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD059/index.mpd
+
+#EXTINF:-1,Sky Family HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD060/index.mpd
+
+#EXTINF:-1,Sky Thriller HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD062/index.mpd
+
+#EXTINF:-1,SkyAnimationHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD063/index.mpd
+
+#EXTINF:-1,NickelodeonHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD064/index.mpd
+
+#EXTINF:-1,alibi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD065/index.mpd
+
+#EXTINF:-1,GOLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD066/index.mpd
+
+#EXTINF:-1,Sky Sport F1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD201/index.mpd
+
+#EXTINF:-1,Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD202/index.mpd
+
+#EXTINF:-1,Beate Uhse TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD203/index.mpd
+
+#EXTINF:-1,Heimatkanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD205/index.mpd
+
+#EXTINF:-1,Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD206/index.mpd
+
+#EXTINF:-1,Sky Sport Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD207/index.mpd
+
+#EXTINF:-1,Sky 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD208/index.mpd
+
+#EXTINF:-1,Crime + Investigation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD209/index.mpd
+
+#EXTINF:-1,Romance TV Deu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD210/index.mpd
+
+#EXTINF:-1,DAZN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD212/index.mpd
+
+#EXTINF:-1,Sky Crime HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD213/index.mpd
+
+#EXTINF:-1,Sky Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD214/index.mpd
+
+#EXTINF:-1,Sky Sport Top Event HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD215/index.mpd
+
+#EXTINF:-1,Discovery HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD216/index.mpd
+
+#EXTINF:-1,Sky Cinema Premieren
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD217/index.mpd
+
+#EXTINF:-1,Nicktoons Germany
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD219/index.mpd
+
+#EXTINF:-1,Sky Atlantic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD221/index.mpd
+
+#EXTINF:-1,Sky Cinema Highlights
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD222/index.mpd
+
+#EXTINF:-1,Sky Documentaries HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD223/index.mpd
+
+#EXTINF:-1,Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD224/index.mpd
+
+#EXTINF:-1,13th Street HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD225/index.mpd
+
+#EXTINF:-1,Sky Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD227/index.mpd
+
+#EXTINF:-1,Warner TV Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD228/index.mpd
+
+#EXTINF:-1,Sky Sport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD229/index.mpd
+
+#EXTINF:-1,DAZN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD232/index.mpd
+
+#EXTINF:-1,Sky Sport Austria HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD233/index.mpd
+
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD235/index.mpd
+
+#EXTINF:-1,Sky Cinema Best Of
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD236/index.mpd
+
+#EXTINF:-1,Sky Sport News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD237/index.mpd
+
+#EXTINF:-1,Sky Replay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD238/index.mpd
+
+#EXTINF:-1,Syfy Deutschland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD239/index.mpd
+
+#EXTINF:-1,History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD240/index.mpd
+
+#EXTINF:-1,Warner TV Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD242/index.mpd
+
+#EXTINF:-1,Sky Showcase
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD243/index.mpd
+
+#EXTINF:-1,Motorvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD244/index.mpd
+
+#EXTINF:-1,Jukebox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD245/index.mpd
+
+#EXTINF:-1,Cartoon Network Deutschland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD246/index.mpd
+
+#EXTINF:-1,Sky Sport Golf HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://gcp-dash.ngslbs.com/TVD247/index.mpd
+
+
 
 
 
